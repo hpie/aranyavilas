@@ -51,7 +51,7 @@
                             <div class="sample-thumb">
                                 <img src="images/about_2.jpg" alt="company" title="company">
                             </div> <!-- /.sample-thumb -->
-                            <h4 class="consult-title">Cum sociis natoque penatibus et magnis</h4>
+                            <h4 class="consult-title">Reach your favorite destination</h4>
                             <p>BY AIR/ BY TRAIN (Flight or Shatabdi Train can be booked for Chandigarh or Kalka) 
 Chandigarh &ndash; Shoghi (By cab or Bus takes around 2.5 hrs.) </p>
 							<p>BY TOY TRAIN (Kalka-Shoghi) Enjoy your ride by Toy Train from Kalka to Shoghi (approximate 76 kms.) and we will be happy to provide you complimentary pick up/ drop for Shoghi Railway Station. </p>

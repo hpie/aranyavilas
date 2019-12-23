@@ -34,101 +34,112 @@
 							
                             <div class="post-small">
                                 <div class="post-date">
-                                    <span class="time">1</span>
+                                    <span class="time fa fa-cog"></span>
                                     <span></span>
                                 </div> <!-- /.post-thumb -->
                                 <div class="post-content">
                                     <h4><a href="#"></a></h4>
                                     <span>Parking within Premises</span>
-                                    <!--<p>Aenean laoreet ornare purus. Nunc condimentum augue sed massa iaculis, vel blandit sapien consectetur.</p>-->
+                                    <p>Our property is Drive in with Free Valet Parking facility</p>
                                 </div> <!-- /.post-content -->
                             </div> <!-- /.post-small -->
                             <div class="post-small">
                                 <div class="post-date">
-                                    <span class="time">2</span>
+                                    <span class="time fa fa-cog"></span>
                                     <span></span>
                                 </div> <!-- /.post-thumb -->
                                 <div class="post-content">
                                     <h4><a href="#"></a></h4>
                                     <span>Elevator Service for every room</span>
-                                    <!--<p>Aenean laoreet ornare purus. Nunc condimentum augue sed massa iaculis, vel blandit sapien consectetur.</p>-->
+                                    <p>For utmost convenience we are offering this service which is rare to be find in Shimla hotels</p>
                                 </div> <!-- /.post-content -->
                             </div> <!-- /.post-small -->
                                 <div class="post-small">
                                 <div class="post-date">
-                                    <span class="time">3</span>
+                                    <span class="time fa fa-cog"></span>
                                     <span></span>
                                 </div> <!-- /.post-thumb -->
                                 <div class="post-content">
                                     <h4><a href="#"></a></h4>
                                     <span>Travel Desk</span>
-                                    <!--<p>Aenean laoreet ornare purus. Nunc condimentum augue sed massa iaculis, vel blandit sapien consectetur.</p>-->
+                                    <p>We being the local people would love to guide you and provide accurate information to make your itinerary perfect </p>
                                 </div> <!-- /.post-content -->
                             </div> <!-- /.post-small -->
 							<div class="post-small">
                                 <div class="post-date">
-                                    <span class="time">4</span>
+                                    <span class="time fa fa-cog"></span>
                                     <span></span>
                                 </div> <!-- /.post-thumb -->
                                 <div class="post-content">
                                     <h4><a href="#"></a></h4>
                                     <span>Car Rental</span>
-                                    <!--<p>Aenean laoreet ornare purus. Nunc condimentum augue sed massa iaculis, vel blandit sapien consectetur.</p>-->
+                                    <p>We have a tie-up with best of professional local drivers who will act as a guide too and vehicles in good condition</p>
                                 </div> <!-- /.post-content -->
                             </div> <!-- /.post-small -->
 							<div class="post-small">
                                 <div class="post-date">
-                                    <span class="time">5</span>
+                                    <span class="time fa fa-cog"></span>
                                     <span></span>
                                 </div> <!-- /.post-thumb -->
                                 <div class="post-content">
                                     <h4><a href="#"></a></h4>
                                     <span>Guided Trekking day tour</span>
-                                    <!--<p>Aenean laoreet ornare purus. Nunc condimentum augue sed massa iaculis, vel blandit sapien consectetur.</p>-->
+                                    <p>These tours can be arranged in Summer months when you can fully enjoy the pleasant weather and full day excursions with packed lunch</p>
                                 </div> <!-- /.post-content -->
                             </div> <!-- /.post-small -->
 							<div class="post-small">
                                 <div class="post-date">
-                                    <span class="time">6</span>
+                                    <span class="time fa fa-cog"></span>
                                     <span></span>
                                 </div> <!-- /.post-thumb -->
                                 <div class="post-content">
                                     <h4><a href="#"></a></h4>
                                     <span>Valley View / Sunrise View Room</span>
-                                    <!--<p>Aenean laoreet ornare purus. Nunc condimentum augue sed massa iaculis, vel blandit sapien consectetur.</p>-->
+                                    <p>Main attractions of the rooms are the wonderful bay windows overlooking the lush green valley with sunrise view right from your bed</p>
                                 </div> <!-- /.post-content -->
                             </div> <!-- /.post-small -->
 							<div class="post-small">
                                 <div class="post-date">
-                                    <span class="time">7</span>
+                                    <span class="time fa fa-cog"></span>
+                                    <span></span>
+                                </div> <!-- /.post-thumb -->
+                                <div class="post-content">
+                                    <h4><a href="#"></a></h4>
+                                    <span>Private Balcony Rooms </span>
+                                    <p>One can just sit and gaze at the awe-inspiring views of the entire valley while sipping a hot cup of coffee/tea in the morning</p>
+                                </div> <!-- /.post-content -->
+                            </div> <!-- /.post-small -->
+							<div class="post-small">
+                                <div class="post-date">
+                                    <span class="time fa fa-cog"></span>
                                     <span></span>
                                 </div> <!-- /.post-thumb -->
                                 <div class="post-content">
                                     <h4><a href="#"></a></h4>
                                     <span>LED TV</span>
-                                    <!--<p>Aenean laoreet ornare purus. Nunc condimentum augue sed massa iaculis, vel blandit sapien consectetur.</p>-->
+                                    <p>To keep you and your kids entertained when you just want to be in your room</p>
                                 </div> <!-- /.post-content -->
                             </div> <!-- /.post-small -->
 							<div class="post-small">
                                 <div class="post-date">
-                                    <span class="time">8</span>
+                                    <span class="time fa fa-cog"></span>
                                     <span></span>
                                 </div> <!-- /.post-thumb -->
                                 <div class="post-content">
                                     <h4><a href="#"></a></h4>
                                     <span>Bathroom Toiletries&apos;</span>
-                                    <!--<p>Aenean laoreet ornare purus. Nunc condimentum augue sed massa iaculis, vel blandit sapien consectetur.</p>-->
+                                    <p>Our bathrooms are fully equipped with important toiletries </p>
                                 </div> <!-- /.post-content -->
                             </div> <!-- /.post-small -->
 							<div class="post-small">
                                 <div class="post-date">
-                                    <span class="time">9</span>
+                                    <span class="time fa fa-cog"></span>
                                     <span></span>
                                 </div> <!-- /.post-thumb -->
                                 <div class="post-content">
                                     <h4><a href="#"></a></h4>
                                     <span>Intercom Facility</span>
-                                    <!--<p>Aenean laoreet ornare purus. Nunc condimentum augue sed massa iaculis, vel blandit sapien consectetur.</p>-->
+                                    <p>Our room service, housekeeping and laundry service is just a call away </p>
                                 </div> <!-- /.post-content -->
                             </div> <!-- /.post-small -->							
 							
@@ -139,10 +150,10 @@
                     <div class="col-md-4">
                         <div class="widget-item">
                             <h3 class="widget-title">ROOMS</h3>
-                            <div class="sample-thumb">
+                            <!--<div class="sample-thumb">
                                 <img src="images/accomodation-view.jpg" alt="">
-                            </div> <!-- /.sample-thumb -->
-                            <h4 class="consult-title">Property located in the heart of the city but yet peaceful</h4>
+                            </div>--> <!-- /.sample-thumb -->
+                            <!--<h4 class="consult-title">Property located in the heart of the city yet peaceful</h4>-->
                             <!--<p>Full Valley View.</p>-->
                         </div> <!-- /.widget-item -->
 						
@@ -177,6 +188,15 @@
                             <!--<h3 class="widget-title">ROOMS</h3>-->
                             <div class="sample-thumb">
                                 <img src="images/accomodation-room-blue.jpg" alt="">
+                            </div> <!-- /.sample-thumb -->
+                            <h4 class="consult-title">Sun Shade</h4>
+                            <p>Cozy nook.</p>
+                        </div> <!-- /.widget-item -->
+						
+						<div class="widget-item">
+                            <!--<h3 class="widget-title">ROOMS</h3>-->
+                            <div class="sample-thumb">
+                                <img src="images/accomodation-room-green.jpg" alt="">
                             </div> <!-- /.sample-thumb -->
                             <h4 class="consult-title">Sun Shade</h4>
                             <p>Cozy nook.</p>

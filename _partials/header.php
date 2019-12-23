@@ -15,6 +15,7 @@
                                 <ul class="visible-lg visible-md">
                                     <li><a href="index.php">Home</a></li>
                                     <li><a href="accomodation.php">Accomodation</a></li>
+									<li><a href="packages.php">Packages</a></li>-->
                                     <!--<li><a href="gallery.php">Gallery</a></li>-->
                                     <li><a href="about.php">About Us</a></li>
                                     <li><a href="contact.php">Contact</a></li>
@@ -30,11 +31,12 @@
                     <div class="col-md-12 visible-sm visible-xs">
                         <div id="menu-responsive" class="menu-responsive">
                             <ul>
-                                <li><a href="index.php">Home</a></li>
-                                <li><a href="accomodation.php">Accomodation</a></li>
-                                <li><a href="gallery.php">Gallery</a></li>
-                                <li><a href="about.php">About Us</a></li>
-                                <li><a href="contact.php">Contact</a></li>
+                               <li><a href="index.php">Home</a></li>
+							   <li><a href="accomodation.php">Accomodation</a></li>
+							   <li><a href="packages.php">Packages</a></li>-->
+							   <!--<li><a href="gallery.php">Gallery</a></li>-->
+							   <li><a href="about.php">About Us</a></li>
+							   <li><a href="contact.php">Contact</a></li>
                             </ul>
                         </div> <!-- /.menu-responsive -->
                     </div> <!-- /.col-md-12 -->
