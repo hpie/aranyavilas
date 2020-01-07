@@ -29,7 +29,9 @@
                 <div class="row">
                     <div class="col-md-7 col-sm-6 map-wrapper">
                         <h3 class="widget-title">Our Location</h3>
-                        <div class="map-holder"></div>
+                        <div class="map-holder">
+							<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6836.370912285496!2d77.1338280126947!3d31.048936308318588!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39057f1c6b6f29d9%3A0x9d47c13ac5ddfe51!2sAranyavilas!5e0!3m2!1sen!2sin!4v1578424531052!5m2!1sen!2sin" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+						</div>
                         <div class="contact-infos">
                             <ul>
                                 <li>Aranyavilas Shoghi</li>
@@ -85,7 +87,7 @@
         
         <!-- Google Map Init-->
         <script type="text/javascript">
-            jQuery(function($){
+            /*jQuery(function($){
                 $('.first-map, .map-holder').gmap3({
                     marker:{
                         address: '16.8496189,96.1288854' 
@@ -98,7 +100,7 @@
                         }
                     }
                 });
-            });
+            });*/
         </script>
         
     </body>
