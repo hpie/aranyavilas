@@ -34,7 +34,7 @@
                         <div class="widget-item">
                             <h3 class="widget-title">ARANYA VILAS</h3>
                             <div class="sample-thumb">
-                                <img src="images/about_1.jpg" alt="about us" title="about us">
+                                <img src="images/aranyavilas-property.jpg" alt="about us" title="about us">
                             </div> <!-- /.sample-thumb -->
                             <h4 class="consult-title">Check-in as Guest Check-out as F.R.I.E.N.D.S</h4>
                             <p>ARANYA VILAS nestled amidst nature in Shoghi, a small suburb of Shimla town, Himachal Pradesh - India.
@@ -49,7 +49,7 @@
                         <div class="widget-item">
                             <h3 class="widget-title">HOW TO REACH</h3>
                             <div class="sample-thumb">
-                                <img src="images/about_2.jpg" alt="company" title="company">
+                                <img src="images/rail-car-shimla.jpg" alt="company" title="company">
                             </div> <!-- /.sample-thumb -->
                             <h4 class="consult-title">Reach your favorite destination</h4>
                             <p>BY AIR/ BY TRAIN (Flight or Shatabdi Train can be booked for Chandigarh or Kalka) 
