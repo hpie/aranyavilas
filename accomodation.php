@@ -73,7 +73,7 @@
                                 <div class="post-content">
                                     <h4><a href="#"></a></h4>
                                     <span>Car Rental</span>
-                                    <p>We have a tie-up with best of professional local drivers who will act as a guide too and vehicles in good condition</p>
+                                    <p>We have a tie-up with best of professional drivers who will serve as a local guide with vehicles in good condition</p>
                                 </div> <!-- /.post-content -->
                             </div> <!-- /.post-small -->
 							<div class="post-small">
