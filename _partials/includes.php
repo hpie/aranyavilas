@@ -16,6 +16,7 @@
         <link rel="stylesheet" href="css/animate.css">
         <link rel="stylesheet" href="css/templatemo_misc.css">
         <link rel="stylesheet" href="css/templatemo_style.css">
+		<link rel="stylesheet" href="css/jquery.fancybox.min.css">
 
         <script src="js/vendor/modernizr-2.6.1-respond-1.1.0.min.js"></script>
     </head>

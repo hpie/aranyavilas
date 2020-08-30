@@ -36,11 +36,11 @@
             </div> <!-- /.container -->
         </div> <!-- /.site-footer -->
 
-        <script src="js/vendor/jquery-1.11.0.min.js"></script>
-        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.0.min.js"><\/script>')</script>
+        <script src="js/vendor/jquery-3.3.1.min.js"></script>
         <script src="js/bootstrap.js"></script>
-        <script src="js/plugins.js"></script>
-        <script src="js/main.js"></script>
+        <script src="js/min/plugins.min.js"></script>
+		<script src="js/jquery.fancybox.min.js"></script>
+        <script src="js/min/main.min.js"></script>
 		<script>
 			$(function(){
 			// this will get the full URL at the address bar
