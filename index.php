@@ -213,7 +213,7 @@
 
 <!-- Start Import Testimonials -->
 <?php
-	//include('_partials/testimonials.php'); // Testimonials and Feedback
+	include('_partials/testimonials.php'); // Testimonials and Feedback
 ?>
 <!-- End Import Testimonials -->
 
