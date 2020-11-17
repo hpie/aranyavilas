@@ -4,22 +4,22 @@
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
 
-<!-- Start Import Head -->
-<?php
-	include('_partials/includes.php'); // Includes Head Tags, Scripts and Libs
-?>
-<!-- End Import Head -->
+    <!-- Start Import Head -->
+    <?php
+    include('_partials/includes.php'); // Includes Head Tags, Scripts and Libs
+    ?>
+    <!-- End Import Head -->
 
     <body>
-   <!--[if lt IE 7]>
-            <p class="chromeframe">You are using an outdated browser. <a href="http://browsehappy.com/">Upgrade your browser today</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to better experience this site.</p>
-        <![endif]-->
+        <!--[if lt IE 7]>
+                 <p class="chromeframe">You are using an outdated browser. <a href="http://browsehappy.com/">Upgrade your browser today</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to better experience this site.</p>
+             <![endif]-->
 
-<!-- Start Import Header and Menu -->
-<?php
-	include('_partials/header.php'); // Includes Site Header and Menu
-?>
-<!-- End Import Header and Menu -->
+        <!-- Start Import Header and Menu -->
+        <?php
+        include('_partials/header.php'); // Includes Site Header and Menu
+        ?>
+        <!-- End Import Header and Menu -->
 
 
         <div class="flexslider">
@@ -32,11 +32,11 @@
                             <div class="col-md-5 col-lg-4">
                                 <div class="flex-caption visible-lg">
                                     <span class="price">
-									<i class="fa fa-bed" aria-hidden="true"></i> 
-									<i class="fa fa-television" aria-hidden="true"></i> 
-									<i class="fa fa-volume-control-phone" aria-hidden="true"></i>
-									<i class="fa fa-cutlery" aria-hidden="true"></i>
-									</span>
+                                        <i class="fa fa-bed" aria-hidden="true"></i> 
+                                        <i class="fa fa-television" aria-hidden="true"></i> 
+                                        <i class="fa fa-volume-control-phone" aria-hidden="true"></i>
+                                        <i class="fa fa-cutlery" aria-hidden="true"></i>
+                                    </span>
                                     <h3 class="title">Sun Shade Room</h3>
                                     <p>Cozy nook</p>
                                     <a href="contact.php" class="slider-btn">Enquire Now</a>
@@ -53,11 +53,11 @@
                             <div class="col-md-5 col-lg-4">
                                 <div class="flex-caption visible-lg">
                                     <span class="price">
-									<i class="fa fa-bed" aria-hidden="true"></i> 
-									<i class="fa fa-television" aria-hidden="true"></i> 
-									<i class="fa fa-volume-control-phone" aria-hidden="true"></i>
-									<i class="fa fa-cutlery" aria-hidden="true"></i>
-									</span>
+                                        <i class="fa fa-bed" aria-hidden="true"></i> 
+                                        <i class="fa fa-television" aria-hidden="true"></i> 
+                                        <i class="fa fa-volume-control-phone" aria-hidden="true"></i>
+                                        <i class="fa fa-cutlery" aria-hidden="true"></i>
+                                    </span>
                                     <h3 class="title">Courtyard Room</h3>
                                     <p>You may visit </p>
                                     <a href="contact.php" class="slider-btn">Enquire Now</a>
@@ -74,11 +74,11 @@
                             <div class="col-md-5 col-lg-4">
                                 <div class="flex-caption visible-lg">
                                     <span class="price">
-									<i class="fa fa-bed" aria-hidden="true"></i> 
-									<i class="fa fa-television" aria-hidden="true"></i> 
-									<i class="fa fa-volume-control-phone" aria-hidden="true"></i>
-									<i class="fa fa-cutlery" aria-hidden="true"></i>
-									</span>
+                                        <i class="fa fa-bed" aria-hidden="true"></i> 
+                                        <i class="fa fa-television" aria-hidden="true"></i> 
+                                        <i class="fa fa-volume-control-phone" aria-hidden="true"></i>
+                                        <i class="fa fa-cutlery" aria-hidden="true"></i>
+                                    </span>
                                     <h3 class="title">Valley view Room</h3>
                                     <p>Valley view Room.</p>
                                     <a href="contact.php" class="slider-btn">Enquire Now</a>
@@ -87,7 +87,7 @@
                         </div>
                     </div>
                 </li>
-				<li>
+                <li>
                     <div class="overlay"></div>
                     <img src="images/shoghi-valley-view-2-1600x780.jpg" alt="Special 4">
                     <div class="container">
@@ -95,11 +95,11 @@
                             <div class="col-md-5 col-lg-4">
                                 <div class="flex-caption visible-lg">
                                     <span class="price">
-									<i class="fa fa-bed" aria-hidden="true"></i> 
-									<i class="fa fa-television" aria-hidden="true"></i> 
-									<i class="fa fa-volume-control-phone" aria-hidden="true"></i>
-									<i class="fa fa-cutlery" aria-hidden="true"></i>
-									</span>
+                                        <i class="fa fa-bed" aria-hidden="true"></i> 
+                                        <i class="fa fa-television" aria-hidden="true"></i> 
+                                        <i class="fa fa-volume-control-phone" aria-hidden="true"></i>
+                                        <i class="fa fa-cutlery" aria-hidden="true"></i>
+                                    </span>
                                     <h3 class="title">Premium Valley View Room</h3>
                                     <p>Valley View Room with personal balcony.</p>
                                     <a href="contact.php" class="slider-btn">Enquire Now</a>
@@ -111,8 +111,8 @@
             </ul>
         </div> <!-- /.flexslider -->
 
-        
-        
+
+
         <div class="container">
             <div class="row">
                 <div class="our-listing owl-carousel">
@@ -125,9 +125,9 @@
                         </div> <!-- /.list-thumb -->
                         <div class="list-content">
                             <a href="packages.php#trek">
-							<h5>Aranya Summer Trek Package</h5>
-                            <span>More details ...</span>
-							</a>
+                                <h5>Aranya Summer Trek Package</h5>
+                                <span>More details ...</span>
+                            </a>
                             <a href="contact.php" class="price-btn">Enquire Now</a>
                         </div> <!-- /.list-content -->
                     </div> <!-- /.list-item -->
@@ -140,10 +140,10 @@
                         </div> <!-- /.list-thumb -->
                         <div class="list-content">
                             <a href="packages.php#tour">
-							<h5>Shimla Tour Package</h5>
-                            <span>More details ...</span>
-							</a>
-							
+                                <h5>Shimla Tour Package</h5>
+                                <span>More details ...</span>
+                            </a>
+
                             <a href="contact.php" class="price-btn">Enquire Now</a>
                         </div> <!-- /.list-content -->
                     </div> <!-- /.list-item -->
@@ -156,27 +156,12 @@
                         </div> <!-- /.list-thumb -->
                         <div class="list-content">
                             <a href="packages.php#travel">
-							<h5>Fully Loaded Shimla Trip</h5>
-                            <span>More details ...</span>
-							</a>
+                                <h5>Fully Loaded Shimla Trip</h5>
+                                <span>More details ...</span>
+                            </a>
                             <a href="contact.php" class="price-btn">Enquire Now</a>
                         </div> <!-- /.list-content -->
-                    </div> <!-- /.list-item -->
-                    <div class="list-item">
-                        <div class="list-thumb">
-                            <div class="title">
-                                <h4>Holiday</h4>
-                            </div>
-                            <img src="images/accomodation-property-view.jpg" alt="destination 4">
-                        </div> <!-- /.list-thumb -->
-                        <div class="list-content">
-                            <a href="packages.php#holiday">
-							<h5>Delhi/Chandigarh &ndash; Shimla &ndash; Delhi/Chandigarh Holiday Excursion</h5>
-                            <span>More details ...</span>
-							</a>
-                            <a href="contact.php" class="price-btn">Enquire Now</a>
-                        </div> <!-- /.list-content -->
-                    </div> <!-- /.list-item -->
+                    </div> <!-- /.list-item -->                   
                     <div class="list-item">
                         <div class="list-thumb">
                             <div class="title">
@@ -186,10 +171,25 @@
                         </div> <!-- /.list-thumb -->
                         <div class="list-content">
                             <a href="packages.php#honeymoon">
-							<h5>Honeymooners Special</h5>
-                            <span>More details ...</span>
-							</a>
+                                <h5>Honeymooners Special</h5>
+                                <span>More details ...</span>
+                            </a>
                             <a href="#" class="price-btn">Enquire Now</a>
+                        </div> <!-- /.list-content -->
+                    </div> <!-- /.list-item -->
+                     <div class="list-item">
+                        <div class="list-thumb">
+                            <div class="title">
+                                <h4>Holiday</h4>
+                            </div>
+                            <img src="images/accomodation-property-view.jpg" alt="destination 4">
+                        </div> <!-- /.list-thumb -->
+                        <div class="list-content">
+                            <a href="packages.php#holiday">                            
+                                <h5>Delhi/Chandigarh &ndash; Shimla &ndash; Delhi/Chandigarh Holiday Excursion</h5>
+                                <span>More details ...</span>
+                            </a>
+                            <a href="contact.php" class="price-btn">Enquire Now</a>
                         </div> <!-- /.list-content -->
                     </div> <!-- /.list-item -->
                     <div class="list-item">
@@ -201,7 +201,8 @@
                         </div> <!-- /.list-thumb -->
                         <div class="list-content">
                             <h5>Please wait for our new plans...</h5>
-                            <span>We are working on creating memorable Holiday Travel Itinerary for you... </span>
+                            <span>More details ...</span>
+<!--                            <span>We are working on creating memorable Holiday Travel Itinerary for you... </span>-->
                             <a href="#" class="price-btn">Enquire Now</a>
                         </div> <!-- /.list-content -->
                     </div> <!-- /.list-item -->
@@ -209,19 +210,19 @@
             </div> <!-- /.row -->
         </div> <!-- /.container -->
 
-		<div class="middle-content"></div>
+        <div class="middle-content"></div>
 
-<!-- Start Import Testimonials -->
-<?php
-	include('_partials/testimonials.php'); // Testimonials and Feedback
-?>
-<!-- End Import Testimonials -->
+        <!-- Start Import Testimonials -->
+        <?php
+        include('_partials/testimonials.php'); // Testimonials and Feedback
+        ?>
+        <!-- End Import Testimonials -->
 
-<!-- Start Import Footer -->
-<?php
-	include('_partials/footer.php'); // Includes footer links and scripts
-?>
-<!-- End Import Footer -->
+        <!-- Start Import Footer -->
+        <?php
+        include('_partials/footer.php'); // Includes footer links and scripts
+        ?>
+        <!-- End Import Footer -->
 
     </body>
 </html>

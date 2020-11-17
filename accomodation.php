@@ -4,34 +4,134 @@
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
 
-<!-- Start Import Head -->
-<?php
-	include('_partials/includes.php'); // Includes Head Tags, Scripts and Libs
-?>
-<!-- End Import Head -->
+    <!-- Start Import Head -->
+    <?php
+    include('_partials/includes.php'); // Includes Head Tags, Scripts and Libs
+    ?>
+    <!-- End Import Head -->
 
     <body>
         <!--[if lt IE 7]>
             <p class="chromeframe">You are using an outdated browser. <a href="http://browsehappy.com/">Upgrade your browser today</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to better experience this site.</p>
         <![endif]-->
 
-<!-- Start Import Header and Menu -->
-<?php
-	include('_partials/header.php'); // Includes Site Header and Menu
-?>
-<!-- End Import Header and Menu -->
+        <!-- Start Import Header and Menu -->
+        <?php
+        include('_partials/header.php'); // Includes Site Header and Menu
+        ?>
+        <!-- End Import Header and Menu -->
 
         <div class="page-top" id="templatemo_services">
         </div> <!-- /.page-header -->
 
         <div class="middle-content">
             <div class="container">
+                <h3 class="widget-title">ROOMS</h3>                    
+                <div class="row">                                            
+                    <div class="col-md-3">
+                        <div class="card">
+                            <div class="card-image">
+                                <img class="img-responsive" src="images/accomodation-room-view.jpg">                    
+                            </div><!-- card image -->                
+                            <div class="card-content">                    
+                                <h4 class="consult-title">Premium Valley View Rooms</h4>
+                                <p>Valley View Room with personal balcony.</p>                                                    
+                            </div><!-- card content -->
+                            <div class="card-action">
+                                <a href="gallery.php" >View</a>                    
+                            </div><!-- card actions -->                
+                        </div>
+                    </div> 
+                    <div class="col-md-3">
+                        <div class="card">
+                            <div class="card-image">
+                                <img class="img-responsive" src="images/accomodation-room-full.jpg">                    
+                            </div><!-- card image -->                
+                            <div class="card-content">                    
+                               <h4 class="consult-title">Valley View Rooms</h4>
+                                <p>Valley View Room.</p>                                                    
+                            </div><!-- card content -->
+                            <div class="card-action">
+                                <a href="gallery.php" >View</a>                    
+                            </div><!-- card actions -->                
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="card">
+                            <div class="card-image">
+                                <img class="img-responsive" src="images/accomodation-room-brown.jpg">                    
+                            </div><!-- card image -->                
+                            <div class="card-content">                    
+                                 <h4 class="consult-title">Courtyard Room</h4>
+                            <p>Private Sit out area offering Valley View.</p>                                                   
+                            </div><!-- card content -->
+                            <div class="card-action">
+                                <a href="gallery.php" >View</a>                    
+                            </div><!-- card actions -->                
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="card">
+                            <div class="card-image">
+                                <img class="img-responsive" src="images/accomodation-room-blue.jpg">                    
+                            </div><!-- card image -->                
+                            <div class="card-content">                    
+                                <h4 class="consult-title">Sun Shade</h4>
+                                <p>Cozy nook.</p>                                                
+                            </div><!-- card content -->
+                            <div class="card-action">
+                                <a href="gallery.php" >View</a>                    
+                            </div><!-- card actions -->                
+                        </div>
+                    </div>
+                </div>
+                <hr>
                 <div class="row">
-				
-                    <div class="col-md-4">
-                        <div class="widget-item">
-                            <h3 class="widget-title">Facilities</h3>
-							
+<!--                    <h3 class="widget-title">ROOMS</h3>
+                    <div class="col-md-12">                        
+                        <div class="widget-item col-md-4">
+                            <h3 class="widget-title">ROOMS</h3>
+                            <div class="sample-thumb">
+                                <img src="images/accomodation-room-view.jpg"  alt="">
+                            </div>  /.sample-thumb 
+                            <h4 class="consult-title">Premium Valley View Rooms</h4>
+                            <p>Valley View Room with personal balcony.</p>
+                        </div>  /.widget-item 
+
+                        <div class="widget-item col-md-4">
+                            <h3 class="widget-title">ROOMS</h3>
+                            <div class="sample-thumb">
+                                <img src="images/accomodation-room-full.jpg"  alt="">
+                            </div>  /.sample-thumb 
+                            <h4 class="consult-title">Valley View Rooms</h4>
+                            <p>Valley View Room.</p>
+                        </div>  /.widget-item 
+
+                        <div class="widget-item col-md-4">
+                            <h3 class="widget-title">ROOMS</h3>
+                            <div class="sample-thumb">
+                                <img src="images/accomodation-room-brown.jpg"  alt="">
+                            </div>  /.sample-thumb 
+                            <h4 class="consult-title">Courtyard Room</h4>
+                            <p>Private Sit out area offering Valley View.</p>
+                        </div>  /.widget-item 
+
+                        <div class="widget-item col-md-4">
+                            <h3 class="widget-title">ROOMS</h3>
+                            <div class="sample-thumb">
+                                <img src="images/accomodation-room-blue.jpg"  alt="">
+                            </div>  /.sample-thumb 
+                            <h4 class="consult-title">Sun Shade</h4>
+                            <p>Cozy nook.</p>
+                        </div>  /.widget-item 
+                       
+
+                    </div>  /.col-md-4 -->
+
+
+                    <div class="col-md-6">
+                        <h3 class="widget-title">Facilities</h3>
+                        <div class="widget-item">                            							
                             <div class="post-small">
                                 <div class="post-date">
                                     <span class="time fa fa-cog"></span>
@@ -54,7 +154,7 @@
                                     <p>For utmost convenience we are offering this service which is rare to be find in Shimla hotels</p>
                                 </div> <!-- /.post-content -->
                             </div> <!-- /.post-small -->
-                                <div class="post-small">
+                            <div class="post-small">
                                 <div class="post-date">
                                     <span class="time fa fa-cog"></span>
                                     <span></span>
@@ -65,7 +165,7 @@
                                     <p>We being the local people would love to guide you and provide accurate information to make your itinerary perfect </p>
                                 </div> <!-- /.post-content -->
                             </div> <!-- /.post-small -->
-							<div class="post-small">
+                            <div class="post-small">
                                 <div class="post-date">
                                     <span class="time fa fa-cog"></span>
                                     <span></span>
@@ -76,7 +176,7 @@
                                     <p>We have a tie-up with best of professional drivers who will serve as a local guide with vehicles in good condition</p>
                                 </div> <!-- /.post-content -->
                             </div> <!-- /.post-small -->
-							<div class="post-small">
+                            <div class="post-small">
                                 <div class="post-date">
                                     <span class="time fa fa-cog"></span>
                                     <span></span>
@@ -87,7 +187,7 @@
                                     <p>These tours can be arranged in Summer months when you can fully enjoy the pleasant weather and full day excursions with packed lunch</p>
                                 </div> <!-- /.post-content -->
                             </div> <!-- /.post-small -->
-							<div class="post-small">
+                            <div class="post-small">
                                 <div class="post-date">
                                     <span class="time fa fa-cog"></span>
                                     <span></span>
@@ -98,7 +198,7 @@
                                     <p>Main attractions of the rooms are the wonderful bay windows overlooking the lush green valley with sunrise view right from your bed</p>
                                 </div> <!-- /.post-content -->
                             </div> <!-- /.post-small -->
-							<div class="post-small">
+                            <div class="post-small">
                                 <div class="post-date">
                                     <span class="time fa fa-cog"></span>
                                     <span></span>
@@ -109,7 +209,7 @@
                                     <p>One can just sit and gaze at the awe-inspiring views of the entire valley while sipping a hot cup of coffee/tea in the morning</p>
                                 </div> <!-- /.post-content -->
                             </div> <!-- /.post-small -->
-							<div class="post-small">
+                            <div class="post-small">
                                 <div class="post-date">
                                     <span class="time fa fa-cog"></span>
                                     <span></span>
@@ -120,7 +220,7 @@
                                     <p>To keep you and your kids entertained when you just want to be in your room</p>
                                 </div> <!-- /.post-content -->
                             </div> <!-- /.post-small -->
-							<div class="post-small">
+                            <div class="post-small">
                                 <div class="post-date">
                                     <span class="time fa fa-cog"></span>
                                     <span></span>
@@ -131,7 +231,7 @@
                                     <p>Our bathrooms are fully equipped with important toiletries </p>
                                 </div> <!-- /.post-content -->
                             </div> <!-- /.post-small -->
-							<div class="post-small">
+                            <div class="post-small">
                                 <div class="post-date">
                                     <span class="time fa fa-cog"></span>
                                     <span></span>
@@ -142,75 +242,15 @@
                                     <p>Our room service, housekeeping and laundry service is just a call away </p>
                                 </div> <!-- /.post-content -->
                             </div> <!-- /.post-small -->							
-							
+
                         </div> <!-- /.widget-item -->
                     </div> <!-- /.col-md-4 -->
-					
-					
-                    <div class="col-md-4">
+
+                    <div class="col-md-6">
+                        <h3 class="widget-title">HOLIDAY PACKAGES</h3>
                         <div class="widget-item">
-                            <h3 class="widget-title">ROOMS</h3>
-                            <!--<div class="sample-thumb">
-                                <img src="images/accomodation-view.jpg" alt="">
-                            </div>--> <!-- /.sample-thumb -->
-                            <!--<h4 class="consult-title">Property located in the heart of the city yet peaceful</h4>-->
-                            <!--<p>Full Valley View.</p>-->
-                        </div> <!-- /.widget-item -->
-						
-						<div class="widget-item">
-                            <!--<h3 class="widget-title">ROOMS</h3>-->
-                            <div class="sample-thumb">
-                                <img src="images/accomodation-room-view.jpg" alt="">
-                            </div> <!-- /.sample-thumb -->
-                            <h4 class="consult-title">Premium Valley View Rooms</h4>
-                            <p>Valley View Room with personal balcony.</p>
-                        </div> <!-- /.widget-item -->
-						
-						<div class="widget-item">
-                            <!--<h3 class="widget-title">ROOMS</h3>-->
-                            <div class="sample-thumb">
-                                <img src="images/accomodation-room-full.jpg" alt="">
-                            </div> <!-- /.sample-thumb -->
-                            <h4 class="consult-title">Valley View Rooms</h4>
-                            <p>Valley View Room.</p>
-                        </div> <!-- /.widget-item -->
-						
-						<div class="widget-item">
-                            <!--<h3 class="widget-title">ROOMS</h3>-->
-                            <div class="sample-thumb">
-                                <img src="images/accomodation-room-brown.jpg" alt="">
-                            </div> <!-- /.sample-thumb -->
-                            <h4 class="consult-title">Courtyard Room</h4>
-                            <p>Private Sit out area offering Valley View.</p>
-                        </div> <!-- /.widget-item -->
-						
-						<div class="widget-item">
-                            <!--<h3 class="widget-title">ROOMS</h3>-->
-                            <div class="sample-thumb">
-                                <img src="images/accomodation-room-blue.jpg" alt="">
-                            </div> <!-- /.sample-thumb -->
-                            <h4 class="consult-title">Sun Shade</h4>
-                            <p>Cozy nook.</p>
-                        </div> <!-- /.widget-item -->
-						
-						<div class="widget-item">
-                            <!--<h3 class="widget-title">ROOMS</h3>-->
-                            <div class="sample-thumb">
-                                <img src="images/accomodation-room-green.jpg" alt="">
-                            </div> <!-- /.sample-thumb -->
-                            <h4 class="consult-title">Sun Shade</h4>
-                            <p>Cozy nook.</p>
-                        </div> <!-- /.widget-item -->
-					
-					</div> <!-- /.col-md-4 -->
-					
-					
-					
-                    <div class="col-md-4">
-                        <div class="widget-item">
-                            <h3 class="widget-title">HOLIDAY PACKAGES</h3>
-                            
-							<div class="service-item">
+
+                            <div class="service-item">
                                 <div class="service-icon">
                                     <i class="fa fa-bell-o"></i>
                                 </div> <!-- /.service-icon -->
@@ -219,7 +259,7 @@
                                     <!--<p>Change icons by <a rel="nofollow" href="http://fontawesome.info/font-awesome-icon-world-map/" target="_blank">Font Awesome</a> (version 4). Example: <strong>&lt;i class=&quot;fa fa-bell-o&quot;&gt;&lt;/i&gt;</strong></p>-->
                                 </div> <!-- /.service-content -->
                             </div> <!-- /.service-item -->
-							
+
                             <div class="service-item">
                                 <div class="service-icon">
                                     <i class="fa fa-bell-o"></i>
@@ -229,8 +269,8 @@
                                     <!--<p>Change icons by <a rel="nofollow" href="http://fontawesome.info/font-awesome-icon-world-map/" target="_blank">Font Awesome</a> (version 4). Example: <strong>&lt;i class=&quot;fa fa-bell-o&quot;&gt;&lt;/i&gt;</strong></p>-->
                                 </div> <!-- /.service-content -->
                             </div> <!-- /.service-item -->
-							
-							<div class="service-item">
+
+                            <div class="service-item">
                                 <div class="service-icon">
                                     <i class="fa fa-bell-o"></i>
                                 </div> <!-- /.service-icon -->
@@ -239,8 +279,8 @@
                                     <!--<p>Change icons by <a rel="nofollow" href="http://fontawesome.info/font-awesome-icon-world-map/" target="_blank">Font Awesome</a> (version 4). Example: <strong>&lt;i class=&quot;fa fa-bell-o&quot;&gt;&lt;/i&gt;</strong></p>-->
                                 </div> <!-- /.service-content -->
                             </div> <!-- /.service-item -->
-							
-							<div class="service-item">
+
+                            <div class="service-item">
                                 <div class="service-icon">
                                     <i class="fa fa-bell-o"></i>
                                 </div> <!-- /.service-icon -->
@@ -249,8 +289,8 @@
                                     <!--<p>Change icons by <a rel="nofollow" href="http://fontawesome.info/font-awesome-icon-world-map/" target="_blank">Font Awesome</a> (version 4). Example: <strong>&lt;i class=&quot;fa fa-bell-o&quot;&gt;&lt;/i&gt;</strong></p>-->
                                 </div> <!-- /.service-content -->
                             </div> <!-- /.service-item -->
-							
-							<div class="service-item">
+
+                            <div class="service-item">
                                 <div class="service-icon">
                                     <i class="fa fa-bell-o"></i>
                                 </div> <!-- /.service-icon -->
@@ -259,8 +299,8 @@
                                     <!--<p>Change icons by <a rel="nofollow" href="http://fontawesome.info/font-awesome-icon-world-map/" target="_blank">Font Awesome</a> (version 4). Example: <strong>&lt;i class=&quot;fa fa-bell-o&quot;&gt;&lt;/i&gt;</strong></p>-->
                                 </div> <!-- /.service-content -->
                             </div> <!-- /.service-item -->
-							
-							<div class="service-item">
+
+                            <div class="service-item">
                                 <div class="service-icon">
                                     <i class="fa fa-bell-o"></i>
                                 </div> <!-- /.service-icon -->
@@ -269,10 +309,16 @@
                                     <!--<p>Change icons by <a rel="nofollow" href="http://fontawesome.info/font-awesome-icon-world-map/" target="_blank">Font Awesome</a> (version 4). Example: <strong>&lt;i class=&quot;fa fa-bell-o&quot;&gt;&lt;/i&gt;</strong></p>-->
                                 </div> <!-- /.service-content -->
                             </div> <!-- /.service-item -->
-							
-							
+
+
                         </div> <!-- /.widget-item -->
                     </div> <!-- /.col-md-4 -->
+
+
+
+
+
+
                 </div> <!-- /.row -->
             </div> <!-- /.container -->
         </div> <!-- /.middle-content -->
@@ -280,34 +326,34 @@
 
 
 
-<!-- Start Import Testimonials -->
-<?php
-	//include('_partials/testimonials.php'); // Testimonials and Feedback
-?>
-<!-- End Import Testimonials -->
+        <!-- Start Import Testimonials -->
+        <?php
+        //include('_partials/testimonials.php'); // Testimonials and Feedback
+        ?>
+        <!-- End Import Testimonials -->
 
-<!-- Start Import Footer -->
-<?php
-	include('_partials/footer.php'); // Includes footer links and scripts
-?>
-<!-- End Import Footer -->
-        
+        <!-- Start Import Footer -->
+        <?php
+        include('_partials/footer.php'); // Includes footer links and scripts
+        ?>
+        <!-- End Import Footer -->
+
         <!-- Google Map -->
         <script src="http://maps.google.com/maps/api/js?sensor=true"></script>
         <script src="js/vendor/jquery.gmap3.min.js"></script>
-        
+
         <!-- Google Map Init-->
         <script type="text/javascript">
-            jQuery(function($){
+            jQuery(function ($) {
                 $('.first-map').gmap3({
-                    marker:{
-                        address: '16.8496189,96.1288854' 
+                    marker: {
+                        address: '16.8496189,96.1288854'
                     },
-                        map:{
-                        options:{
-                        zoom: 16,
-                        scrollwheel: false,
-                        streetViewControl : true
+                    map: {
+                        options: {
+                            zoom: 16,
+                            scrollwheel: false,
+                            streetViewControl: true
                         }
                     }
                 });

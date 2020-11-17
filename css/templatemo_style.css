@@ -662,8 +662,11 @@ h4.consult-title {
     text-transform: uppercase;
 }
 
-.post-small .post-date span.time {
+/*.post-small .post-date span.time {
     margin-top: 14px;
+}*/
+.post-small .post-date span.time {
+    margin-top: 33.33%;
 }
 
 .post-small .post-content {
@@ -909,7 +912,7 @@ div.contact-form input.mainBtn {
 }
 
 .site-footer {
-    margin-bottom: 80px;
+    margin-bottom: 40px;
 }
 
 .copyright {
@@ -958,7 +961,7 @@ div.contact-form input.mainBtn {
 
     .social-icons {
         text-align: right;
-        margin-top: 0;
+        margin-top: 2.5%;
     }
 }
 
@@ -971,6 +974,7 @@ div.contact-form input.mainBtn {
     font-weight: 600;
     height: 50px;
     text-align: center;
+    padding-top: 1%;
 }
 .testimonial-link h5 {
     color: #9ed034;
