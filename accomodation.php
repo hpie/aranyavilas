@@ -26,12 +26,12 @@
 
         <div class="middle-content">
             <div class="container">
-                <h3 class="widget-title">ROOMS</h3>                    
+                <h3 class="widget-title">ROOMS VIEW</h3>                    
                 <div class="row">                                            
                     <div class="col-md-3">
                         <div class="card">
                             <div class="card-image">
-                                <img class="img-responsive" src="images/accomodation-room-view.jpg">                    
+                                <img class="img-responsive img-rounded" src="images/accomodation-room-view.jpg">                    
                             </div><!-- card image -->                
                             <div class="card-content">                    
                                 <h4 class="consult-title">Premium Valley View Rooms</h4>
@@ -45,7 +45,7 @@
                     <div class="col-md-3">
                         <div class="card">
                             <div class="card-image">
-                                <img class="img-responsive" src="images/accomodation-room-full.jpg">                    
+                                <img class="img-responsive img-rounded" src="images/accomodation-velly-room.jpg">                    
                             </div><!-- card image -->                
                             <div class="card-content">                    
                                <h4 class="consult-title">Valley View Rooms</h4>
@@ -59,7 +59,7 @@
                     <div class="col-md-3">
                         <div class="card">
                             <div class="card-image">
-                                <img class="img-responsive" src="images/accomodation-room-brown.jpg">                    
+                                <img class="img-responsive img-rounded" src="images/accomodation-room-brown.jpg">                    
                             </div><!-- card image -->                
                             <div class="card-content">                    
                                  <h4 class="consult-title">Courtyard Room</h4>
@@ -73,7 +73,7 @@
                     <div class="col-md-3">
                         <div class="card">
                             <div class="card-image">
-                                <img class="img-responsive" src="images/accomodation-room-blue.jpg">                    
+                                <img class="img-responsive img-rounded" src="images/accomodation-room-blue.jpg">                    
                             </div><!-- card image -->                
                             <div class="card-content">                    
                                 <h4 class="consult-title">Sun Shade</h4>

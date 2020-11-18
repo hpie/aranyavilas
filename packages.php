@@ -34,7 +34,7 @@
                         <div class="widget-item">
                             <h3 class="widget-title">Honeymoon</h3>
                             <div class="sample-thumb">
-                                <img src="images/mall-road-rainy-season-shimla.jpg" alt="about us" title="about us">
+                                <img src="images/mall-road-rainy-season-shimla.jpg" alt="about us" title="about us" class="img-rounded">
                             </div> <!-- /.sample-thumb -->
                             <h4 class="consult-title"><a name="honeymoon"><b>Honeymooners Special Package:</b></a></h4>
                             <p>
@@ -55,7 +55,7 @@
                         <div class="widget-item">
                             <h3 class="widget-title">Trek</h3>
                             <div class="sample-thumb">
-                                <img src="images/jakhoo-hill-shimla.jpg" alt="company" title="company">
+                                <img src="images/jakhoo-hill-shimla.jpg" alt="company" title="company" class="img-rounded">
                             </div> <!-- /.sample-thumb -->
                             <h4 class="consult-title"><a name="trek"><b>Aranya Summer Trek Package:</b></a></h4>
                             <p>
@@ -91,7 +91,7 @@
                         <div class="widget-item">
                             <h3 class="widget-title">Tour</h3>
                             <div class="sample-thumb">
-                                <img src="images/advance-study-shimla.jpg" alt="about us" title="about us">
+                                <img src="images/advance-study-shimla.jpg" alt="about us" title="about us" class="img-rounded">
                             </div> <!-- /.sample-thumb -->
                             <h4 class="consult-title"><a name="tour"><b>Shimla Tour Package:</b></a></h4>
                             <p>
@@ -118,7 +118,7 @@
                         <div class="widget-item">
                             <h3 class="widget-title">Travel</h3>
                             <div class="sample-thumb">
-                                <img src="images/shimla-church.jpg" alt="company" title="company">
+                                <img src="images/shimla-church.jpg" alt="company" title="company" class="img-rounded">
                             </div> <!-- /.sample-thumb -->
                             <h4 class="consult-title"><a name="travel"><b>Fully Loaded Shimla Trip:</b></a></h4>
                             <p>
@@ -155,7 +155,7 @@
                         <div class="widget-item">
                             <h3 class="widget-title">Holiday</h3>
                             <div class="sample-thumb">
-                                <img src="images/naldehra-shimla.jpg" alt="about us" title="about us">
+                                <img src="images/naldehra-shimla.jpg" alt="about us" title="about us" class="img-rounded">
                             </div> <!-- /.sample-thumb -->
                             <h4 class="consult-title"><a name="holiday"><b>Delhi/Chandigarh &ndash; Shimla &ndash; Delhi/Chandigarh Holiday Excursion:</b></a></h4>
                             <p>
