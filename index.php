@@ -23,7 +23,7 @@
 
 
         <div class="flexslider">
-            <ul class="slides">
+            <ul class="slides">               
                 <li>
                     <div class="overlay"></div>
                     <img src="images/slider/slider1.jpg" alt="Special 1">
@@ -38,6 +38,27 @@
                                         <i class="fa fa-cutlery" aria-hidden="true"></i>
                                     </span>
                                     <h3 class="title">Sun Shade Room</h3>
+                                    <p>Cozy nook</p>
+                                    <a href="contact.php" class="slider-btn">Enquire Now</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="overlay"></div>
+                    <img src="images/slider/slider4.jpg" alt="Special 4">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-5 col-lg-4">
+                                <div class="flex-caption visible-lg">
+                                    <span class="price">
+                                        <i class="fa fa-bed" aria-hidden="true"></i> 
+                                        <i class="fa fa-television" aria-hidden="true"></i> 
+                                        <i class="fa fa-volume-control-phone" aria-hidden="true"></i>
+                                        <i class="fa fa-cutlery" aria-hidden="true"></i>
+                                    </span>
+                                    <h3 class="title">Premium Valley View Rooms</h3>
                                     <p>Cozy nook</p>
                                     <a href="contact.php" class="slider-btn">Enquire Now</a>
                                 </div>
