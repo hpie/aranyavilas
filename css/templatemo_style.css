@@ -191,6 +191,7 @@ button:focus,input:focus,select:focus,textarea:focus {
     text-transform: uppercase;
     font-weight: 700;
     display: inline-block;
+    background-color: #9ed034;
 }
 
 hr {

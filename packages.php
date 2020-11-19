@@ -37,7 +37,7 @@
                                 <img src="images/mall-road-rainy-season-shimla.jpg" alt="about us" title="about us" class="img-rounded">
                             </div> <!-- /.sample-thumb -->
                             <h4 class="consult-title"><a name="honeymoon"><b>Honeymooners Special Package:</b></a></h4>
-                            <p>
+                            
 							<ul>
 							<li class="fa fa-chevron-circle-right"> Welcome drink (Non-Alcoholic) on arrival</li> <br />
 							<li class="fa fa-chevron-circle-right"> Fresh fruit basket and cookies in the room on arrival</li> <br />
@@ -47,7 +47,7 @@
 							<li class="fa fa-chevron-circle-right"> Cake and Chocolates served once</li> <br />
 							<li>Note : If cab booking required for sight-seeing can be arranged</li> <br />
 							</ul>
-							</p>
+                        <a href="contact.php" class="btn-success main-btn">Enquire Now</a>
                         </div> <!-- /.widget-item -->
                     </div> <!-- /.col-md-4 -->
 
@@ -58,7 +58,7 @@
                                 <img src="images/jakhoo-hill-shimla.jpg" alt="company" title="company" class="img-rounded">
                             </div> <!-- /.sample-thumb -->
                             <h4 class="consult-title"><a name="trek"><b>Aranya Summer Trek Package:</b></a></h4>
-                            <p>
+                            
 							<ul>
 							<li class="fa fa-angle-double-right"> Day 1: Pick up from Shoghi Bus Stop/ Shoghi Railway Station and drop to Aranya Vilas, evening visit to Tara Devi Temple</li> <br />
 							<li class="fa fa-angle-double-right"> Day 2: Trekking expedition amidst jungle with a local guide and packed Lunch for two adults, evening visit Shimla Mall Road</li> <br />
@@ -75,7 +75,7 @@
 							<li class="fa fa-chevron-circle-right"> One day packed Lunch for 2 adults</li> <br />
 							<li class="fa fa-chevron-circle-right"> Luxury/Sedan car with professional driver for sight-seeing</li> <br />
 							</ul>
-							</p>
+							<a href="contact.php" class="btn-success main-btn">Enquire Now</a>
                         </div> <!-- /.widget-item -->
                     </div> <!-- /.col-md-4 -->
                     
@@ -94,7 +94,7 @@
                                 <img src="images/advance-study-shimla.jpg" alt="about us" title="about us" class="img-rounded">
                             </div> <!-- /.sample-thumb -->
                             <h4 class="consult-title"><a name="tour"><b>Shimla Tour Package:</b></a></h4>
-                            <p>
+                            
 							<ul>
 							<li class="fa fa-angle-double-right"> Day 1: Pick up from Shoghi Bus Stop/ Shoghi Railway Station and drop to Aranya Vilas, evening visit to Tara Devi Temple</li> <br />
 							<li class="fa fa-angle-double-right"> Day 2: Sight-seeing tour in and around Shimla city covering Shimla Mall Road, Jakhoo Temple and Vice Regal Lodge - Botanical Gardens</li> <br />
@@ -110,7 +110,7 @@
 							<li class="fa fa-chevron-circle-right"> Accommodation for a couple in Valley View Room</li> <br />
 							<li class="fa fa-chevron-circle-right"> Luxury/Sedan car with professional driver for sight-seeing</li> <br />
 							</ul>
-							</p>
+							<a href="contact.php" class="btn-success main-btn">Enquire Now</a>
                         </div> <!-- /.widget-item -->
                     </div> <!-- /.col-md-4 -->
 
@@ -121,7 +121,7 @@
                                 <img src="images/shimla-church.jpg" alt="company" title="company" class="img-rounded">
                             </div> <!-- /.sample-thumb -->
                             <h4 class="consult-title"><a name="travel"><b>Fully Loaded Shimla Trip:</b></a></h4>
-                            <p>
+                            
 							<ul>
 							<li class="fa fa-angle-double-right"> Day 1: Pick up from Delhi or Chandigarh in evening arrival at Aranya Vilas - Shoghi, Shimla</li> <br />
 							<li class="fa fa-angle-double-right"> Day 2: Today is a day for sight-seeing tour in and around Shimla city covering Tara Devi Temple, Vice Regal Lodge - Botanical Gardens, Jakhoo Temple and Shimla Mall Road</li> <br />
@@ -139,7 +139,7 @@
 							<li class="fa fa-chevron-circle-right"> One day packed Lunch for 2 adults</li> <br />
 							<li class="fa fa-chevron-circle-right"> Luxury/Sedan car with professional driver for sight-seeing</li> <br />
 							</ul>
-							</p>
+							<a href="contact.php" class="btn-success main-btn">Enquire Now</a>
                         </div> <!-- /.widget-item -->
                     </div> <!-- /.col-md-4 -->
                     
@@ -158,7 +158,7 @@
                                 <img src="images/naldehra-shimla.jpg" alt="about us" title="about us" class="img-rounded">
                             </div> <!-- /.sample-thumb -->
                             <h4 class="consult-title"><a name="holiday"><b>Delhi/Chandigarh &ndash; Shimla &ndash; Delhi/Chandigarh Holiday Excursion:</b></a></h4>
-                            <p>
+                           
 							<ul>
 							<li class="fa fa-angle-double-right"> Day 1: Pick up from Delhi or Chandigarh in evening arrival at Aranya Vilas - Shoghi, Shimla</li> <br />
 							<li class="fa fa-angle-double-right"> Day 2: Today is a day for sight-seeing tour in and around Shimla city covering Tara Devi Temple, Vice Regal Lodge - Botanical Gardens, Jakhoo Temple and Shimla Mall Road</li> <br />
@@ -177,7 +177,7 @@
 							<li class="fa fa-chevron-circle-right"> One day packed Lunch for 2 adults</li> <br />
 							<li class="fa fa-chevron-circle-right"> Luxury/Sedan car with professional driver for sight-seeing</li> <br />
 							</ul>
-							</p>
+							<a href="contact.php" class="btn-success main-btn">Enquire Now</a>
                         </div> <!-- /.widget-item -->
                     </div> <!-- /.col-md-4 -->
 
