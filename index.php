@@ -26,7 +26,7 @@
             <ul class="slides">
                 <li>
                     <div class="overlay"></div>
-                    <img src="images/shoghi-train-track-1600x780.jpg" alt="Special 1">
+                    <img src="images/slider/slider1.jpg" alt="Special 1">
                     <div class="container">
                         <div class="row">
                             <div class="col-md-5 col-lg-4">
@@ -47,7 +47,7 @@
                 </li>
                 <li>
                     <div class="overlay"></div>
-                    <img src="images/shoghi-valley-view-1-1600x780.jpg" alt="Special 2">
+                    <img src="images/slider/slider2.jpg" alt="Special 2">
                     <div class="container">
                         <div class="row">
                             <div class="col-md-5 col-lg-4">
@@ -68,7 +68,7 @@
                 </li>
                 <li>
                     <div class="overlay"></div>
-                    <img src="images/shoghi-track-tunnel-1600x780.jpg" alt="Special 3">
+                    <img src="images/slider/slider3.jpg" alt="Special 3">
                     <div class="container">
                         <div class="row">
                             <div class="col-md-5 col-lg-4">
@@ -87,27 +87,7 @@
                         </div>
                     </div>
                 </li>
-                <li>
-                    <div class="overlay"></div>
-                    <img src="images/shoghi-valley-view-2-1600x780.jpg" alt="Special 4">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-md-5 col-lg-4">
-                                <div class="flex-caption visible-lg">
-                                    <span class="price">
-                                        <i class="fa fa-bed" aria-hidden="true"></i> 
-                                        <i class="fa fa-television" aria-hidden="true"></i> 
-                                        <i class="fa fa-volume-control-phone" aria-hidden="true"></i>
-                                        <i class="fa fa-cutlery" aria-hidden="true"></i>
-                                    </span>
-                                    <h3 class="title">Premium Valley View Room</h3>
-                                    <p>Valley View Room with personal balcony.</p>
-                                    <a href="contact.php" class="slider-btn">Enquire Now</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </li>
+              
             </ul>
         </div> <!-- /.flexslider -->
 
