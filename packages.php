@@ -74,7 +74,7 @@
 							<li class="fa fa-chevron-circle-right"> Accommodation for a couple in Valley View Room</li> <br />
 							<li class="fa fa-chevron-circle-right"> One day packed Lunch for 2 adults</li> <br />
 							<li class="fa fa-chevron-circle-right"> Luxury/Sedan car with professional driver for sight-seeing</li> <br />
-							</ul>
+							</ul><br />
 							<a href="contact.php" class="btn-success main-btn">Enquire Now</a>
                         </div> <!-- /.widget-item -->
                     </div> <!-- /.col-md-4 -->
@@ -109,7 +109,7 @@
 							<li class="fa fa-chevron-circle-right"> Breakfast and Dinner for 2 adults (All Veg meals served)</li> <br />
 							<li class="fa fa-chevron-circle-right"> Accommodation for a couple in Valley View Room</li> <br />
 							<li class="fa fa-chevron-circle-right"> Luxury/Sedan car with professional driver for sight-seeing</li> <br />
-							</ul>
+							</ul><br />
 							<a href="contact.php" class="btn-success main-btn">Enquire Now</a>
                         </div> <!-- /.widget-item -->
                     </div> <!-- /.col-md-4 -->
@@ -138,7 +138,7 @@
 							<li class="fa fa-chevron-circle-right"> Accommodation for a couple in Valley View Room</li> <br />
 							<li class="fa fa-chevron-circle-right"> One day packed Lunch for 2 adults</li> <br />
 							<li class="fa fa-chevron-circle-right"> Luxury/Sedan car with professional driver for sight-seeing</li> <br />
-							</ul>
+							</ul><br />
 							<a href="contact.php" class="btn-success main-btn">Enquire Now</a>
                         </div> <!-- /.widget-item -->
                     </div> <!-- /.col-md-4 -->
@@ -176,7 +176,7 @@
 							<li class="fa fa-chevron-circle-right"> Accommodation for a couple in Valley View Room</li> <br />
 							<li class="fa fa-chevron-circle-right"> One day packed Lunch for 2 adults</li> <br />
 							<li class="fa fa-chevron-circle-right"> Luxury/Sedan car with professional driver for sight-seeing</li> <br />
-							</ul>
+							</ul><br />
 							<a href="contact.php" class="btn-success main-btn">Enquire Now</a>
                         </div> <!-- /.widget-item -->
                     </div> <!-- /.col-md-4 -->
