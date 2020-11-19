@@ -249,13 +249,12 @@
                     <div class="col-md-6">
                         <h3 class="widget-title">HOLIDAY PACKAGES</h3>
                         <div class="widget-item">
-
                             <div class="service-item">
                                 <div class="service-icon">
                                     <i class="fa fa-bell-o"></i>
                                 </div> <!-- /.service-icon -->
                                 <div class="service-content">
-                                    <h4>MAP Deal for 2 nights 3 days</h4>
+                                    <h4><a href="packages.php#honeymoon">Honeymooners Special MAP for 2 nights 3 days</a></h4>
                                     <!--<p>Change icons by <a rel="nofollow" href="http://fontawesome.info/font-awesome-icon-world-map/" target="_blank">Font Awesome</a> (version 4). Example: <strong>&lt;i class=&quot;fa fa-bell-o&quot;&gt;&lt;/i&gt;</strong></p>-->
                                 </div> <!-- /.service-content -->
                             </div> <!-- /.service-item -->
@@ -265,7 +264,7 @@
                                     <i class="fa fa-bell-o"></i>
                                 </div> <!-- /.service-icon -->
                                 <div class="service-content">
-                                    <h4>Honeymooners Special MAP for 2 nights 3 days</h4>
+                                    <h4><a href="packages.php#trek">Aranya Summer Trek Package for 2 nights 3 days</a></h4>
                                     <!--<p>Change icons by <a rel="nofollow" href="http://fontawesome.info/font-awesome-icon-world-map/" target="_blank">Font Awesome</a> (version 4). Example: <strong>&lt;i class=&quot;fa fa-bell-o&quot;&gt;&lt;/i&gt;</strong></p>-->
                                 </div> <!-- /.service-content -->
                             </div> <!-- /.service-item -->
@@ -275,7 +274,7 @@
                                     <i class="fa fa-bell-o"></i>
                                 </div> <!-- /.service-icon -->
                                 <div class="service-content">
-                                    <h4>Aranya Summer Trek Package for 2 nights 3 days</h4>
+                                    <h4><a href="packages.php#tour">Shimla Tour Package for 2 nights 3 days</a></h4>
                                     <!--<p>Change icons by <a rel="nofollow" href="http://fontawesome.info/font-awesome-icon-world-map/" target="_blank">Font Awesome</a> (version 4). Example: <strong>&lt;i class=&quot;fa fa-bell-o&quot;&gt;&lt;/i&gt;</strong></p>-->
                                 </div> <!-- /.service-content -->
                             </div> <!-- /.service-item -->
@@ -285,7 +284,7 @@
                                     <i class="fa fa-bell-o"></i>
                                 </div> <!-- /.service-icon -->
                                 <div class="service-content">
-                                    <h4>Shimla Tour Package for 2 nights 3 days</h4>
+                                    <h4><a href="packages.php#travel">Fully Loaded Shimla Trip for 3 nights 4 days</a></h4>
                                     <!--<p>Change icons by <a rel="nofollow" href="http://fontawesome.info/font-awesome-icon-world-map/" target="_blank">Font Awesome</a> (version 4). Example: <strong>&lt;i class=&quot;fa fa-bell-o&quot;&gt;&lt;/i&gt;</strong></p>-->
                                 </div> <!-- /.service-content -->
                             </div> <!-- /.service-item -->
@@ -295,17 +294,7 @@
                                     <i class="fa fa-bell-o"></i>
                                 </div> <!-- /.service-icon -->
                                 <div class="service-content">
-                                    <h4>Fully Loaded Shimla Trip for 3 nights 4 days</h4>
-                                    <!--<p>Change icons by <a rel="nofollow" href="http://fontawesome.info/font-awesome-icon-world-map/" target="_blank">Font Awesome</a> (version 4). Example: <strong>&lt;i class=&quot;fa fa-bell-o&quot;&gt;&lt;/i&gt;</strong></p>-->
-                                </div> <!-- /.service-content -->
-                            </div> <!-- /.service-item -->
-
-                            <div class="service-item">
-                                <div class="service-icon">
-                                    <i class="fa fa-bell-o"></i>
-                                </div> <!-- /.service-icon -->
-                                <div class="service-content">
-                                    <h4>Delhi/Chandigarh &ndash; Shimla &ndash; Delhi/Chandigarh Holiday Excursion for 4 nights 5 days</h4>
+                                    <h4><a href="packages.php#holiday">Delhi/Chandigarh &ndash; Shimla &ndash; Delhi/Chandigarh Holiday Excursion for 4 nights 5 days</a></h4>
                                     <!--<p>Change icons by <a rel="nofollow" href="http://fontawesome.info/font-awesome-icon-world-map/" target="_blank">Font Awesome</a> (version 4). Example: <strong>&lt;i class=&quot;fa fa-bell-o&quot;&gt;&lt;/i&gt;</strong></p>-->
                                 </div> <!-- /.service-content -->
                             </div> <!-- /.service-item -->
