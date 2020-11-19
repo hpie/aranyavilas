@@ -7,7 +7,6 @@
             <div>
                 <h1 class="testimonial-title">Testimonials</h1>
             </div>
-
             <div class="col-md-2 col-sm-4 col-xs-6">
                 <div class="partner-item">
                     <a href="images/testimonials/testimonial-576x1024-001.jpg" data-fancybox data-caption="Aranyavilas Testimonials from Guests">

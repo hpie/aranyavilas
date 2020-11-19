@@ -38,7 +38,7 @@
                         <div class="list-item">
                             <div class="list-thumb">
                                 <a href="images/aranya/aranya-1024x780-1.jpg" data-fancybox data-caption="Aranya Room Pictures">
-                                    <img src="images/aranya/aranya-370x278-1.jpg" alt="destnation 1" class="img-rounded" />
+                                    <img src="images/aranya/aranya-1-370x278.jpg" alt="destnation 1" class="img-rounded" />
                                 </a>
                             </div> <!-- /.list-thumb -->
                             <div class="list-content">
@@ -51,7 +51,7 @@
                         <div class="list-item">
                             <div class="list-thumb">
                                 <a href="images/aranya/aranya-1024x780-2.jpg" data-fancybox data-caption="Aranya Room Pictures">
-                                    <img src="images/aranya/aranya-370x278-2.jpg" alt="destnation 1" class="img-rounded" />
+                                    <img src="images/aranya/aranya-2-370x278.jpg" alt="destnation 1" class="img-rounded" />
                                 </a>
                             </div> <!-- /.list-thumb -->
                             <div class="list-content">
@@ -64,7 +64,7 @@
                         <div class="list-item">
                             <div class="list-thumb">
                                 <a href="images/aranya/aranya-1024x780-3.jpg" data-fancybox data-caption="Aranya Room Pictures">
-                                    <img src="images/aranya/aranya-370x278-3.jpg" alt="destnation 1" class="img-rounded" />
+                                    <img src="images/aranya/aranya-3-370x278.jpg" alt="destnation 1" class="img-rounded" />
                                 </a>
                             </div> <!-- /.list-thumb -->
                             <div class="list-content">
@@ -77,7 +77,7 @@
                         <div class="list-item">
                             <div class="list-thumb">
                                 <a href="images/aranya/aranya-1024x780-4.jpg" data-fancybox data-caption="Aranya Room Pictures">
-                                    <img src="images/aranya/aranya-370x278-4.jpg" alt="destnation 1" class="img-rounded" />
+                                    <img src="images/aranya/aranya-4-370x278.jpg" alt="destnation 1" class="img-rounded" />
                                 </a>
                             </div> <!-- /.list-thumb -->
                             <div class="list-content">
@@ -90,7 +90,7 @@
                         <div class="list-item">
                             <div class="list-thumb">
                                 <a href="images/aranya/aranya-1024x780-5.jpg" data-fancybox data-caption="Aranya Room Pictures">
-                                    <img src="images/aranya/aranya-370x278-5.jpg" alt="destnation 1" class="img-rounded" />
+                                    <img src="images/aranya/aranya-5-370x278.jpg" alt="destnation 1" class="img-rounded" />
                                 </a>
                             </div> <!-- /.list-thumb -->
                             <div class="list-content">
@@ -103,7 +103,7 @@
                         <div class="list-item">
                             <div class="list-thumb">
                                 <a href="images/aranya/aranya-1024x780-6.jpg" data-fancybox data-caption="Aranya Room Pictures">
-                                    <img src="images/aranya/aranya-370x278-6.jpg" alt="destnation 1" class="img-rounded" />
+                                    <img src="images/aranya/aranya-6-370x278.jpg" alt="destnation 1" class="img-rounded" />
                                 </a>
                             </div> <!-- /.list-thumb -->
                             <div class="list-content">
@@ -131,12 +131,12 @@
 
                         <div class="list-item">
                             <div class="list-thumb">
-                                <a href="images/aranya/aranya-1024x780-1.jpg" data-fancybox data-caption="Aranya Room Pictures">
-                                    <img src="images/aranya/aranya-370x278-1.jpg" alt="destnation 1" class="img-rounded" />
+                                <a href="images/buransh/buransh-1-370x278.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                    <img src="images/buransh/buransh-1-370x278.jpg" alt="destnation 1" class="img-rounded" />
                                 </a>
                             </div> <!-- /.list-thumb -->
                             <div class="list-content">
-                                <a href="images/aranya/aranya-1024x780-1.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                <a href="images/buransh/buransh-1-370x278.jpg" data-fancybox data-caption="Aranya Room Pictures">
                                     <h5>Click to Enlarge</h5>
                                 </a>
                             </div> <!-- /.list-content -->
@@ -144,12 +144,12 @@
 
                         <div class="list-item">
                             <div class="list-thumb">
-                                <a href="images/aranya/aranya-1024x780-2.jpg" data-fancybox data-caption="Aranya Room Pictures">
-                                    <img src="images/aranya/aranya-370x278-2.jpg" alt="destnation 1" class="img-rounded" />
+                                <a href="images/buransh/buransh-2-370x278.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                    <img src="images/buransh/buransh-2-370x278.jpg" alt="destnation 1" class="img-rounded" />
                                 </a>
                             </div> <!-- /.list-thumb -->
                             <div class="list-content">
-                                <a href="images/aranya/aranya-1024x780-2.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                <a href="images/buransh/buransh-2-370x278.jpg" data-fancybox data-caption="Aranya Room Pictures">
                                     <h5>Click to Enlarge</h5>
                                 </a>
                             </div> <!-- /.list-content -->
@@ -157,12 +157,12 @@
 
                         <div class="list-item">
                             <div class="list-thumb">
-                                <a href="images/aranya/aranya-1024x780-3.jpg" data-fancybox data-caption="Aranya Room Pictures">
-                                    <img src="images/aranya/aranya-370x278-3.jpg" alt="destnation 1" class="img-rounded" />
+                                <a href="images/buransh/buransh-3-370x278.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                    <img src="images/buransh/buransh-3-370x278.jpg" alt="destnation 1" class="img-rounded" />
                                 </a>
                             </div> <!-- /.list-thumb -->
                             <div class="list-content">
-                                <a href="images/aranya/aranya-1024x780-3.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                <a href="images/buransh/buransh-3-370x278.jpg" data-fancybox data-caption="Aranya Room Pictures">
                                     <h5>Click to Enlarge</h5>
                                 </a>
                             </div> <!-- /.list-content -->
@@ -170,12 +170,12 @@
 
                         <div class="list-item">
                             <div class="list-thumb">
-                                <a href="images/aranya/aranya-1024x780-4.jpg" data-fancybox data-caption="Aranya Room Pictures">
-                                    <img src="images/aranya/aranya-370x278-4.jpg" alt="destnation 1" class="img-rounded" />
+                                <a href="images/buransh/buransh-4-370x278.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                    <img src="images/buransh/buransh-4-370x278.jpg" alt="destnation 1" class="img-rounded" />
                                 </a>
                             </div> <!-- /.list-thumb -->
                             <div class="list-content">
-                                <a href="images/aranya/aranya-1024x780-4.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                <a href="images/buransh/buransh-4-370x278.jpg" data-fancybox data-caption="Aranya Room Pictures">
                                     <h5>Click to Enlarge</h5>
                                 </a>
                             </div> <!-- /.list-content -->
@@ -183,12 +183,12 @@
 
                         <div class="list-item">
                             <div class="list-thumb">
-                                <a href="images/aranya/aranya-1024x780-5.jpg" data-fancybox data-caption="Aranya Room Pictures">
-                                    <img src="images/aranya/aranya-370x278-5.jpg" alt="destnation 1" class="img-rounded" />
+                                <a href="images/buransh/44-1024x780.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                    <img src="images/buransh/4-370x278.jpg" alt="destnation 1" class="img-rounded" />
                                 </a>
                             </div> <!-- /.list-thumb -->
                             <div class="list-content">
-                                <a href="images/aranya/aranya-1024x780-5.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                <a href="images/buransh/44-1024x780.jpg" data-fancybox data-caption="Aranya Room Pictures">
                                     <h5>Click to Enlarge</h5>
                                 </a>
                             </div> <!-- /.list-content -->
@@ -196,12 +196,12 @@
 
                         <div class="list-item">
                             <div class="list-thumb">
-                                <a href="images/aranya/aranya-1024x780-6.jpg" data-fancybox data-caption="Aranya Room Pictures">
-                                    <img src="images/aranya/aranya-370x278-6.jpg" alt="destnation 1" class="img-rounded" />
+                                <a href="images/buransh/55-1024x780.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                    <img src="images/buransh/5-370x278.jpg" alt="destnation 1" class="img-rounded" />
                                 </a>
                             </div> <!-- /.list-thumb -->
                             <div class="list-content">
-                                <a href="images/aranya/aranya-1024x780-6.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                <a href="images/buransh/55-1024x780.jpg" data-fancybox data-caption="Aranya Room Pictures">
                                     <h5>Click to Enlarge</h5>
                                 </a>
                             </div> <!-- /.list-content -->
@@ -225,12 +225,12 @@
 
                         <div class="list-item">
                             <div class="list-thumb">
-                                <a href="images/aranya/aranya-1024x780-1.jpg" data-fancybox data-caption="Aranya Room Pictures">
-                                    <img src="images/aranya/aranya-370x278-1.jpg" alt="destnation 1" class="img-rounded" />
+                                <a href="images/chinar/chinar-1-370x278.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                    <img src="images/chinar/chinar-1-370x278.jpg" alt="destnation 1" class="img-rounded" />
                                 </a>
                             </div> <!-- /.list-thumb -->
                             <div class="list-content">
-                                <a href="images/aranya/aranya-1024x780-1.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                <a href="images/chinar/chinar-1-370x278.jpg" data-fancybox data-caption="Aranya Room Pictures">
                                     <h5>Click to Enlarge</h5>
                                 </a>
                             </div> <!-- /.list-content -->
@@ -238,12 +238,12 @@
 
                         <div class="list-item">
                             <div class="list-thumb">
-                                <a href="images/aranya/aranya-1024x780-2.jpg" data-fancybox data-caption="Aranya Room Pictures">
-                                    <img src="images/aranya/aranya-370x278-2.jpg" alt="destnation 1" class="img-rounded" />
+                                <a href="images/chinar/chinar-3-370x278.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                    <img src="images/chinar/chinar-3-370x278.jpg" alt="destnation 1" class="img-rounded" />
                                 </a>
                             </div> <!-- /.list-thumb -->
                             <div class="list-content">
-                                <a href="images/aranya/aranya-1024x780-2.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                <a href="images/chinar/chinar-3-370x278.jpg" data-fancybox data-caption="Aranya Room Pictures">
                                     <h5>Click to Enlarge</h5>
                                 </a>
                             </div> <!-- /.list-content -->
@@ -251,12 +251,12 @@
 
                         <div class="list-item">
                             <div class="list-thumb">
-                                <a href="images/aranya/aranya-1024x780-3.jpg" data-fancybox data-caption="Aranya Room Pictures">
-                                    <img src="images/aranya/aranya-370x278-3.jpg" alt="destnation 1" class="img-rounded" />
+                                <a href="images/buransh/44-1024x780.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                    <img src="images/buransh/4-370x278.jpg" alt="destnation 1" class="img-rounded" />
                                 </a>
                             </div> <!-- /.list-thumb -->
                             <div class="list-content">
-                                <a href="images/aranya/aranya-1024x780-3.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                <a href="images/buransh/44-1024x780.jpg" data-fancybox data-caption="Aranya Room Pictures">
                                     <h5>Click to Enlarge</h5>
                                 </a>
                             </div> <!-- /.list-content -->
@@ -264,38 +264,12 @@
 
                         <div class="list-item">
                             <div class="list-thumb">
-                                <a href="images/aranya/aranya-1024x780-4.jpg" data-fancybox data-caption="Aranya Room Pictures">
-                                    <img src="images/aranya/aranya-370x278-4.jpg" alt="destnation 1" class="img-rounded" />
+                                <a href="images/buransh/55-1024x780.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                    <img src="images/buransh/5-370x278.jpg" alt="destnation 1" class="img-rounded" />
                                 </a>
                             </div> <!-- /.list-thumb -->
                             <div class="list-content">
-                                <a href="images/aranya/aranya-1024x780-4.jpg" data-fancybox data-caption="Aranya Room Pictures">
-                                    <h5>Click to Enlarge</h5>
-                                </a>
-                            </div> <!-- /.list-content -->
-                        </div> <!-- /.list-item -->
-
-                        <div class="list-item">
-                            <div class="list-thumb">
-                                <a href="images/aranya/aranya-1024x780-5.jpg" data-fancybox data-caption="Aranya Room Pictures">
-                                    <img src="images/aranya/aranya-370x278-5.jpg" alt="destnation 1" class="img-rounded"  />
-                                </a>
-                            </div> <!-- /.list-thumb -->
-                            <div class="list-content">
-                                <a href="images/aranya/aranya-1024x780-5.jpg" data-fancybox data-caption="Aranya Room Pictures">
-                                    <h5>Click to Enlarge</h5>
-                                </a>
-                            </div> <!-- /.list-content -->
-                        </div> <!-- /.list-item -->
-
-                        <div class="list-item">
-                            <div class="list-thumb">
-                                <a href="images/aranya/aranya-1024x780-6.jpg" data-fancybox data-caption="Aranya Room Pictures">
-                                    <img src="images/aranya/aranya-370x278-6.jpg" alt="destnation 1" class="img-rounded" />
-                                </a>
-                            </div> <!-- /.list-thumb -->
-                            <div class="list-content">
-                                <a href="images/aranya/aranya-1024x780-6.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                <a href="images/buransh/55-1024x780.jpg" data-fancybox data-caption="Aranya Room Pictures">
                                     <h5>Click to Enlarge</h5>
                                 </a>
                             </div> <!-- /.list-content -->
@@ -319,12 +293,12 @@
 
                         <div class="list-item">
                             <div class="list-thumb">
-                                <a href="images/aranya/aranya-1024x780-1.jpg" data-fancybox data-caption="Aranya Room Pictures">
-                                    <img src="images/aranya/aranya-370x278-1.jpg" alt="destnation 1" class="img-rounded" />
+                                <a href="images/deodar/deodar-1-370x278.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                    <img src="images/deodar/deodar-1-370x278.jpg" alt="destnation 1" class="img-rounded" />
                                 </a>
                             </div> <!-- /.list-thumb -->
                             <div class="list-content">
-                                <a href="images/aranya/aranya-1024x780-1.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                <a href="images/deodar/deodar-1-370x278.jpg" data-fancybox data-caption="Aranya Room Pictures">
                                     <h5>Click to Enlarge</h5>
                                 </a>
                             </div> <!-- /.list-content -->
@@ -332,12 +306,12 @@
 
                         <div class="list-item">
                             <div class="list-thumb">
-                                <a href="images/aranya/aranya-1024x780-2.jpg" data-fancybox data-caption="Aranya Room Pictures">
-                                    <img src="images/aranya/aranya-370x278-2.jpg" alt="destnation 1" class="img-rounded" />
+                                <a href="images/deodar/deodar-2-370x278.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                    <img src="images/deodar/deodar-2-370x278.jpg" alt="destnation 1" class="img-rounded" />
                                 </a>
                             </div> <!-- /.list-thumb -->
                             <div class="list-content">
-                                <a href="images/aranya/aranya-1024x780-2.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                <a href="images/deodar/deodar-2-370x278.jpg" data-fancybox data-caption="Aranya Room Pictures">
                                     <h5>Click to Enlarge</h5>
                                 </a>
                             </div> <!-- /.list-content -->
@@ -345,12 +319,12 @@
 
                         <div class="list-item">
                             <div class="list-thumb">
-                                <a href="images/aranya/aranya-1024x780-3.jpg" data-fancybox data-caption="Aranya Room Pictures">
-                                    <img src="images/aranya/aranya-370x278-3.jpg" alt="destnation 1" class="img-rounded" />
+                                <a href="images/deodar/deodar-3-370x278.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                    <img src="images/deodar/deodar-3-370x278.jpg" alt="destnation 1" class="img-rounded" />
                                 </a>
                             </div> <!-- /.list-thumb -->
                             <div class="list-content">
-                                <a href="images/aranya/aranya-1024x780-3.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                <a href="images/deodar/deodar-3-370x278.jpg" data-fancybox data-caption="Aranya Room Pictures">
                                     <h5>Click to Enlarge</h5>
                                 </a>
                             </div> <!-- /.list-content -->
@@ -358,12 +332,12 @@
 
                         <div class="list-item">
                             <div class="list-thumb">
-                                <a href="images/aranya/aranya-1024x780-4.jpg" data-fancybox data-caption="Aranya Room Pictures">
-                                    <img src="images/aranya/aranya-370x278-4.jpg" alt="destnation 1" class="img-rounded" />
+                                <a href="images/deodar/deodar-4-370x278.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                    <img src="images/deodar/deodar-4-370x278.jpg" alt="destnation 1" class="img-rounded" />
                                 </a>
                             </div> <!-- /.list-thumb -->
                             <div class="list-content">
-                                <a href="images/aranya/aranya-1024x780-4.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                <a href="images/deodar/deodar-4-370x278.jpg" data-fancybox data-caption="Aranya Room Pictures">
                                     <h5>Click to Enlarge</h5>
                                 </a>
                             </div> <!-- /.list-content -->
@@ -371,12 +345,12 @@
 
                         <div class="list-item">
                             <div class="list-thumb">
-                                <a href="images/aranya/aranya-1024x780-5.jpg" data-fancybox data-caption="Aranya Room Pictures">
-                                    <img src="images/aranya/aranya-370x278-5.jpg" alt="destnation 1" class="img-rounded" />
+                                <a href="images/buransh/44-1024x780.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                    <img src="images/buransh/4-370x278.jpg" alt="destnation 1" class="img-rounded" />
                                 </a>
                             </div> <!-- /.list-thumb -->
                             <div class="list-content">
-                                <a href="images/aranya/aranya-1024x780-5.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                <a href="images/buransh/44-1024x780.jpg" data-fancybox data-caption="Aranya Room Pictures">
                                     <h5>Click to Enlarge</h5>
                                 </a>
                             </div> <!-- /.list-content -->
@@ -384,12 +358,12 @@
 
                         <div class="list-item">
                             <div class="list-thumb">
-                                <a href="images/aranya/aranya-1024x780-6.jpg" data-fancybox data-caption="Aranya Room Pictures">
-                                    <img src="images/aranya/aranya-370x278-6.jpg" alt="destnation 1" class="img-rounded" />
+                                <a href="images/buransh/55-1024x780.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                    <img src="images/buransh/5-370x278.jpg" alt="destnation 1" class="img-rounded" />
                                 </a>
                             </div> <!-- /.list-thumb -->
                             <div class="list-content">
-                                <a href="images/aranya/aranya-1024x780-6.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                <a href="images/buransh/55-1024x780.jpg" data-fancybox data-caption="Aranya Room Pictures">
                                     <h5>Click to Enlarge</h5>
                                 </a>
                             </div> <!-- /.list-content -->
@@ -409,16 +383,16 @@
                         <h3 class="widget-title">Upwan</h3>
                     </div> <!-- /.widget-item -->
 
-                    <div class="our-listing owl-carousel">
+                       <div class="our-listing owl-carousel">
 
                         <div class="list-item">
                             <div class="list-thumb">
-                                <a href="images/aranya/aranya-1024x780-1.jpg" data-fancybox data-caption="Aranya Room Pictures">
-                                    <img src="images/aranya/aranya-370x278-1.jpg" alt="destnation 1" class="img-rounded" />
+                                <a href="images/upwan/upwan-1-370x278.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                    <img src="images/upwan/upwan-1-370x278.jpg" alt="destnation 1" class="img-rounded" />
                                 </a>
                             </div> <!-- /.list-thumb -->
                             <div class="list-content">
-                                <a href="images/aranya/aranya-1024x780-1.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                <a href="images/upwan/upwan-1-370x278.jpg" data-fancybox data-caption="Aranya Room Pictures">
                                     <h5>Click to Enlarge</h5>
                                 </a>
                             </div> <!-- /.list-content -->
@@ -426,12 +400,38 @@
 
                         <div class="list-item">
                             <div class="list-thumb">
-                                <a href="images/aranya/aranya-1024x780-2.jpg" data-fancybox data-caption="Aranya Room Pictures">
-                                    <img src="images/aranya/aranya-370x278-2.jpg" alt="destnation 1" class="img-rounded" />
+                                <a href="images/upwan/upwan-2-370x278.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                    <img src="images/upwan/upwan-2-370x278.jpg" alt="destnation 1" class="img-rounded" />
                                 </a>
                             </div> <!-- /.list-thumb -->
                             <div class="list-content">
-                                <a href="images/aranya/aranya-1024x780-2.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                <a href="images/upwan/upwan-2-370x278.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                    <h5>Click to Enlarge</h5>
+                                </a>
+                            </div> <!-- /.list-content -->
+                        </div> <!-- /.list-item -->
+
+                          <div class="list-item">
+                            <div class="list-thumb">
+                                <a href="images/upwan/upwan-4-370x278.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                    <img src="images/upwan/upwan-4-370x278.jpg" alt="destnation 1" class="img-rounded" />
+                                </a>
+                            </div> <!-- /.list-thumb -->
+                            <div class="list-content">
+                                <a href="images/deodar/deodar-4-370x278.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                    <h5>Click to Enlarge</h5>
+                                </a>
+                            </div> <!-- /.list-content -->
+                        </div> <!-- /.list-item -->
+                        
+                        <div class="list-item">
+                            <div class="list-thumb">
+                                <a href="images/upwan/upwan-3-370x278.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                    <img src="images/upwan/upwan-3-370x278.jpg" alt="destnation 1" class="img-rounded" />
+                                </a>
+                            </div> <!-- /.list-thumb -->
+                            <div class="list-content">
+                                <a href="images/upwan/upwan-3-370x278.jpg" data-fancybox data-caption="Aranya Room Pictures">
                                     <h5>Click to Enlarge</h5>
                                 </a>
                             </div> <!-- /.list-content -->
@@ -439,12 +439,12 @@
 
                         <div class="list-item">
                             <div class="list-thumb">
-                                <a href="images/aranya/aranya-1024x780-3.jpg" data-fancybox data-caption="Aranya Room Pictures">
-                                    <img src="images/aranya/aranya-370x278-3.jpg" alt="destnation 1" class="img-rounded" />
+                                <a href="images/buransh/44-1024x780.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                    <img src="images/buransh/4-370x278.jpg" alt="destnation 1" class="img-rounded" />
                                 </a>
                             </div> <!-- /.list-thumb -->
                             <div class="list-content">
-                                <a href="images/aranya/aranya-1024x780-3.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                <a href="images/buransh/44-1024x780.jpg" data-fancybox data-caption="Aranya Room Pictures">
                                     <h5>Click to Enlarge</h5>
                                 </a>
                             </div> <!-- /.list-content -->
@@ -452,38 +452,12 @@
 
                         <div class="list-item">
                             <div class="list-thumb">
-                                <a href="images/aranya/aranya-1024x780-4.jpg" data-fancybox data-caption="Aranya Room Pictures">
-                                    <img src="images/aranya/aranya-370x278-4.jpg" alt="destnation 1" class="img-rounded" />
+                                <a href="images/buransh/55-1024x780.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                    <img src="images/buransh/5-370x278.jpg" alt="destnation 1" class="img-rounded" />
                                 </a>
                             </div> <!-- /.list-thumb -->
                             <div class="list-content">
-                                <a href="images/aranya/aranya-1024x780-4.jpg" data-fancybox data-caption="Aranya Room Pictures">
-                                    <h5>Click to Enlarge</h5>
-                                </a>
-                            </div> <!-- /.list-content -->
-                        </div> <!-- /.list-item -->
-
-                        <div class="list-item">
-                            <div class="list-thumb">
-                                <a href="images/aranya/aranya-1024x780-5.jpg" data-fancybox data-caption="Aranya Room Pictures">
-                                    <img src="images/aranya/aranya-370x278-5.jpg" alt="destnation 1" class="img-rounded" />
-                                </a>
-                            </div> <!-- /.list-thumb -->
-                            <div class="list-content">
-                                <a href="images/aranya/aranya-1024x780-5.jpg" data-fancybox data-caption="Aranya Room Pictures">
-                                    <h5>Click to Enlarge</h5>
-                                </a>
-                            </div> <!-- /.list-content -->
-                        </div> <!-- /.list-item -->
-
-                        <div class="list-item">
-                            <div class="list-thumb">
-                                <a href="images/aranya/aranya-1024x780-6.jpg" data-fancybox data-caption="Aranya Room Pictures">
-                                    <img src="images/aranya/aranya-370x278-6.jpg" alt="destnation 1" class="img-rounded" />
-                                </a>
-                            </div> <!-- /.list-thumb -->
-                            <div class="list-content">
-                                <a href="images/aranya/aranya-1024x780-6.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                <a href="images/buransh/55-1024x780.jpg" data-fancybox data-caption="Aranya Room Pictures">
                                     <h5>Click to Enlarge</h5>
                                 </a>
                             </div> <!-- /.list-content -->
@@ -492,7 +466,87 @@
                     </div> <!-- /.our-listing -->
 
                 </div> <!-- /.row -->			
+ <div class="row">
+                    <hr />
+                </div> <!-- /.row -->
 
+                <div class="row">
+
+                    <div class="widget-item">
+                        <h3 class="widget-title">Shisham</h3>
+                    </div> <!-- /.widget-item -->
+
+                       <div class="our-listing owl-carousel">
+
+                        <div class="list-item">
+                            <div class="list-thumb">
+                                <a href="images/shisham/shisham-1-370x278.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                    <img src="images/shisham/shisham-1-370x278.jpg" alt="destnation 1" class="img-rounded" />
+                                </a>
+                            </div> <!-- /.list-thumb -->
+                            <div class="list-content">
+                                <a href="images/shisham/shisham-1-370x278.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                    <h5>Click to Enlarge</h5>
+                                </a>
+                            </div> <!-- /.list-content -->
+                        </div> <!-- /.list-item -->
+
+                        <div class="list-item">
+                            <div class="list-thumb">
+                                <a href="images/shisham/shisham-2-370x278.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                    <img src="images/shisham/shisham-2-370x278.jpg" alt="destnation 1" class="img-rounded" />
+                                </a>
+                            </div> <!-- /.list-thumb -->
+                            <div class="list-content">
+                                <a href="images/shisham/shisham-2-370x278.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                    <h5>Click to Enlarge</h5>
+                                </a>
+                            </div> <!-- /.list-content -->
+                        </div> <!-- /.list-item -->
+                      
+                        
+                        <div class="list-item">
+                            <div class="list-thumb">
+                                <a href="images/shisham/shisham-3-370x278.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                    <img src="images/shisham/shisham-3-370x278.jpg" alt="destnation 1" class="img-rounded" />
+                                </a>
+                            </div> <!-- /.list-thumb -->
+                            <div class="list-content">
+                                <a href="images/shisham/shisham-3-370x278.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                    <h5>Click to Enlarge</h5>
+                                </a>
+                            </div> <!-- /.list-content -->
+                        </div> <!-- /.list-item -->
+
+                        <div class="list-item">
+                            <div class="list-thumb">
+                                <a href="images/buransh/44-1024x780.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                    <img src="images/buransh/4-370x278.jpg" alt="destnation 1" class="img-rounded" />
+                                </a>
+                            </div> <!-- /.list-thumb -->
+                            <div class="list-content">
+                                <a href="images/buransh/44-1024x780.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                    <h5>Click to Enlarge</h5>
+                                </a>
+                            </div> <!-- /.list-content -->
+                        </div> <!-- /.list-item -->
+
+                        <div class="list-item">
+                            <div class="list-thumb">
+                                <a href="images/buransh/55-1024x780.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                    <img src="images/buransh/5-370x278.jpg" alt="destnation 1" class="img-rounded" />
+                                </a>
+                            </div> <!-- /.list-thumb -->
+                            <div class="list-content">
+                                <a href="images/buransh/55-1024x780.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                    <h5>Click to Enlarge</h5>
+                                </a>
+                            </div> <!-- /.list-content -->
+                        </div> <!-- /.list-item -->
+
+                    </div> <!-- /.our-listing -->
+
+                </div> <!-- /.row -->	
 
             </div> <!-- /.container -->
         </div> <!-- /.middle-content -->
