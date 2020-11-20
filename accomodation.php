@@ -3,7 +3,13 @@
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
-
+<head>
+    <meta charset="utf-8">
+    <title>Book hotel deals luxury valley view room accommodation in Shoghi Shimla hills</title>  
+    <meta name="description" content="Shimla hotel deals for luxurious spacious valley view accommodation at Aranyavilas homestay Shoghi rooms equipped with all modern facilities and amenities">
+    <meta name="keywords" content="shimlahoteldeals,hotel rooms,valley view rooms,luxury room,valleyview accommodation,premium rooms,deluxe rooms,super deluxe rooms,honeymoon travel,shimla tours,homestay facilities,amenities,car rental,sight-seeing,car parking,drive in hotel">
+    <meta name="viewport" content="width=device-width">
+    <meta name="author" content="hpie">
     <!-- Start Import Head -->
     <?php
     include('_partials/includes.php'); // Includes Head Tags, Scripts and Libs
@@ -34,7 +40,7 @@
                                 <img class="img-responsive img-rounded" src="images/accomodation-room-view.jpg">                    
                             </div><!-- card image -->                
                             <div class="card-content">                    
-                                <h4 class="consult-title">Premium Valley View Rooms</h4>
+                                <h4 class="consult-title"><b>Premium Valley View Rooms</b></h4>
                                 <p>Valley View Room with personal balcony.</p>                                                    
                             </div><!-- card content -->
                             <div class="card-action">
@@ -48,8 +54,8 @@
                                 <img class="img-responsive img-rounded" src="images/accomodation-velly-room.jpg">                    
                             </div><!-- card image -->                
                             <div class="card-content">                    
-                               <h4 class="consult-title">Valley View Rooms</h4>
-                                <p>Valley View Room.</p>                                                    
+                                <h4 class="consult-title"><b>Luxury Valley View Rooms</b></h4><br>
+                                <p>Valley View Room with personal balcony.</p>                                                    
                             </div><!-- card content -->
                             <div class="card-action">
                                 <a href="gallery.php" >View</a>                    
@@ -59,11 +65,11 @@
                     <div class="col-md-3">
                         <div class="card">
                             <div class="card-image">
-                                <img class="img-responsive img-rounded" src="images/accomodation-room-brown.jpg">                    
+                                <img class="img-responsive img-rounded" src="images/accomodation-room-green.jpg">                    
                             </div><!-- card image -->                
                             <div class="card-content">                    
-                                 <h4 class="consult-title">Courtyard Room</h4>
-                            <p>Private Sit out area offering Valley View.</p>                                                   
+                                <h4 class="consult-title"><b>Super Deluxe Rooms</b></h4><br>
+                            <p>Valley View Room with personal balcony.</p>                                                   
                             </div><!-- card content -->
                             <div class="card-action">
                                 <a href="gallery.php" >View</a>                    
@@ -76,8 +82,8 @@
                                 <img class="img-responsive img-rounded" src="images/accomodation-room-blue.jpg">                    
                             </div><!-- card image -->                
                             <div class="card-content">                    
-                                <h4 class="consult-title">Sun Shade</h4>
-                                <p>Cozy nook.</p>                                                
+                                <h4 class="consult-title"><b>Valley View Room</b></h4><br>
+                                <p>Valley View Room with personal balcony.</p>                                                
                             </div><!-- card content -->
                             <div class="card-action">
                                 <a href="gallery.php" >View</a>                    
@@ -87,48 +93,6 @@
                 </div>
                 <hr>
                 <div class="row">
-<!--                    <h3 class="widget-title">ROOMS</h3>
-                    <div class="col-md-12">                        
-                        <div class="widget-item col-md-4">
-                            <h3 class="widget-title">ROOMS</h3>
-                            <div class="sample-thumb">
-                                <img src="images/accomodation-room-view.jpg"  alt="">
-                            </div>  /.sample-thumb 
-                            <h4 class="consult-title">Premium Valley View Rooms</h4>
-                            <p>Valley View Room with personal balcony.</p>
-                        </div>  /.widget-item 
-
-                        <div class="widget-item col-md-4">
-                            <h3 class="widget-title">ROOMS</h3>
-                            <div class="sample-thumb">
-                                <img src="images/accomodation-room-full.jpg"  alt="">
-                            </div>  /.sample-thumb 
-                            <h4 class="consult-title">Valley View Rooms</h4>
-                            <p>Valley View Room.</p>
-                        </div>  /.widget-item 
-
-                        <div class="widget-item col-md-4">
-                            <h3 class="widget-title">ROOMS</h3>
-                            <div class="sample-thumb">
-                                <img src="images/accomodation-room-brown.jpg"  alt="">
-                            </div>  /.sample-thumb 
-                            <h4 class="consult-title">Courtyard Room</h4>
-                            <p>Private Sit out area offering Valley View.</p>
-                        </div>  /.widget-item 
-
-                        <div class="widget-item col-md-4">
-                            <h3 class="widget-title">ROOMS</h3>
-                            <div class="sample-thumb">
-                                <img src="images/accomodation-room-blue.jpg"  alt="">
-                            </div>  /.sample-thumb 
-                            <h4 class="consult-title">Sun Shade</h4>
-                            <p>Cozy nook.</p>
-                        </div>  /.widget-item 
-                       
-
-                    </div>  /.col-md-4 -->
-
-
                     <div class="col-md-6">
                         <h3 class="widget-title">Facilities</h3>
                         <div class="widget-item">                            							
@@ -246,67 +210,65 @@
                         </div> <!-- /.widget-item -->
                     </div> <!-- /.col-md-4 -->
 
-                    <div class="col-md-6">
+                    
+                     <div class="col-md-6">
                         <h3 class="widget-title">HOLIDAY PACKAGES</h3>
-                        <div class="widget-item">
-                            <div class="service-item">
-                                <div class="service-icon">
-                                    <i class="fa fa-bell-o"></i>
-                                </div> <!-- /.service-icon -->
-                                <div class="service-content">
-                                    <h4><a href="packages.php#honeymoon">Honeymooners Special MAP for 2 nights 3 days</a></h4>
-                                    <!--<p>Change icons by <a rel="nofollow" href="http://fontawesome.info/font-awesome-icon-world-map/" target="_blank">Font Awesome</a> (version 4). Example: <strong>&lt;i class=&quot;fa fa-bell-o&quot;&gt;&lt;/i&gt;</strong></p>-->
-                                </div> <!-- /.service-content -->
-                            </div> <!-- /.service-item -->
-
-                            <div class="service-item">
-                                <div class="service-icon">
-                                    <i class="fa fa-bell-o"></i>
-                                </div> <!-- /.service-icon -->
-                                <div class="service-content">
-                                    <h4><a href="packages.php#trek">Aranya Summer Trek Package for 2 nights 3 days</a></h4>
-                                    <!--<p>Change icons by <a rel="nofollow" href="http://fontawesome.info/font-awesome-icon-world-map/" target="_blank">Font Awesome</a> (version 4). Example: <strong>&lt;i class=&quot;fa fa-bell-o&quot;&gt;&lt;/i&gt;</strong></p>-->
-                                </div> <!-- /.service-content -->
-                            </div> <!-- /.service-item -->
-
-                            <div class="service-item">
-                                <div class="service-icon">
-                                    <i class="fa fa-bell-o"></i>
-                                </div> <!-- /.service-icon -->
-                                <div class="service-content">
-                                    <h4><a href="packages.php#tour">Shimla Tour Package for 2 nights 3 days</a></h4>
-                                    <!--<p>Change icons by <a rel="nofollow" href="http://fontawesome.info/font-awesome-icon-world-map/" target="_blank">Font Awesome</a> (version 4). Example: <strong>&lt;i class=&quot;fa fa-bell-o&quot;&gt;&lt;/i&gt;</strong></p>-->
-                                </div> <!-- /.service-content -->
-                            </div> <!-- /.service-item -->
-
-                            <div class="service-item">
-                                <div class="service-icon">
-                                    <i class="fa fa-bell-o"></i>
-                                </div> <!-- /.service-icon -->
-                                <div class="service-content">
-                                    <h4><a href="packages.php#travel">Fully Loaded Shimla Trip for 3 nights 4 days</a></h4>
-                                    <!--<p>Change icons by <a rel="nofollow" href="http://fontawesome.info/font-awesome-icon-world-map/" target="_blank">Font Awesome</a> (version 4). Example: <strong>&lt;i class=&quot;fa fa-bell-o&quot;&gt;&lt;/i&gt;</strong></p>-->
-                                </div> <!-- /.service-content -->
-                            </div> <!-- /.service-item -->
-
-                            <div class="service-item">
-                                <div class="service-icon">
-                                    <i class="fa fa-bell-o"></i>
-                                </div> <!-- /.service-icon -->
-                                <div class="service-content">
-                                    <h4><a href="packages.php#holiday">Delhi/Chandigarh &ndash; Shimla &ndash; Delhi/Chandigarh Holiday Excursion for 4 nights 5 days</a></h4>
-                                    <!--<p>Change icons by <a rel="nofollow" href="http://fontawesome.info/font-awesome-icon-world-map/" target="_blank">Font Awesome</a> (version 4). Example: <strong>&lt;i class=&quot;fa fa-bell-o&quot;&gt;&lt;/i&gt;</strong></p>-->
-                                </div> <!-- /.service-content -->
-                            </div> <!-- /.service-item -->
-
-
+                        <div class="widget-item">                            							
+                            <div class="post-small">
+                                <div class="post-date">
+                                    <span class="time fa fa-bell-o"></span>
+                                    <span></span>
+                                </div> <!-- /.post-thumb -->
+                                <div class="post-content">                                                                        
+                                    <a href="packages.php#honeymoon"><span class="top-center">Honeymooners Special MAP for 2 nights 3 days</span></a>
+                                </div> <!-- /.post-content -->
+                            </div> <!-- /.post-small -->                          							
+                        </div> <!-- /.widget-item -->
+                         <div class="widget-item">                            							
+                            <div class="post-small">
+                                <div class="post-date">
+                                    <span class="time fa fa-bell-o"></span>
+                                    <span></span>
+                                </div> <!-- /.post-thumb -->
+                                <div class="post-content">                                                                        
+                                    <a href="packages.php#trek"><span class="top-center">Aranya Summer Trek Package for 2 nights 3 days</span></a>
+                                </div> <!-- /.post-content -->
+                            </div> <!-- /.post-small -->                          							
+                        </div> <!-- /.widget-item -->
+                          <div class="widget-item">                            							
+                            <div class="post-small">
+                                <div class="post-date">
+                                    <span class="time fa fa-bell-o"></span>
+                                    <span></span>
+                                </div> <!-- /.post-thumb -->
+                                <div class="post-content">                                                                        
+                                    <a href="packages.php#tour"><span class="top-center">Shimla Tour Package for 2 nights 3 days</span></a>
+                                </div> <!-- /.post-content -->
+                            </div> <!-- /.post-small -->                          							
+                        </div> <!-- /.widget-item -->
+                           <div class="widget-item">                            							
+                            <div class="post-small">
+                                <div class="post-date">
+                                    <span class="time fa fa-bell-o"></span>
+                                    <span></span>
+                                </div> <!-- /.post-thumb -->
+                                <div class="post-content">                                                                        
+                                    <a href="packages.php#travel"><span class="top-center">Fully Loaded Shimla Trip for 3 nights 4 days</span></a>
+                                </div> <!-- /.post-content -->
+                            </div> <!-- /.post-small -->                          							
+                        </div> <!-- /.widget-item -->
+                          <div class="widget-item">                            							
+                            <div class="post-small">
+                                <div class="post-date">
+                                    <span class="time fa fa-bell-o"></span>
+                                    <span></span>
+                                </div> <!-- /.post-thumb -->
+                                <div class="post-content">                                                                        
+                                    <a href="packages.php#holiday"><span class="top-center">Delhi/Chandigarh &ndash; Shimla &ndash; Delhi/Chandigarh Holiday Excursion for 4 nights 5 days</span></a>
+                                </div> <!-- /.post-content -->
+                            </div> <!-- /.post-small -->                          							
                         </div> <!-- /.widget-item -->
                     </div> <!-- /.col-md-4 -->
-
-
-
-
-
 
                 </div> <!-- /.row -->
             </div> <!-- /.container -->

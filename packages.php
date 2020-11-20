@@ -4,6 +4,14 @@
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
 
+  <head>
+    <meta charset="utf-8">
+    <title>Shimla tour and travel packages exclusive offer deals at Aranyavilas Shoghi hotel</title>  
+    <meta name="description" content="Offering holiday tour packages for Shimla famous tourist spots sight-seeing to Kufri,Chail,Naldehra and Shimla Mall road">
+    <meta name="keywords" content="shimlatours,shimlatravel,holidaypackages,greatdeals,shimlaoffers,trips,himachal tourism,sight seeing tour,car rental service,pick and drop,facility,special offers,exclusive hoteldeals,famous tourist spots,shoghi hotel">
+    <meta name="viewport" content="width=device-width">
+    <meta name="author" content="hpie">  
+    
 <!-- Start Import Head -->
 <?php
 	include('_partials/includes.php'); // Includes Head Tags, Scripts and Libs
@@ -32,9 +40,31 @@
                 
                 	<div class="col-md-6"><!-- first column -->
                         <div class="widget-item">
+                            <h3 class="widget-title">Christmas Trip</h3>
+                            <div class="sample-thumb">
+                                <img src="images/christ-church-shimla-1.jpg" alt="Christmas in in shimla" title="Christmas in in shimla" class="img-rounded">
+                            </div> <!-- /.sample-thumb -->
+                            <h4 class="consult-title"><a name="honeymoon"><b>Christmas and New Year Eve Package:</b></a></h4>
+                            
+							<ul>
+                                                        <li class="fa fa-chevron-circle-right"> Package offer starting for minimum three nights four days.</li> <br />
+							<li class="fa fa-chevron-circle-right"> A well-appointed room completely sanitized after every check-out.</li> <br />
+                                                        <li class="fa fa-chevron-circle-right"> Breakfast, Lunch and Dinner freshly prepared by our cook as per guest requirement.</li> <br />
+                                                        <li class="fa fa-chevron-circle-right"> Bonfire with music can be arranged.</li> <br />
+                                                        <li class="fa fa-chevron-circle-right"> Taxi for sight-seeing can be arranged for all major tourist spots like Chail, Kufri, Naldehra, Mashobra, Shimla Mall Road, Jakhoo hills, Vice Regal Lodge, Tara Devi Temple.</li> <br />
+                                                        <li class="fa fa-chevron-circle-right"> Paid cab service available for pick up and drop from Chandigarh or Shoghi-Shimla Bus Stop.</li> <br />
+                                                        <li class="fa fa-chevron-circle-right"> For honeymooner’s room decoration with cake, candle light dinner in their room can be arranged.</li> <br />
+							<li>Note : If cab booking required for sight-seeing can be arranged</li> <br />
+							</ul>
+                        <a href="contact.php" class="btn-success main-btn">Enquire Now</a>
+                        </div> <!-- /.widget-item -->
+                    </div> <!-- /.col-md-4 -->
+
+                    <div class="col-md-6"><!-- first column -->
+                        <div class="widget-item">
                             <h3 class="widget-title">Honeymoon</h3>
                             <div class="sample-thumb">
-                                <img src="images/mall-road-rainy-season-shimla.jpg" alt="about us" title="about us" class="img-rounded">
+                                <img src="images/mall-road-rainy-season-shimla.jpg" alt="honeymoon in in shimla" title="honeymoon in in shimla" class="img-rounded">
                             </div> <!-- /.sample-thumb -->
                             <h4 class="consult-title"><a name="honeymoon"><b>Honeymooners Special Package:</b></a></h4>
                             
@@ -50,12 +80,20 @@
                         <a href="contact.php" class="btn-success main-btn">Enquire Now</a>
                         </div> <!-- /.widget-item -->
                     </div> <!-- /.col-md-4 -->
-
-                    <div class="col-md-6"><!-- second column -->
+                    
+                    
+                    
+                </div> <!-- /.row first -->
+                
+				
+				
+				<div class="row"><!-- second row -->
+                
+                                <div class="col-md-6"><!-- second column -->
                         <div class="widget-item">
                             <h3 class="widget-title">Trek</h3>
                             <div class="sample-thumb">
-                                <img src="images/jakhoo-hill-shimla.jpg" alt="company" title="company" class="img-rounded">
+                                <img src="images/jakhoo-hill-shimla.jpg" alt="adventure tour shimla" title="adventure tour shimla" class="img-rounded">
                             </div> <!-- /.sample-thumb -->
                             <h4 class="consult-title"><a name="trek"><b>Aranya Summer Trek Package:</b></a></h4>
                             
@@ -78,20 +116,12 @@
 							<a href="contact.php" class="btn-success main-btn">Enquire Now</a>
                         </div> <!-- /.widget-item -->
                     </div> <!-- /.col-md-4 -->
-                    
-                    
-                    
-                </div> <!-- /.row first -->
-                
-				
-				
-				<div class="row"><!-- second row -->
-                
+                                    
                 	<div class="col-md-6"><!-- first column -->
                         <div class="widget-item">
                             <h3 class="widget-title">Tour</h3>
                             <div class="sample-thumb">
-                                <img src="images/advance-study-shimla.jpg" alt="about us" title="about us" class="img-rounded">
+                                <img src="images/advance-study-shimla.jpg" alt="adventure tour shimla" title="adventure tour shimla" class="img-rounded">
                             </div> <!-- /.sample-thumb -->
                             <h4 class="consult-title"><a name="tour"><b>Shimla Tour Package:</b></a></h4>
                             
@@ -114,11 +144,20 @@
                         </div> <!-- /.widget-item -->
                     </div> <!-- /.col-md-4 -->
 
-                    <div class="col-md-6"><!-- second column -->
+                   
+                    
+                    
+                    
+                </div> <!-- /.row second -->
+				
+				
+				
+				<div class="row"><!-- third row -->
+                 <div class="col-md-6"><!-- second column -->
                         <div class="widget-item">
                             <h3 class="widget-title">Travel</h3>
                             <div class="sample-thumb">
-                                <img src="images/shimla-church.jpg" alt="company" title="company" class="img-rounded">
+                                <img src="images/shimla-church.jpg" alt="shimla travel" title="shimla travel" class="img-rounded">
                             </div> <!-- /.sample-thumb -->
                             <h4 class="consult-title"><a name="travel"><b>Fully Loaded Shimla Trip:</b></a></h4>
                             
@@ -142,20 +181,13 @@
 							<a href="contact.php" class="btn-success main-btn">Enquire Now</a>
                         </div> <!-- /.widget-item -->
                     </div> <!-- /.col-md-4 -->
-                    
-                    
-                    
-                </div> <!-- /.row second -->
-				
-				
-				
-				<div class="row"><!-- third row -->
-                
+                                    
+                                    
                 	<div class="col-md-6"><!-- first column -->
                         <div class="widget-item">
                             <h3 class="widget-title">Holiday</h3>
                             <div class="sample-thumb">
-                                <img src="images/naldehra-shimla.jpg" alt="about us" title="about us" class="img-rounded">
+                                <img src="images/naldehra-shimla.jpg" alt="holidays in shimla" title="holidays in shimla" class="img-rounded">
                             </div> <!-- /.sample-thumb -->
                             <h4 class="consult-title"><a name="holiday"><b>Delhi/Chandigarh &ndash; Shimla &ndash; Delhi/Chandigarh Holiday Excursion:</b></a></h4>
                            

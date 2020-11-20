@@ -3,6 +3,13 @@
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <title>Aranyavilas homestay in Shimla-hotel bed n breakfast accommodation Shoghi</title>  
+    <meta name="description" content="Book Aranyavilas luxury homestay in Shoghi avail special hotel deals family tour packages and honeymoon trip in Shimla hills">
+    <meta name="keywords" content="shimlahotel,hotelsinshimla,shimlahomestay,homestayinshimla,b&bshimlashoghihotel,luxuryvilla,aranyavilas,bedandbreakfast,accommodation,travelshimla,shimladeals,treks,tours,honeymoonpackages">
+    <meta name="viewport" content="width=device-width">
+    <meta name="author" content="hpie">
 
     <!-- Start Import Head -->
     <?php
@@ -26,7 +33,7 @@
             <ul class="slides">               
                 <li>
                     <div class="overlay"></div>
-                    <img src="images/slider/slider1.jpg" alt="Special 1">
+                    <img src="images/slider/slider1.jpg" alt="home stay in shimla">
                     <div class="container">
                         <div class="row">
                             <div class="col-md-5 col-lg-4">
@@ -37,8 +44,7 @@
                                         <i class="fa fa-volume-control-phone" aria-hidden="true"></i>
                                         <i class="fa fa-cutlery" aria-hidden="true"></i>
                                     </span>
-                                    <h3 class="title">Sun Shade Room</h3>
-                                    <p>Cozy nook</p>
+                                    <h3 class="title">Valley view room</h3>                                    
                                     <a href="contact.php" class="slider-btn">Enquire Now</a>
                                 </div>
                             </div>
@@ -47,7 +53,7 @@
                 </li>
                 <li>
                     <div class="overlay"></div>
-                    <img src="images/slider/slider4.jpg" alt="Special 4">
+                    <img src="images/slider/slider4.jpg" alt="Aranyavilas Shoghi hotel">
                     <div class="container">
                         <div class="row">
                             <div class="col-md-5 col-lg-4">
@@ -58,50 +64,47 @@
                                         <i class="fa fa-volume-control-phone" aria-hidden="true"></i>
                                         <i class="fa fa-cutlery" aria-hidden="true"></i>
                                     </span>
+                                    <h3 class="title">Premium Valley View Rooms</h3>                                   
+                                    <a href="contact.php" class="slider-btn">Enquire Now</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="overlay"></div>
+                    <img src="images/slider/slider2.jpg" alt="bed & breakfast shimla">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-5 col-lg-4">
+                                <div class="flex-caption visible-lg">
+                                    <span class="price">
+                                        <i class="fa fa-bed" aria-hidden="true"></i> 
+                                        <i class="fa fa-television" aria-hidden="true"></i> 
+                                        <i class="fa fa-volume-control-phone" aria-hidden="true"></i>
+                                        <i class="fa fa-cutlery" aria-hidden="true"></i>
+                                    </span>
+                                    <h3 class="title">Valley view room</h3>
+                                    <a href="contact.php" class="slider-btn">Enquire Now</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="overlay"></div>
+                    <img src="images/slider/slider3.jpg" alt="hotel in shimla">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-5 col-lg-4">
+                                <div class="flex-caption visible-lg">
+                                    <span class="price">
+                                        <i class="fa fa-bed" aria-hidden="true"></i> 
+                                        <i class="fa fa-television" aria-hidden="true"></i> 
+                                        <i class="fa fa-volume-control-phone" aria-hidden="true"></i>
+                                        <i class="fa fa-cutlery" aria-hidden="true"></i>
+                                    </span>                                    
                                     <h3 class="title">Premium Valley View Rooms</h3>
-                                    <p>Cozy nook</p>
-                                    <a href="contact.php" class="slider-btn">Enquire Now</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </li>
-                <li>
-                    <div class="overlay"></div>
-                    <img src="images/slider/slider2.jpg" alt="Special 2">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-md-5 col-lg-4">
-                                <div class="flex-caption visible-lg">
-                                    <span class="price">
-                                        <i class="fa fa-bed" aria-hidden="true"></i> 
-                                        <i class="fa fa-television" aria-hidden="true"></i> 
-                                        <i class="fa fa-volume-control-phone" aria-hidden="true"></i>
-                                        <i class="fa fa-cutlery" aria-hidden="true"></i>
-                                    </span>
-                                    <h3 class="title">Courtyard Room</h3>
-                                    <p>You may visit </p>
-                                    <a href="contact.php" class="slider-btn">Enquire Now</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </li>
-                <li>
-                    <div class="overlay"></div>
-                    <img src="images/slider/slider3.jpg" alt="Special 3">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-md-5 col-lg-4">
-                                <div class="flex-caption visible-lg">
-                                    <span class="price">
-                                        <i class="fa fa-bed" aria-hidden="true"></i> 
-                                        <i class="fa fa-television" aria-hidden="true"></i> 
-                                        <i class="fa fa-volume-control-phone" aria-hidden="true"></i>
-                                        <i class="fa fa-cutlery" aria-hidden="true"></i>
-                                    </span>
-                                    <h3 class="title">Valley view Room</h3>
-                                    <p>Valley view Room.</p>
                                     <a href="contact.php" class="slider-btn">Enquire Now</a>
                                 </div>
                             </div>
@@ -122,7 +125,7 @@
                             <div class="title">
                                 <h4>Trek</h4>
                             </div>
-                            <img src="images/accomodation-room-blue.jpg" alt="destination 1">
+                            <img src="images/trek.jpg" alt="adventure tour shimla">
                         </div> <!-- /.list-thumb -->
                         <div class="list-content">
                             <a href="packages.php#trek">
@@ -137,14 +140,13 @@
                             <div class="title">
                                 <h4>Tour</h4>
                             </div>
-                            <img src="images/accomodation-room-brown.jpg" alt="destination 2">
+                            <img src="images/tour.jpg" alt="holidays in shimla">
                         </div> <!-- /.list-thumb -->
                         <div class="list-content">
                             <a href="packages.php#tour">
                                 <h5>Shimla Tour Package</h5>
                                 <span>More details ...</span>
                             </a>
-
                             <a href="contact.php" class="price-btn">Enquire Now</a>
                         </div> <!-- /.list-content -->
                     </div> <!-- /.list-item -->
@@ -153,7 +155,7 @@
                             <div class="title">
                                 <h4>Travel</h4>
                             </div>
-                            <img src="images/accomodation-room-green.jpg" alt="destination 3">
+                            <img src="images/travel.jpg" alt="shimla travel">
                         </div> <!-- /.list-thumb -->
                         <div class="list-content">
                             <a href="packages.php#travel">
@@ -168,7 +170,7 @@
                             <div class="title">
                                 <h4>Honeymoon</h4>
                             </div>
-                            <img src="images/destination_5.jpg" alt="destination 5">
+                            <img src="images/aranya/IMG-20201026-WA0021-370x278.jpg" alt="honeymoon in in shimla">
                         </div> <!-- /.list-thumb -->
                         <div class="list-content">
                             <a href="packages.php#honeymoon">
@@ -183,7 +185,7 @@
                             <div class="title">
                                 <h4>Holiday</h4>
                             </div>
-                            <img src="images/accomodation-property-view.jpg" alt="destination 4">
+                            <img src="images/holiday.jpg" alt="shimla holiday packages">
                         </div> <!-- /.list-thumb -->
                         <div class="list-content">
                             <a href="packages.php#holiday">                            

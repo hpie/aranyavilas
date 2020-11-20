@@ -3,7 +3,13 @@
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
-
+<head>
+    <meta charset="utf-8">
+    <title>Aranyavilas luxury bed & breakfast homestay accommodation situated in Shoghi-Shimla</title>  
+    <meta name="description" content="Reach your holiday destination Shoghi by Kalka Shimla toy train by Volvo coach or by air and enjoy vacation stay at our homestay luxury bnb Shimla">
+    <meta name="keywords" content="Aranyavilashomestay,shimlabedandbreakfast,shoghihotels,homestayinshoghiB&bshoghi,shimlahotels,luxury villa,simla,hotelsinshimla,travel,tours,resort,accommodation">
+    <meta name="viewport" content="width=device-width">
+    <meta name="author" content="hpie"> 
 <!-- Start Import Head -->
 <?php
 	include('_partials/includes.php'); // Includes Head Tags, Scripts and Libs

@@ -3,7 +3,13 @@
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
-
+<head>
+    <meta charset="utf-8">
+    <title>Contact us location details of Aranyavilas Shoghi-Shimla</title>  
+    <meta name="description" content="Aranyavilas homestay Shimla Google map location with contact details including email and whatsapp number for hotel booking">
+    <meta name="keywords" content="Contactus,phonenumber,whatsappnumber,chatwithus,email,shimlahotel,Googlemaplocation,reachus,aranyavilas,hotel,homestay,bedandbreakfast,shimla accommodation,shimlahotels">
+    <meta name="viewport" content="width=device-width">
+    <meta name="author" content="hpie"> 
     <!-- Start Import Head -->
     <?php
     include('_partials/includes.php'); // Includes Head Tags, Scripts and Libs
