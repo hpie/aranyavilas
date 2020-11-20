@@ -53,9 +53,8 @@
                                                         <li class="fa fa-chevron-circle-right"> Bonfire with music can be arranged.</li> <br />
                                                         <li class="fa fa-chevron-circle-right"> Taxi for sight-seeing can be arranged for all major tourist spots like Chail, Kufri, Naldehra, Mashobra, Shimla Mall Road, Jakhoo hills, Vice Regal Lodge, Tara Devi Temple.</li> <br />
                                                         <li class="fa fa-chevron-circle-right"> Paid cab service available for pick up and drop from Chandigarh or Shoghi-Shimla Bus Stop.</li> <br />
-                                                        <li class="fa fa-chevron-circle-right"> For honeymooner’s room decoration with cake, candle light dinner in their room can be arranged.</li> <br />
-							
-							</ul>
+                                                        <li class="fa fa-chevron-circle-right"> For honeymooner’s room decoration with cake, candle light dinner in their room can be arranged.</li> <br />							
+							</ul><br />
                         <a href="contact.php" class="btn-success main-btn">Enquire Now</a>
                         </div> <!-- /.widget-item -->
                     </div> <!-- /.col-md-4 -->
