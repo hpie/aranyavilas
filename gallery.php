@@ -218,6 +218,8 @@
                                 </a>
                             </div>  /.list-content -->
                         </div> <!-- /.list-item -->
+                        
+                      
 
                         <div class="list-item">
                             <div class="list-thumb">
@@ -227,6 +229,18 @@
                             </div> <!-- /.list-thumb -->
 <!--                            <div class="list-content">
                                 <a href="images/chinar/chinar-3-370x278.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                    <h5>Click to Enlarge</h5>
+                                </a>
+                            </div>  /.list-content -->
+                        </div> <!-- /.list-item -->
+                          <div class="list-item">
+                            <div class="list-thumb">
+                                <!--<a href="images/chinar/chinar-1-370x278.jpg" data-fancybox data-caption="Aranya Room Pictures">-->
+                                    <img src="images/chinar/chinar-2-370x278.jpg" alt="hotel images" class="img-rounded" />
+                                <!--</a>-->
+                            </div> <!-- /.list-thumb -->
+<!--                            <div class="list-content">
+                                <a href="images/chinar/chinar-1-370x278.jpg" data-fancybox data-caption="Aranya Room Pictures">
                                     <h5>Click to Enlarge</h5>
                                 </a>
                             </div>  /.list-content -->
@@ -302,7 +316,18 @@
                             </div>  /.list-content -->
                         </div> <!-- /.list-item -->
 
-                        
+                         <div class="list-item">
+                            <div class="list-thumb">
+                                <!--<a href="images/deodar/deodar-1-370x278.jpg" data-fancybox data-caption="Aranya Room Pictures">-->
+                                    <img src="images/deodar/deodar-2-370x278.jpg" alt="premium rooms" class="img-rounded" />
+                                <!--</a>-->
+                            </div> <!-- /.list-thumb -->
+<!--                            <div class="list-content">
+                                <a href="images/deodar/deodar-1-370x278.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                    <h5>Click to Enlarge</h5>
+                                </a>
+                            </div>  /.list-content -->
+                        </div> <!-- /.list-item -->
 
                         <div class="list-item">
                             <div class="list-thumb">

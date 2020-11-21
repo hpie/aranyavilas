@@ -68,7 +68,7 @@
                                 <img class="img-responsive img-rounded" src="images/accomodation-room-green.jpg">                    
                             </div><!-- card image -->                
                             <div class="card-content">                    
-                                <h4 class="consult-title"><b>Super Deluxe Rooms</b></h4><br>
+                                <h4 class="consult-title"><b>Honeymoon valley view room</b></h4><br>
                             <p>Valley View Room with personal balcony.</p>                                                   
                             </div><!-- card content -->
                             <div class="card-action">
@@ -82,7 +82,7 @@
                                 <img class="img-responsive img-rounded" src="images/accomodation-room-blue.jpg">                    
                             </div><!-- card image -->                
                             <div class="card-content">                    
-                                <h4 class="consult-title"><b>Valley View Room</b></h4><br>
+                                <h4 class="consult-title"><b>Super Deluxe Valley View Room</b></h4><br>
                                 <p>Valley View Room with personal balcony.</p>                                                
                             </div><!-- card content -->
                             <div class="card-action">
@@ -205,7 +205,29 @@
                                     <span>Intercom Facility</span>
                                     <p>Our room service, housekeeping and laundry service is just a call away </p>
                                 </div> <!-- /.post-content -->
-                            </div> <!-- /.post-small -->							
+                            </div> <!-- /.post-small -->
+                            <div class="post-small">
+                                <div class="post-date">
+                                    <span class="time fa fa-cog"></span>
+                                    <span></span>
+                                </div> <!-- /.post-thumb -->
+                                <div class="post-content">
+                                    <h4><a href="#"></a></h4>
+                                    <span>Free WiFi</span>
+                                    <p>Free High Speed Internet (WiFi)</p>
+                                </div> <!-- /.post-content -->
+                            </div> <!-- /.post-small -->
+                             <div class="post-small">
+                                <div class="post-date">
+                                    <span class="time fa fa-cog"></span>
+                                    <span></span>
+                                </div> <!-- /.post-thumb -->
+                                <div class="post-content">
+                                    <h4><a href="#"></a></h4>
+                                    <span>Power backup</span>
+                                    <!--<p>Free High Speed Internet (WiFi)</p>-->
+                                </div> <!-- /.post-content -->
+                            </div> <!-- /.post-small -->
 
                         </div> <!-- /.widget-item -->
                     </div> <!-- /.col-md-4 -->

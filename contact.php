@@ -33,7 +33,7 @@
         <div class="contact-page">
             <div class="container">                
                 <div class="row">
-                         <div class="col-md-4 text-center">
+                         <div class="col-md-3 text-center">
                              <div class="card">
                                  <br>
                         <i class="fa fa-map-marker fa-3x"></i>
@@ -47,7 +47,7 @@
                         <br>                        
                         </div>
                     </div><!-- //col -->
-                    <div class="col-md-4 text-center">
+                    <div class="col-md-3 text-center">
                         <div class="card">
                             <br>
                         <i class="fa fa-headphones fa-3x"></i><br>  
@@ -55,13 +55,26 @@
                         <b>
                         <a href="tel:0919857008200">091-985-700-8200</a><br> 
                         <a href="tel:0919857008300">091-985-700-8300</a> <br>
-                        <a href="tel:0917018128686">091-701-812-8686</a>
+                        <a href="tel:0917018128686">091-701-812-8686</a>                         
                         </b>
                         <br>
                         <br>
                         </div>
                     </div><!-- //col -->
-                    <div class="col-md-4 text-center">
+                    <div class="col-md-3 text-center">
+                        <div class="card">
+                            <br>
+                        <i class="fa fa-whatsapp fa-3x"></i><br>  
+                        <h4 class="fa-2x">WhatsApp</h4><br>
+                        <b>
+                        <a href="#">091-985-700-8200</a><br>                                                  
+                        </b>
+                        <br>
+                        <br>
+                         <br>
+                        </div>
+                    </div><!-- //col -->
+                    <div class="col-md-3 text-center">
                         <div class="card">
                             <br>
                         <i class="fa fa-at fa-3x"></i>
