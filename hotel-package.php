@@ -40,9 +40,9 @@
                 
                 	<div class="col-md-6"><!-- first column -->
                         <div class="widget-item">
-                            <h3 class="widget-title">Christmas Trip</h3>
+                            <h3 class="widget-title">Christmas New Year Eve</h3>
                             <div class="sample-thumb">
-                                <img src="images/christ-church-shimla-1.jpg" alt="Christmas in in shimla" title="Christmas in in shimla" class="img-rounded">
+                                <img src="images/christ-church-shimla-1.jpg" alt="chritsamas new year shimla" title="chritsamas new year shimla" class="img-rounded">
                             </div> <!-- /.sample-thumb -->
                             <h4 class="consult-title"><a name="honeymoon"><b>Christmas and New Year Eve Package:</b></a></h4>
                             
@@ -61,9 +61,9 @@
 
                     <div class="col-md-6"><!-- first column -->
                         <div class="widget-item">
-                            <h3 class="widget-title">Honeymoon</h3>
+                            <h3 class="widget-title">Honeymoon in shimla</h3>
                             <div class="sample-thumb">
-                                <img src="images/mall-road-rainy-season-shimla.jpg" alt="honeymoon in in shimla" title="honeymoon in in shimla" class="img-rounded">
+                                <img src="images/mall-road-rainy-season-shimla.jpg" alt="honeymoon in shimla" title="honeymoon in in shimla" class="img-rounded">
                             </div> <!-- /.sample-thumb -->
                             <h4 class="consult-title"><a name="honeymoon"><b>Honeymooners Special Package:</b></a></h4>
                             
@@ -120,7 +120,7 @@
                         <div class="widget-item">
                             <h3 class="widget-title">Tour</h3>
                             <div class="sample-thumb">
-                                <img src="images/advance-study-shimla.jpg" alt="adventure tour shimla" title="adventure tour shimla" class="img-rounded">
+                                <img src="images/advance-study-shimla.jpg" alt="shimla holiday package" title="shimla holiday package" class="img-rounded">
                             </div> <!-- /.sample-thumb -->
                             <h4 class="consult-title"><a name="tour"><b>Shimla Tour Package:</b></a></h4>
                             

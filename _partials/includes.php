@@ -13,6 +13,6 @@
         }
         .top-center{
             padding-top: 5% !important;
-        }
-    </style>    
+        }        
+    </style>           
 </head>

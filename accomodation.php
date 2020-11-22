@@ -37,7 +37,7 @@
                     <div class="col-md-3">
                         <div class="card">
                             <div class="card-image">
-                                <img class="img-responsive img-rounded" src="images/accomodation-room-view.jpg">                    
+                                <img class="img-responsive img-rounded" src="images/accommodation-room-view.jpg" alt="Premium Valley View Rooms in shimla">                    
                             </div><!-- card image -->                
                             <div class="card-content">                    
                                 <h4 class="consult-title"><b>Premium Valley View Rooms</b></h4>
@@ -51,7 +51,7 @@
                     <div class="col-md-3">
                         <div class="card">
                             <div class="card-image">
-                                <img class="img-responsive img-rounded" src="images/accomodation-velly-room.jpg">                    
+                                <img class="img-responsive img-rounded" src="images/accommodation-valley-room.jpg" alt="Luxury Valley View Rooms Hotel aranyavilas">                    
                             </div><!-- card image -->                
                             <div class="card-content">                    
                                 <h4 class="consult-title"><b>Luxury Valley View Rooms</b></h4><br>
@@ -65,7 +65,7 @@
                     <div class="col-md-3">
                         <div class="card">
                             <div class="card-image">
-                                <img class="img-responsive img-rounded" src="images/accomodation-room-green.jpg">                    
+                                <img class="img-responsive img-rounded" src="images/accomodation-room-green.jpg" alt="Honeymoon valley view room shimla hotel">                    
                             </div><!-- card image -->                
                             <div class="card-content">                    
                                 <h4 class="consult-title"><b>Honeymoon valley view room</b></h4><br>
@@ -79,7 +79,7 @@
                     <div class="col-md-3">
                         <div class="card">
                             <div class="card-image">
-                                <img class="img-responsive img-rounded" src="images/accomodation-room-blue.jpg">                    
+                                <img class="img-responsive img-rounded" src="images/accomodation-room-blue.jpg" alt="Super Deluxe Valley View Room In Shimla">                    
                             </div><!-- card image -->                
                             <div class="card-content">                    
                                 <h4 class="consult-title"><b>Super Deluxe Valley View Room</b></h4><br>

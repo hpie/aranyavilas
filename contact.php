@@ -40,7 +40,7 @@
                         <h4 class="fa-2x">Visit Us at</h4><br>
                         <b>                        
                             <a href="#">Aranyavilas Shoghi</a><br>
-                            <a href="#">Shoghi-Mehli Bypass Road</a><br>
+                            <a href="#">Shoghi-Anandpur road</a><br>
                             <a href="#">Pin: 171219</a>                                                                               
                         </b>
                         <br>

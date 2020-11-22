@@ -57,7 +57,7 @@
                         <div class="list-item">
                             <div class="list-thumb">
                                 <!--<a href="images/aranya/aranya-1024x780-2.jpg" data-fancybox data-caption="Aranya Room Pictures">-->
-                                    <img src="images/aranya/aranya-2-370x278.jpg" alt="velly view rooms" class="img-rounded" />
+                                    <img src="images/aranya/aranya-2-370x278.jpg" alt="valley view rooms" class="img-rounded" />
                                 <!--</a>-->
                             </div> <!-- /.list-thumb -->
 <!--                            <div class="list-content">
@@ -249,7 +249,7 @@
                         <div class="list-item">
                             <div class="list-thumb">
                                 <!--<a href="images/buransh/44-1024x780.jpg" data-fancybox data-caption="Aranya Room Pictures">-->
-                                    <img src="images/buransh/4-370x278.jpg" alt="velly view rooms" class="img-rounded" />
+                                    <img src="images/buransh/4-370x278.jpg" alt="valley view rooms" class="img-rounded" />
                                 <!--</a>-->
                             </div> <!-- /.list-thumb -->
 <!--                            <div class="list-content">
