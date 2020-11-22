@@ -300,9 +300,7 @@
                                 </a>
                             </div>  /.list-content -->
                         </div> <!-- /.list-item -->
-
                         
-
                         <div class="list-item">
                             <div class="list-thumb">
                                 <!--<a href="images/deodar/deodar-3-370x278.jpg" data-fancybox data-caption="Aranya Room Pictures">-->

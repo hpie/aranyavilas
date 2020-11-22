@@ -242,7 +242,7 @@
                                     <span></span>
                                 </div> <!-- /.post-thumb -->
                                 <div class="post-content">                                                                        
-                                    <a href="packages.php#honeymoon"><span class="top-center">Honeymooners Special MAP for 2 nights 3 days</span></a>
+                                    <a href="hotel-package.php#honeymoon"><span class="top-center">Honeymooners Special MAP for 2 nights 3 days</span></a>
                                 </div> <!-- /.post-content -->
                             </div> <!-- /.post-small -->                          							
                         </div> <!-- /.widget-item -->
@@ -253,7 +253,7 @@
                                     <span></span>
                                 </div> <!-- /.post-thumb -->
                                 <div class="post-content">                                                                        
-                                    <a href="packages.php#trek"><span class="top-center">Aranya Summer Trek Package for 2 nights 3 days</span></a>
+                                    <a href="hotel-package.php#trek"><span class="top-center">Aranya Summer Trek Package for 2 nights 3 days</span></a>
                                 </div> <!-- /.post-content -->
                             </div> <!-- /.post-small -->                          							
                         </div> <!-- /.widget-item -->
@@ -264,7 +264,7 @@
                                     <span></span>
                                 </div> <!-- /.post-thumb -->
                                 <div class="post-content">                                                                        
-                                    <a href="packages.php#tour"><span class="top-center">Shimla Tour Package for 2 nights 3 days</span></a>
+                                    <a href="hotel-package.php#tour"><span class="top-center">Shimla Tour Package for 2 nights 3 days</span></a>
                                 </div> <!-- /.post-content -->
                             </div> <!-- /.post-small -->                          							
                         </div> <!-- /.widget-item -->
@@ -275,7 +275,7 @@
                                     <span></span>
                                 </div> <!-- /.post-thumb -->
                                 <div class="post-content">                                                                        
-                                    <a href="packages.php#travel"><span class="top-center">Fully Loaded Shimla Trip for 3 nights 4 days</span></a>
+                                    <a href="hotel-package.php#travel"><span class="top-center">Fully Loaded Shimla Trip for 3 nights 4 days</span></a>
                                 </div> <!-- /.post-content -->
                             </div> <!-- /.post-small -->                          							
                         </div> <!-- /.widget-item -->
@@ -286,7 +286,7 @@
                                     <span></span>
                                 </div> <!-- /.post-thumb -->
                                 <div class="post-content">                                                                        
-                                    <a href="packages.php#holiday"><span class="top-center">Delhi/Chandigarh &ndash; Shimla &ndash; Delhi/Chandigarh Holiday Excursion for 4 nights 5 days</span></a>
+                                    <a href="hotel-package.php#holiday"><span class="top-center">Delhi/Chandigarh &ndash; Shimla &ndash; Delhi/Chandigarh Holiday Excursion for 4 nights 5 days</span></a>
                                 </div> <!-- /.post-content -->
                             </div> <!-- /.post-small -->                          							
                         </div> <!-- /.widget-item -->

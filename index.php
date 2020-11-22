@@ -128,7 +128,7 @@
                             <img src="images/trek.jpg" alt="adventure tour shimla">
                         </div> <!-- /.list-thumb -->
                         <div class="list-content">
-                            <a href="packages.php#trek">
+                            <a href="hotel-package.php#trek">
                                 <h5>Aranya Summer Trek Package</h5>
                                 <span>More details ...</span>
                             </a>
@@ -143,7 +143,7 @@
                             <img src="images/tour.jpg" alt="holidays in shimla">
                         </div> <!-- /.list-thumb -->
                         <div class="list-content">
-                            <a href="packages.php#tour">
+                            <a href="hotel-package.php#tour">
                                 <h5>Shimla Tour Package</h5>
                                 <span>More details ...</span>
                             </a>
@@ -158,7 +158,7 @@
                             <img src="images/travel.jpg" alt="shimla travel">
                         </div> <!-- /.list-thumb -->
                         <div class="list-content">
-                            <a href="packages.php#travel">
+                            <a href="hotel-package.php#travel">
                                 <h5>Fully Loaded Shimla Trip</h5>
                                 <span>More details ...</span>
                             </a>
@@ -173,7 +173,7 @@
                             <img src="images/aranya/IMG-20201026-WA0021-370x278.jpg" alt="honeymoon in in shimla">
                         </div> <!-- /.list-thumb -->
                         <div class="list-content">
-                            <a href="packages.php#honeymoon">
+                            <a href="hotel-package.php#honeymoon">
                                 <h5>Honeymooners Special</h5>
                                 <span>More details ...</span>
                             </a>
@@ -188,7 +188,7 @@
                             <img src="images/holiday.jpg" alt="shimla holiday packages">
                         </div> <!-- /.list-thumb -->
                         <div class="list-content">
-                            <a href="packages.php#holiday">                            
+                            <a href="hotel-package.php#holiday">                            
                                 <h5>Delhi/Chandigarh &ndash; Shimla &ndash; Delhi/Chandigarh Holiday Excursion</h5>
                                 <span>More details ...</span>
                             </a>
