@@ -25,11 +25,8 @@
                     </div> <!-- /.col-md-4 -->
                     <div class="col-md-4 col-sm-4">
                         <ul class="social-icons">
-                            <li><a href="#" class="fa fa-facebook"></a></li>
-                            <li><a href="#" class="fa fa-twitter"></a></li>
-                            <li><a href="#" class="fa fa-linkedin"></a></li>
-                            <li><a href="#" class="fa fa-flickr"></a></li>
-                            <li><a href="#" class="fa fa-rss"></a></li>
+                            <li><a href="https://www.facebook.com/Aranyavilas/" class="fa fa-facebook"></a></li>
+                            <li><a href="https://www.instagram.com/p/CHiGGbNgdiw/?igshid=1w0ec3zj198hj" class="fa fa-instagram"></a></li>                          
                         </ul>
                     </div> <!-- /.col-md-4 -->
                 </div> <!-- /.row -->
