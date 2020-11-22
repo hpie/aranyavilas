@@ -463,7 +463,7 @@ h3.widget-title {
 
 @media screen and (min-width: 240px) {
     .our-listing {
-        margin-top: 50px;
+        /*margin-top: 50px;*/
     }
 }
 
