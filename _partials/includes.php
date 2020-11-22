@@ -13,6 +13,15 @@
         }
         .top-center{
             padding-top: 5% !important;
-        }        
+        }
+        @media screen and (max-width: 500px) {
+            .flexslider {
+               position: relative;
+               top: 60px;
+               width: 100%;
+               overflow: hidden;
+            }
+        }
+       
     </style>           
 </head>
