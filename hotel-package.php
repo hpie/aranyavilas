@@ -63,7 +63,7 @@
                         <div class="widget-item">
                             <h3 class="widget-title">Honeymoon in shimla</h3>
                             <div class="sample-thumb">
-                                <img src="images/mall-road-rainy-season-shimla.jpg" alt="honeymoon in shimla" title="honeymoon in in shimla" class="img-rounded">
+                                <img src="images/mall-road-rainy-season-shimla.jpg" alt="honeymoon in shimla" title="honeymoon in shimla" class="img-rounded">
                             </div> <!-- /.sample-thumb -->
                             <h4 class="consult-title"><a name="honeymoon"><b>Honeymooners Special Package:</b></a></h4>
                             

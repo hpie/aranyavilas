@@ -170,7 +170,7 @@
                             <div class="title">
                                 <h4>Honeymoon</h4>
                             </div>
-                            <img src="images/aranya/IMG-20201026-WA0021-370x278.jpg" alt="honeymoon in in shimla">
+                            <img src="images/aranya/IMG-20201026-WA0021-370x278.jpg" alt="honeymoon in shimla">
                         </div> <!-- /.list-thumb -->
                         <div class="list-content">
                             <a href="hotel-package.php#honeymoon">
