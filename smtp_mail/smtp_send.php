@@ -51,9 +51,9 @@ class SMTP_mail {
         
         $this->sender_email ='info@codexives.com';
 
-        $this->sender_name ='Gyanshala';
+        $this->sender_name ='Aranyavilas';
 
-        $this->subject ='User Details';
+        $this->subject ='Contact us details';
 
         $this->mail->isSMTP();
 
