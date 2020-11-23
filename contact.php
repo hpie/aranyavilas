@@ -5,6 +5,13 @@
         $sendmail = new \SMTP_mail();
         $resMail = $sendmail->sendTestMail($_POST);        
 //        print_r($resMail);die;
+        
+        ?>
+<script>
+alert('Message sent successfully');
+</script>
+<?php
+        
     }    
 ?>
 <!DOCTYPE html>
