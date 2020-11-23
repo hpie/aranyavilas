@@ -4,7 +4,7 @@
         include('smtp_mail/smtp_send.php');    
         $sendmail = new \SMTP_mail();
         $resMail = $sendmail->sendTestMail($_POST);        
-        print_r($resMail);die;
+//        print_r($resMail);die;
     }    
 ?>
 <!DOCTYPE html>
