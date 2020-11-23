@@ -73,9 +73,7 @@ class SMTP_mail {
 
         $this->mail->Password = $this->password;
 
-        $this->mail->setFrom($this->sender_email);
-
-        $this->mail->addReplyTo($this->sender_email);
+        $this->mail->setFrom($this->sender_email,"Aranyavilas");
 
         $this->mail->addAddress("info@aranyavilas.com");
 
