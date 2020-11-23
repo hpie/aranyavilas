@@ -17,7 +17,7 @@
         @media screen and (max-width: 500px) {
             .flexslider {
                position: relative;
-               top: 60px;
+               top: 60px !important;
                width: 100%;
                overflow: hidden;
             }

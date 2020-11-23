@@ -1,3 +1,12 @@
+<?php
+
+    if(isset($_POST['name'])){
+        include('smtp_mail/smtp_send.php');    
+        $sendmail = new \SMTP_mail();
+        $resMail = $sendmail->sendTestMail($_POST);        
+        print_r($resMail);die;
+    }    
+?>
 <!DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
@@ -112,18 +121,18 @@
                     <div class="col-md-6 col-sm-6">
                         <h3 class="widget-title">Contact Us</h3>
                         <div class="contact-form">
-                            <form name="contactform" id="contactform" action="#" method="post">
+                            <form name="contactform" id="contactform" action="contact.php" method="post">
                                 <p>
-                                    <input name="name" type="text" id="name" placeholder="Your Name">
+                                    <input name="name" type="text" id="name" placeholder="Your Name" required="">
                                 </p>
                                 <p>
-                                    <input name="email" type="text" id="email" placeholder="Your Email"> 
+                                    <input name="email" type="text" id="email" placeholder="Your Email" required=""> 
                                 </p>
                                 <p>
-                                    <input name="subject" type="text" id="subject" placeholder="Subject"> 
+                                    <input name="subject" type="text" id="subject" placeholder="Subject" required=""> 
                                 </p>
                                 <p>
-                                    <textarea name="message" id="message" placeholder="Message"></textarea>    
+                                    <textarea name="message" id="message" placeholder="Message" required=""></textarea>    
                                 </p>
                                 <input type="submit" class="mainBtn" id="submit" value="Send Message">
                             </form>
