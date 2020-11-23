@@ -38,7 +38,7 @@ class SMTP_mail {
     public function __construct() {
 //        $this->mail = new PHPMailer;        
 //        $this->port = 465;
-//        $this->host = "mail.aranyavilas.com";       
+//        $this->host = "hostingserver.leewaysoftech.com";       
 //        $this->username = "info@aranyavilas.com";
 //        $this->password = "@rany2!nf0#m21l";
         $this->mail = new PHPMailer;        
@@ -77,12 +77,12 @@ class SMTP_mail {
 
         $this->mail->addReplyTo($this->sender_email);
 
-        $this->mail->addAddress("vasimlook@gmail.com");
+        $this->mail->addAddress("info@aranyavilas.com");
 
         $this->mail->Subject = $this->subject;
 
-//        $this->mail->Body ='Email \r\n\r\n Username: \r\n\r\n Password:';
-         $this->mail->Body ='Name: '.$data['name'].' \r\n\r\n Email: '.$data['email'].'\r\n\r\n Subject:'.$data['subject'].'\r\n\r\n Message:'.$data['message'];
+        $this->mail->isHTML(true);                                  // Set email format to HTML                                   
+        $this->mail->Body ='Name: '.$data['name'].'<br> Email: '.$data['email'].'<br> Subject:'.$data['subject'].'<br> Message:'.$data['message'];
 
         $this->mail->AltBody = "";
 
