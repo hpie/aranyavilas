@@ -36,15 +36,20 @@ class SMTP_mail {
 
    // public $product_name;
     public function __construct() {
+//        $this->mail = new PHPMailer;        
+//        $this->port = 465;
+//        $this->host = "mail.aranyavilas.com";       
+//        $this->username = "info@aranyavilas.com";
+//        $this->password = "@rany2!nf0#m21l";
         $this->mail = new PHPMailer;        
         $this->port = 465;
-        $this->host = "hostingserver.leewaysoftech.com";       
-        $this->username = "info@aranyavilas.com";
-        $this->password = "@rany2!nf0#m21l";
+        $this->host = "mail.codexives.com";       
+        $this->username = "info@codexives.com";
+        $this->password = "info@123CDX";
     }   
     public function sendTestMail($data) {       
         
-        $this->sender_email ='info@aranyavilas.com';
+        $this->sender_email ='info@codexives.com';
 
         $this->sender_name ='Gyanshala';
 
