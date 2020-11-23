@@ -134,7 +134,23 @@
                                 <p>
                                     <textarea name="message" id="message" placeholder="Message" required=""></textarea>    
                                 </p>
-                                <input type="submit" class="mainBtn" id="submit" value="Send Message">
+                                
+                                
+                                <div>                               
+                                    <script nonce='S51U26wMQz' type="text/javascript" src="https://www.google.com/recaptcha/api.js" async defer></script>
+                                    <script nonce='S51U26wMQz' type="text/javascript">
+                                        function enableLogin() {
+                                            document.getElementById("submit").disabled = false;
+                                        }
+                                    </script>
+                                    <div class="g-recaptcha" style="" data-sitekey="6LdnvCQUAAAAAGmHBukXVzjs5NupVLlaIHJdpFWo" data-callback="enableLogin"></div>                        
+                                    <br>
+                                </div>                                
+                                <input type="submit" class="btn-primary" id="submit" value="Send Message" disabled="">
+                                
+                                <!--<input type="submit"   id="btnSubmit" disabled="" class="btn primary_btn btn_disabled submit col-xs-12 btn-info" value="Log in" name="login"/>-->
+                                
+                                
                             </form>
                         </div> <!-- /.contact-form -->
                     </div>
