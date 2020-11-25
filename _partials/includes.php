@@ -14,12 +14,19 @@
         .top-center{
             padding-top: 5% !important;
         }
-        @media screen and (max-width: 500px) {
+        @media screen and (max-width: 500px) and (min-width: 300px) {
             .flexslider {
-               position: relative;
-               top: 60px !important;
-               width: 100%;
-               overflow: hidden;
+               position: relative !important;
+               top: 100px !important;
+               width: 100% !important;
+               overflow: hidden !important;
+            }
+            .our-listing {
+                position: relative;
+                z-index: 98;
+                top: 145px !important;
+                left: 0;
+                margin-top: -50px;
             }
         }
        
