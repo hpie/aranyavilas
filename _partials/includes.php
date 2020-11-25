@@ -24,9 +24,9 @@
             .our-listing {
                 position: relative;
                 z-index: 98;
-                top: 145px !important;
+                /*top: 130px !important;*/
                 left: 0;
-                margin-top: -50px;
+                margin-top: 70px !important;
             }
         }
        
