@@ -219,10 +219,14 @@
 
                     <div class="col-xs-12">
                         <div class="card">
+                            <div class="flex-caption">
+                                    <h3 class="title">Valley View Rooms</h3>                                    
+                                </div>
                             <img src="images/accommodation-valley-room.jpg" alt="Avatar" style="width:100%">
+                            
                             <div class="container">
                                 <div class="flex-caption">
-                                    <h3 class="title">Valley View Rooms</h3>
+                                    <!--<h3 class="title">Valley View Rooms</h3>-->
                                     <span class="price">
                                         <i class="fa fa-bed" aria-hidden="true"></i> 
                                         <i class="fa fa-television" aria-hidden="true"></i> 

@@ -44,14 +44,14 @@
                 text-align: center;
             }
             .flex-caption span.price {
-                background: #e54747;
-                color: #fff;
-                text-transform: uppercase;
-                font-weight: 700;
-                font-size: 30px;
-                padding: 10px 10px;
-                display: block;
-                margin-top: 15px;
+                    background: #e54747;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 20px;
+    padding: 10px 10px;
+    display: block;
+    margin-top: 15px;
             }
             .flex-caption h3.title {
                 font-size: 25px;
@@ -60,13 +60,13 @@
             }
             .flex-caption a.slider-btn {
                 background: #9ed034;
-                color: #fff;
-                text-transform: uppercase;
-                font-size: 15px;
-                font-weight: 700;
-                padding: 15px 15px;
-                display: block;
-                margin-top: 5px;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: 700;
+    padding: 10px 15px;
+    display: block;
+    margin-top: 5px;
             }
         }
        
