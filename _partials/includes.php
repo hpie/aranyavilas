@@ -48,25 +48,25 @@
                 color: #fff;
                 text-transform: uppercase;
                 font-weight: 700;
-                font-size: 20px;
+                font-size: 30px;
                 padding: 10px 10px;
-                display: inline-block;
+                display: block;
                 margin-top: 15px;
             }
             .flex-caption h3.title {
-                font-size: 15px;
+                font-size: 25px;
                 font-weight: 600;
-                margin: 10px 0 22px 0;
+                margin: 22px 0 22px 0;
             }
             .flex-caption a.slider-btn {
                 background: #9ed034;
                 color: #fff;
                 text-transform: uppercase;
-                font-size: 14px;
+                font-size: 15px;
                 font-weight: 700;
-                padding: 10px 6px;
-                display: inline-block;
-                margin-top: -10px;
+                padding: 15px 15px;
+                display: block;
+                margin-top: 5px;
             }
         }
        
