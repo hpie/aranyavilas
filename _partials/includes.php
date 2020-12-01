@@ -28,6 +28,46 @@
                 left: 0;
                 margin-top: 90px !important;
             }
+            .middle-content {
+                 margin-top: 100px;
+                 margin-bottom: 40px;
+             }
+             .flex-caption {
+                position: relative; 
+                /*wdith: 100%;*/
+                margin-left: 0px; 
+                left: 0; 
+                bottom: 0px; 
+                background-color: #fff;
+                padding: 15px;
+                z-index: 10;
+                text-align: center;
+            }
+            .flex-caption span.price {
+                background: #e54747;
+                color: #fff;
+                text-transform: uppercase;
+                font-weight: 700;
+                font-size: 20px;
+                padding: 10px 10px;
+                display: inline-block;
+                margin-top: 15px;
+            }
+            .flex-caption h3.title {
+                font-size: 15px;
+                font-weight: 600;
+                margin: 10px 0 22px 0;
+            }
+            .flex-caption a.slider-btn {
+                background: #9ed034;
+                color: #fff;
+                text-transform: uppercase;
+                font-size: 14px;
+                font-weight: 700;
+                padding: 10px 6px;
+                display: inline-block;
+                margin-top: -10px;
+            }
         }
        
     </style>           

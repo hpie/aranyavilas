@@ -115,9 +115,9 @@
             </ul>
         </div> <!-- /.flexslider -->
 
+      
 
-
-        <div class="container">
+        <div class="container visible-lg">
             <div class="row">
                 <div class="our-listing owl-carousel">
                     <div class="list-item">
@@ -213,7 +213,36 @@
             </div> <!-- /.row -->
         </div> <!-- /.container -->
 
-        <div class="middle-content"></div>
+        <div class="middle-content hidden-lg">
+            <div class="container">
+                        <div class="row">
+                            <div class="col-xs-6"> 
+                                <div class="flex-caption card">
+                                     <span class="price">
+                                        <i class="fa fa-bed" aria-hidden="true"></i> 
+                                        <i class="fa fa-television" aria-hidden="true"></i> 
+                                        <i class="fa fa-volume-control-phone" aria-hidden="true"></i>
+                                        <i class="fa fa-cutlery" aria-hidden="true"></i>
+                                    </span>
+                                    <h3 class="title">Valley view room</h3>                                    
+                                    <a href="contact.php" class="slider-btn">Enquire Now</a>
+                                </div>
+                            </div>
+                            <div class="col-xs-6"> 
+                                <div class="flex-caption card">
+                                    <span class="price">
+                                        <i class="fa fa-bed" aria-hidden="true"></i> 
+                                        <i class="fa fa-television" aria-hidden="true"></i> 
+                                        <i class="fa fa-volume-control-phone" aria-hidden="true"></i>
+                                        <i class="fa fa-cutlery" aria-hidden="true"></i>
+                                    </span>
+                                    <h3 class="title">Premium Valley View Rooms</h3>                                   
+                                    <a href="contact.php" class="slider-btn">Enquire Now</a>
+                                </div>
+                            </div>                          
+                        </div>
+                    </div>                                                 
+        </div>
 
         <!-- Start Import Testimonials -->
         <?php
