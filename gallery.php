@@ -33,7 +33,167 @@
         <div class="middle-content">
             <div class="container">
 
+                                <div class="row">
+
+                    <div class="widget-item">
+                        <h3 class="widget-title">Food and View</h3>
+                    </div> <!-- /.widget-item -->
+
+                    <div class="our-listing owl-carousel">
+
+                        <div class="list-item">
+                            <div class="list-thumb">
+                                <!--<a href="images/aranya/aranya-1024x780-1.jpg" data-fancybox data-caption="Aranya Room Pictures">-->
+                                    <img src="images/foodandview/FB_IMG_1595353085540_1-370x278.jpg" alt="aranyavilas shimla rooms" class="img-rounded" />
+                                <!--</a>-->
+                            </div> <!-- /.list-thumb -->
+<!--                            <div class="list-content">
+                                <a href="images/aranya/aranya-1024x780-1.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                    <h5>Click to Enlarge</h5>
+                                </a>
+                            </div>  /.list-content -->
+                        </div> <!-- /.list-item -->
+
+                        <div class="list-item">
+                            <div class="list-thumb">
+                                <!--<a href="images/aranya/aranya-1024x780-2.jpg" data-fancybox data-caption="Aranya Room Pictures">-->
+                                    <img src="images/foodandview/IMG_20200930_224846-370x278.jpg" alt="aranyavilas food chienese" class="img-rounded" />
+                                <!--</a>-->
+                            </div> <!-- /.list-thumb -->
+<!--                            <div class="list-content">
+                                <a href="images/aranya/aranya-1024x780-2.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                    <h5>Click to Enlarge</h5>
+                                </a>
+                            </div>  /.list-content -->
+                        </div> <!-- /.list-item -->
+
+                        <div class="list-item">
+                            <div class="list-thumb">
+                                <!--<a href="images/aranya/aranya-1024x780-3.jpg" data-fancybox data-caption="Aranya Room Pictures">-->
+                                    <img src="images/foodandview/IMG_20210629_230736-370x278.jpg" alt="aranyavilas luxury view" class="img-rounded" />
+                                <!--</a>-->
+                            </div> <!-- /.list-thumb -->
+<!--                            <div class="list-content">
+                                <a href="images/aranya/aranya-1024x780-3.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                    <h5>Click to Enlarge</h5>
+                                </a>
+                            </div>  /.list-content -->
+                        </div> <!-- /.list-item -->
+
+
+                        <div class="list-item">
+                            <div class="list-thumb">
+                                <!--<a href="images/aranya/aranya-1024x780-5.jpg" data-fancybox data-caption="Aranya Room Pictures">-->
+                                    <img src="images/foodandview/IMG_20210201_225419-370x278.jpg" alt="aranyavilas premium rooms" class="img-rounded" />
+                                <!--</a>-->
+                            </div> <!-- /.list-thumb -->
+<!--                            <div class="list-content">
+                                <a href="images/aranya/aranya-1024x780-5.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                    <h5>Click to Enlarge</h5>
+                                </a>
+                            </div>  /.list-content -->
+                        </div> <!-- /.list-item -->
+
+                        <div class="list-item">
+                            <div class="list-thumb">
+                                <!--<a href="images/aranya/aranya-1024x780-6.jpg" data-fancybox data-caption="Aranya Room Pictures">-->
+                                    <img src="images/foodandview/IMG20200929160448-370x278.jpg" alt="aranyavilas soups" class="img-rounded" />
+                                <!--</a>-->
+                            </div> <!-- /.list-thumb -->
+<!--                            <div class="list-content">
+                                <a href="images/aranya/aranya-1024x780-6.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                    <h5>Click to Enlarge</h5>
+                                </a>
+                            </div>  /.list-content -->
+                        </div> <!-- /.list-item -->
+						
+						<div class="list-item">
+                            <div class="list-thumb">
+                                <!--<a href="images/aranya/aranya-1024x780-6.jpg" data-fancybox data-caption="Aranya Room Pictures">-->
+                                    <img src="images/foodandview/IMG20200620191221-370x278.jpg" alt="aranyavilas clean and healthy" class="img-rounded" />
+                                <!--</a>-->
+                            </div> <!-- /.list-thumb -->
+<!--                            <div class="list-content">
+                                <a href="images/aranya/aranya-1024x780-6.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                    <h5>Click to Enlarge</h5>
+                                </a>
+                            </div>  /.list-content -->
+                        </div> <!-- /.list-item -->
+						
+						<div class="list-item">
+                            <div class="list-thumb">
+                                <!--<a href="images/aranya/aranya-1024x780-6.jpg" data-fancybox data-caption="Aranya Room Pictures">-->
+                                    <img src="images/foodandview/IMG20210407155859-370x278.jpg" alt="aranyavilas tea" class="img-rounded" />
+                                <!--</a>-->
+                            </div> <!-- /.list-thumb -->
+<!--                            <div class="list-content">
+                                <a href="images/aranya/aranya-1024x780-6.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                    <h5>Click to Enlarge</h5>
+                                </a>
+                            </div>  /.list-content -->
+                        </div> <!-- /.list-item -->
+						
+						<div class="list-item">
+                            <div class="list-thumb">
+                                <!--<a href="images/aranya/aranya-1024x780-6.jpg" data-fancybox data-caption="Aranya Room Pictures">-->
+                                    <img src="images/foodandview/IMG20210731133834-370x278.jpg" alt="aranyavilas juice" class="img-rounded" />
+                                <!--</a>-->
+                            </div> <!-- /.list-thumb -->
+<!--                            <div class="list-content">
+                                <a href="images/aranya/aranya-1024x780-6.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                    <h5>Click to Enlarge</h5>
+                                </a>
+                            </div>  /.list-content -->
+                        </div> <!-- /.list-item -->
+						
+						<div class="list-item">
+                            <div class="list-thumb">
+                                <!--<a href="images/aranya/aranya-1024x780-6.jpg" data-fancybox data-caption="Aranya Room Pictures">-->
+                                    <img src="images/foodandview/IMG_20210711_182603-370x278.jpg" alt="aranyavilas window morning view" class="img-rounded" />
+                                <!--</a>-->
+                            </div> <!-- /.list-thumb -->
+<!--                            <div class="list-content">
+                                <a href="images/aranya/aranya-1024x780-6.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                    <h5>Click to Enlarge</h5>
+                                </a>
+                            </div>  /.list-content -->
+                        </div> <!-- /.list-item -->
+						
+						<div class="list-item">
+                            <div class="list-thumb">
+                                <!--<a href="images/aranya/aranya-1024x780-6.jpg" data-fancybox data-caption="Aranya Room Pictures">-->
+                                    <img src="images/foodandview/IMG20210407155719-370x278.jpg" alt="aranyavilas tea cup" class="img-rounded" />
+                                <!--</a>-->
+                            </div> <!-- /.list-thumb -->
+<!--                            <div class="list-content">
+                                <a href="images/aranya/aranya-1024x780-6.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                    <h5>Click to Enlarge</h5>
+                                </a>
+                            </div>  /.list-content -->
+                        </div> <!-- /.list-item -->
+						
+						<div class="list-item">
+                            <div class="list-thumb">
+                                <!--<a href="images/aranya/aranya-1024x780-6.jpg" data-fancybox data-caption="Aranya Room Pictures">-->
+                                    <img src="images/foodandview/IMG-20210720-WA0021-370x278.jpg" alt="aranyavilas view" class="img-rounded" />
+                                <!--</a>-->
+                            </div> <!-- /.list-thumb -->
+<!--                            <div class="list-content">
+                                <a href="images/aranya/aranya-1024x780-6.jpg" data-fancybox data-caption="Aranya Room Pictures">
+                                    <h5>Click to Enlarge</h5>
+                                </a>
+                            </div>  /.list-content -->
+                        </div> <!-- /.list-item -->
+
+                    </div> <!-- /.our-listing -->
+
+                </div> <!-- /.row -->
+
                 <div class="row">
+                    <hr />
+                </div> <!-- /.row -->
+				
+				<div class="row">
 
                     <div class="widget-item">
                         <h3 class="widget-title">Aranya</h3>
