@@ -27,200 +27,196 @@
 <?php
 	include('_partials/header.php'); // Includes Site Header and Menu
 ?>
+ <div id="page-wrap">
 <!-- End Import Header and Menu -->
 
+	  <!-- SUB BANNER -->
+	  <section class="section-sub-banner bg-9">
+            <div class="awe-overlay"></div>
+            <div class="sub-banner">
+                <div class="container">
+                    <div class="text text-center">
+                        <h2>packages</h2>
+                        <!-- <p>Lorem Ipsum is simply dummy text</p> -->
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- END / SUB BANNER -->
 
-        <div class="page-top" id="templatemo_about">
-        </div> <!-- /.page-header -->
-
-        <div class="middle-content">
+        <!-- ROOM -->
+        <section class="section-room bg-white">
             <div class="container">
-            
-                <div class="row"><!-- first row -->
-                
-                	<div class="col-md-6"><!-- first column -->
-                        <div class="widget-item">
-                            <h3 class="widget-title">Christmas New Year Eve</h3>
-                            <div class="sample-thumb">
-                                <img src="images/christ-church-shimla-1.jpg" alt="chritsamas new year shimla" title="chritsamas new year shimla" class="img-rounded">
-                            </div> <!-- /.sample-thumb -->
-                            <h4 class="consult-title"><a name="honeymoon"><b>Christmas and New Year Eve Package:</b></a></h4>
-                            
-							<ul>
-                                                        <li class="fa fa-chevron-circle-right"> Package offer starting for minimum three nights four days.</li> <br />
-							<li class="fa fa-chevron-circle-right"> A well-appointed room completely sanitized after every check-out.</li> <br />
-                                                        <li class="fa fa-chevron-circle-right"> Breakfast, Lunch and Dinner freshly prepared by our cook as per guest requirement.</li> <br />
-                                                        <li class="fa fa-chevron-circle-right"> Bonfire with music can be arranged.</li> <br />
-                                                        <li class="fa fa-chevron-circle-right"> Taxi for sight-seeing can be arranged for all major tourist spots like Chail, Kufri, Naldehra, Mashobra, Shimla Mall Road, Jakhoo hills, Vice Regal Lodge, Tara Devi Temple.</li> <br />
-                                                        <li class="fa fa-chevron-circle-right"> Paid cab service available for pick up and drop from Chandigarh or Shoghi-Shimla Bus Stop.</li> <br />
-                                                        <li class="fa fa-chevron-circle-right"> For honeymooner’s room decoration with cake, candle light dinner in their room can be arranged.</li> <br />							
-							</ul><br />
-                        <a href="contact.php" class="btn-success main-btn">Enquire Now</a>
-                        </div> <!-- /.widget-item -->
-                    </div> <!-- /.col-md-4 -->
 
-                    <div class="col-md-6"><!-- first column -->
-                        <div class="widget-item">
-                            <h3 class="widget-title">Honeymoon in shimla</h3>
-                            <div class="sample-thumb">
-                                <img src="images/mall-road-rainy-season-shimla.jpg" alt="honeymoon in shimla" title="honeymoon in shimla" class="img-rounded">
-                            </div> <!-- /.sample-thumb -->
-                            <h4 class="consult-title"><a name="honeymoon"><b>Honeymooners Special Package:</b></a></h4>
-                            
-							<ul>
-							<li class="fa fa-chevron-circle-right"> Welcome drink (Non-Alcoholic) on arrival</li> <br />
-							<li class="fa fa-chevron-circle-right"> Fresh fruit basket and cookies in the room on arrival</li> <br />
-							<li class="fa fa-chevron-circle-right"> Breakfast and Dinner for 2 adults (All Veg meals served)</li> <br />
-							<li class="fa fa-chevron-circle-right"> Accommodation for a couple in Valley View Room</li> <br />
-							<li class="fa fa-chevron-circle-right"> Room decoration for first night stay</li> <br />
-							<li class="fa fa-chevron-circle-right"> Cake and Chocolates served once</li> <br />
-							<li>Note : If cab booking required for sight-seeing can be arranged</li> <br />
-							</ul>
-                        <a href="contact.php" class="btn-success main-btn">Enquire Now</a>
-                        </div> <!-- /.widget-item -->
-                    </div> <!-- /.col-md-4 -->
-                    
-                    
-                    
-                </div> <!-- /.row first -->
-                
-				
-				
-				<div class="row"><!-- second row -->
-                
-                                <div class="col-md-6"><!-- second column -->
-                        <div class="widget-item">
-                            <h3 class="widget-title">Trek</h3>
-                            <div class="sample-thumb">
-                                <img src="images/jakhoo-hill-shimla.jpg" alt="adventure tour shimla" title="adventure tour shimla" class="img-rounded">
-                            </div> <!-- /.sample-thumb -->
-                            <h4 class="consult-title"><a name="trek"><b>Aranya Summer Trek Package:</b></a></h4>
-                            
-							<ul>
-							<li class="fa fa-angle-double-right"> Day 1: Pick up from Shoghi Bus Stop/ Shoghi Railway Station and drop to Aranya Vilas, evening visit to Tara Devi Temple</li> <br />
-							<li class="fa fa-angle-double-right"> Day 2: Trekking expedition amidst jungle with a local guide and packed Lunch for two adults, evening visit Shimla Mall Road</li> <br />
-							<li class="fa fa-angle-double-right"> Day 3: Sight-seeing tour to Jakhoo Temple, Kufri - Naldehra and drop to Shimla Bus Stop in evening to board your Volvo Bus to Delhi or Chandigarh drop by cab can be provided</li> <br />
-							</ul>
-							</p>
-							
-							<p>
-							<ul>
-							<li class="fa fa-chevron-circle-right"> Welcome drink (Non-Alcoholic) on arrival</li> <br />
-							<li class="fa fa-chevron-circle-right"> Fresh fruit basket and cookies in the room on arrival</li> <br />
-							<li class="fa fa-chevron-circle-right"> Breakfast and Dinner for 2 adults (All Veg meals served)</li> <br />
-							<li class="fa fa-chevron-circle-right"> Accommodation for a couple in Valley View Room</li> <br />
-							<li class="fa fa-chevron-circle-right"> One day packed Lunch for 2 adults</li> <br />
-							<li class="fa fa-chevron-circle-right"> Luxury/Sedan car with professional driver for sight-seeing</li> <br />
-							</ul><br />
-							<a href="contact.php" class="btn-success main-btn">Enquire Now</a>
-                        </div> <!-- /.widget-item -->
-                    </div> <!-- /.col-md-4 -->
-                                    
-                	<div class="col-md-6"><!-- first column -->
-                        <div class="widget-item">
-                            <h3 class="widget-title">Tour</h3>
-                            <div class="sample-thumb">
-                                <img src="images/advance-study-shimla.jpg" alt="shimla holiday package" title="shimla holiday package" class="img-rounded">
-                            </div> <!-- /.sample-thumb -->
-                            <h4 class="consult-title"><a name="tour"><b>Shimla Tour Package:</b></a></h4>
-                            
-							<ul>
-							<li class="fa fa-angle-double-right"> Day 1: Pick up from Shoghi Bus Stop/ Shoghi Railway Station and drop to Aranya Vilas, evening visit to Tara Devi Temple</li> <br />
-							<li class="fa fa-angle-double-right"> Day 2: Sight-seeing tour in and around Shimla city covering Shimla Mall Road, Jakhoo Temple and Vice Regal Lodge - Botanical Gardens</li> <br />
-							<li class="fa fa-angle-double-right"> Day 3: Sight-seeing tour to Naldehra - Kufri and drop to Shimla Bus Stop in evening to board your Volvo Bus to Delhi or Chandigarh</li> <br />
-							</ul>
-							</p>
-							
-							<p>
-							<ul>
-							<li class="fa fa-chevron-circle-right"> Welcome drink (Non-Alcoholic) on arrival</li> <br />
-							<li class="fa fa-chevron-circle-right"> Fresh fruit basket and cookies in the room on arrival</li> <br />
-							<li class="fa fa-chevron-circle-right"> Breakfast and Dinner for 2 adults (All Veg meals served)</li> <br />
-							<li class="fa fa-chevron-circle-right"> Accommodation for a couple in Valley View Room</li> <br />
-							<li class="fa fa-chevron-circle-right"> Luxury/Sedan car with professional driver for sight-seeing</li> <br />
-							</ul><br />
-							<a href="contact.php" class="btn-success main-btn">Enquire Now</a>
-                        </div> <!-- /.widget-item -->
-                    </div> <!-- /.col-md-4 -->
+                <div class="room-wrap-1">
+                    <div class="row">                        
+                        <!-- ITEM -->
+                        <div class="col-md-6">
+                            <div class="room_item-1">                            
+                                <h2>Christmas and Eve Package</h2>                        
+                                <div class="img">
+									<img src="images/pakeges/1.jpg" alt="chritsamas new year shimla" title="chritsamas new year shimla" class="img-rounded">
+                                </div>                            
+                                <div class="desc">
+									<p style="font-size: 18px;font-weight:600">
+										Christmas and New Year Eve Package
+									</p>
+									<ul>
+										<li> Package offer starting for minimum three nights four days.</li> 
+										<li> A well-appointed room completely sanitized after every check-out.</li>
+										<li> Breakfast, Lunch and Dinner freshly prepared by our cook as per guest requirement.</li>
+										<li> Bonfire with music can be arranged.</li> 
+										<li> Taxi for sight-seeing can be arranged for all major tourist spots like Chail, Kufri, Naldehra, Mashobra, Shimla Mall Road, Jakhoo hills, Vice Regal Lodge, Tara Devi Temple.</li>
+										<li> Paid cab service available for pick up and drop from Chandigarh or Shoghi-Shimla Bus Stop.</li> 
+										<li> For honeymooner’s room decoration with cake, candle light dinner in their room can be arranged.</li> 					
+									</ul>
+                                </div>                                                                                      
+                            </div>
+                        </div>
+                        <!-- END / ITEM -->
+                        
+                       <!-- ITEM -->
+					   <div class="col-md-6">
+                            <div class="room_item-1">                            
+                                <h2>HONEYMOON IN SHIMLA</h2>                        
+                                <div class="img">
+									<img src="images/pakeges/2.jpg" alt="honeymoon in shimla" title="honeymoon in shimla" class="img-rounded">
+                                </div>                            
+                                <div class="desc">
+									<p style="font-size: 18px;font-weight:600">
+										Honeymooners Special Package
+									</p>
+									<ul>
+										<li> Welcome drink (Non-Alcoholic) on arrival</li>
+										<li> Fresh fruit basket and cookies in the room on arrival</li>
+										<li> Breakfast and Dinner for 2 adults (All Veg meals served)</li>
+										<li> Accommodation for a couple in Valley View Room</li>
+										<li> Room decoration for first night stay</li>
+										<li> Cake and Chocolates served once</li>
+										<li>Note : If cab booking required for sight-seeing can be arranged</li>
+									</ul>
+                                </div>                                                                                      
+                            </div>
+                        </div>
+                        <!-- END / ITEM -->						
+                    </div>
+					<div class="row">                        
+                        <!-- ITEM -->
+                        <div class="col-md-6">
+                            <div class="room_item-1">                            
+                                <h2>Aranya Summer Trek Package</h2>                        
+                                <div class="img">
+									<img src="images/pakeges/3.jpg" alt="adventure tour shimla" title="adventure tour shimla" class="img-rounded">
+                                </div>                            
+                                <div class="desc">
+									<p style="font-size: 18px;font-weight:600">
+										Aranya Summer Trek Package
+									</p>									
+									<p><strong>Day 1:</strong> Pick up from Shoghi Bus Stop/ Shoghi Railway Station and drop to Aranya Vilas, evening visit to Tara Devi Temple</p>
+									<p><strong>Day 2:</strong> Trekking expedition amidst jungle with a local guide and packed Lunch for two adults, evening visit Shimla Mall Road</p>
+									<p><strong>Day 3:</strong> Sight-seeing tour to Jakhoo Temple, Kufri - Naldehra and drop to Shimla Bus Stop in evening to board your Volvo Bus to Delhi or Chandigarh drop by cab can be provided</p>									
+									<ul>
+										<li>Welcome drink (Non-Alcoholic) on arrival</li>
+										<li>Fresh fruit basket and cookies in the room on arrival</li>
+										<li>Breakfast and Dinner for 2 adults (All Veg meals served)</li>
+										<li>Accommodation for a couple in Valley View Room</li>
+										<li>One day packed Lunch for 2 adults</li>
+										<li>Luxury/Sedan car with professional driver for sight-seeing</li>
+									</ul>
+                                </div>                                                                                      
+                            </div>
+                        </div>
+                        <!-- END / ITEM -->
+                        
+                       <!-- ITEM -->
+					   <div class="col-md-6">
+                            <div class="room_item-1">                            
+                                <h2>Shimla Tour Package</h2>                        
+                                <div class="img">
+									<img src="images/pakeges/4.jpg" alt="shimla holiday package" title="shimla holiday package" class="img-rounded">
+                                </div>                            
+                                <div class="desc">
+                                    <p style="font-size: 18px;font-weight:600">
+										Shimla Tour Package
+									</p>
+									<p><strong>Day 1:</strong> Pick up from Shoghi Bus Stop/ Shoghi Railway Station and drop to Aranya Vilas, evening visit to Tara Devi Temple</p>
+									<p><strong>Day 2:</strong> Sight-seeing tour in and around Shimla city covering Shimla Mall Road, Jakhoo Temple and Vice Regal Lodge - Botanical Gardens</p>
+									<p><strong>Day 3:</strong> Sight-seeing tour to Naldehra - Kufri and drop to Shimla Bus Stop in evening to board your Volvo Bus to Delhi or Chandigarh</p>									
+									<ul>
+										<li> Welcome drink (Non-Alcoholic) on arrival</li>
+										<li> Fresh fruit basket and cookies in the room on arrival</li>
+										<li> Breakfast and Dinner for 2 adults (All Veg meals served)</li>
+										<li> Accommodation for a couple in Valley View Room</li>
+										<li> Luxury/Sedan car with professional driver for sight-seeing</li>
+									</ul>
+                                </div>                                                                                      
+                            </div>
+                        </div>
+                        <!-- END / ITEM -->						
+                    </div>
 
-                   
-                    
-                    
-                    
-                </div> <!-- /.row second -->
-				
-				
-				
-				<div class="row"><!-- third row -->
-                 <div class="col-md-6"><!-- second column -->
-                        <div class="widget-item">
-                            <h3 class="widget-title">Travel</h3>
-                            <div class="sample-thumb">
-                                <img src="images/shimla-church.jpg" alt="shimla travel" title="shimla travel" class="img-rounded">
-                            </div> <!-- /.sample-thumb -->
-                            <h4 class="consult-title"><a name="travel"><b>Fully Loaded Shimla Trip:</b></a></h4>
-                            
-							<ul>
-							<li class="fa fa-angle-double-right"> Day 1: Pick up from Delhi or Chandigarh in evening arrival at Aranya Vilas - Shoghi, Shimla</li> <br />
-							<li class="fa fa-angle-double-right"> Day 2: Today is a day for sight-seeing tour in and around Shimla city covering Tara Devi Temple, Vice Regal Lodge - Botanical Gardens, Jakhoo Temple and Shimla Mall Road</li> <br />
-							<li class="fa fa-angle-double-right"> Day 3: Sight-seeing tour to Kufri, Mashobra, Fagu Valley and Naldehra</li> <br />
-							<li class="fa fa-angle-double-right"> Day 4: Check-out after Breakfast and head towards Chail, Kali Ka Tibba and return via Sadhupul for your onward journey towards Delhi/Chandigarh</li> <br />
-							</ul>
-							</p>
-							
-							<p>
-							<ul>
-							<li class="fa fa-chevron-circle-right"> Welcome drink (Non-Alcoholic) on arrival</li> <br />
-							<li class="fa fa-chevron-circle-right"> Fresh fruit basket and cookies in the room on arrival</li> <br />
-							<li class="fa fa-chevron-circle-right"> Breakfast and Dinner for 2 adults (All Veg meals served)</li> <br />
-							<li class="fa fa-chevron-circle-right"> Accommodation for a couple in Valley View Room</li> <br />
-							<li class="fa fa-chevron-circle-right"> One day packed Lunch for 2 adults</li> <br />
-							<li class="fa fa-chevron-circle-right"> Luxury/Sedan car with professional driver for sight-seeing</li> <br />
-							</ul><br />
-							<a href="contact.php" class="btn-success main-btn">Enquire Now</a>
-                        </div> <!-- /.widget-item -->
-                    </div> <!-- /.col-md-4 -->
-                                    
-                                    
-                	<div class="col-md-6"><!-- first column -->
-                        <div class="widget-item">
-                            <h3 class="widget-title">Holiday</h3>
-                            <div class="sample-thumb">
-                                <img src="images/naldehra-shimla.jpg" alt="holidays in shimla" title="holidays in shimla" class="img-rounded">
-                            </div> <!-- /.sample-thumb -->
-                            <h4 class="consult-title"><a name="holiday"><b>Delhi/Chandigarh &ndash; Shimla &ndash; Delhi/Chandigarh Holiday Excursion:</b></a></h4>
-                           
-							<ul>
-							<li class="fa fa-angle-double-right"> Day 1: Pick up from Delhi or Chandigarh in evening arrival at Aranya Vilas - Shoghi, Shimla</li> <br />
-							<li class="fa fa-angle-double-right"> Day 2: Today is a day for sight-seeing tour in and around Shimla city covering Tara Devi Temple, Vice Regal Lodge - Botanical Gardens, Jakhoo Temple and Shimla Mall Road</li> <br />
-							<li class="fa fa-angle-double-right"> Day 3: Sight-seeing tour to Kufri, Fagu Valley, Chail and return via Sadhupul</li> <br />
-							<li class="fa fa-angle-double-right"> Day 4: Sight-seeing tour to Mashobra, Naldehra- Tattapani</li> <br />
-							<li class="fa fa-angle-double-right"> Day 5: Drop to Chandigarh or Delhi as per your requirement and visit Mohan Heritage Park near Solan</li> <br />
-							</ul>
-							</p>
-							
-							<p>
-							<ul>
-							<li class="fa fa-chevron-circle-right"> Welcome drink (Non-Alcoholic) on arrival</li> <br />
-							<li class="fa fa-chevron-circle-right"> Fresh fruit basket and cookies in the room on arrival</li> <br />
-							<li class="fa fa-chevron-circle-right"> Breakfast and Dinner for 2 adults (All Veg meals served)</li> <br />
-							<li class="fa fa-chevron-circle-right"> Accommodation for a couple in Valley View Room</li> <br />
-							<li class="fa fa-chevron-circle-right"> One day packed Lunch for 2 adults</li> <br />
-							<li class="fa fa-chevron-circle-right"> Luxury/Sedan car with professional driver for sight-seeing</li> <br />
-							</ul><br />
-							<a href="contact.php" class="btn-success main-btn">Enquire Now</a>
-                        </div> <!-- /.widget-item -->
-                    </div> <!-- /.col-md-4 -->
-
-                    
-                    
-                    
-                    
-                </div> <!-- /.row third -->
-                
-                
-            </div> <!-- /.container -->
-        </div> <!-- /.middle-content -->
+					<div class="row">                        
+                        <!-- ITEM -->
+                        <div class="col-md-6">
+                            <div class="room_item-1">                            
+                                <h2>Fully Loaded Shimla Trip</h2>                        
+                                <div class="img">
+									<img src="images/shimla-church.jpg" alt="shimla travel" title="shimla travel" class="img-rounded">
+                                </div>                            
+                                <div class="desc">
+									<p style="font-size: 18px;font-weight:600">
+										Fully Loaded Shimla Trip
+									</p>									
+									<p><strong>Day 1:</strong> Pick up from Delhi or Chandigarh in evening arrival at Aranya Vilas - Shoghi, Shimla</p>
+									<p><strong>Day 2:</strong> Today is a day for sight-seeing tour in and around Shimla city covering Tara Devi Temple, Vice Regal Lodge - Botanical Gardens, Jakhoo Temple and Shimla Mall Road</p>
+									<p><strong>Day 3:</strong> Sight-seeing tour to Kufri, Mashobra, Fagu Valley and Naldehra</p>
+									<p><strong>Day 4:</strong> Check-out after Breakfast and head towards Chail, Kali Ka Tibba and return via Sadhupul for your onward journey towards Delhi/Chandigarh</p>
+									<ul>
+										<li> Welcome drink (Non-Alcoholic) on arrival</li>
+										<li> Fresh fruit basket and cookies in the room on arrival</li>
+										<li> Breakfast and Dinner for 2 adults (All Veg meals served)</li>
+										<li> Accommodation for a couple in Valley View Room</li>
+										<li> One day packed Lunch for 2 adults</li>
+										<li> Luxury/Sedan car with professional driver for sight-seeing</li>
+									</ul>
+                                </div>                                                                                      
+                            </div>
+                        </div>
+                        <!-- END / ITEM -->
+                        
+                       <!-- ITEM -->
+					   <div class="col-md-6">
+                            <div class="room_item-1">                            
+                                <h2>HOLIDAY</h2>                        
+                                <div class="img">
+									<img src="images/naldehra-shimla.jpg" alt="holidays in shimla" title="holidays in shimla" class="img-rounded">
+                                </div>                            
+                                <div class="desc">
+                                    <p style="font-size: 18px;font-weight:600">
+										Delhi/Chandigarh – Shimla – Delhi/Chandigarh Holiday Excursion:
+									</p>
+									<p><strong>Day 1:</strong> Pick up from Delhi or Chandigarh in evening arrival at Aranya Vilas - Shoghi, Shimla</p>
+									<p><strong>Day 2:</strong> Today is a day for sight-seeing tour in and around Shimla city covering Tara Devi Temple, Vice Regal Lodge - Botanical Gardens, Jakhoo Temple and Shimla Mall Road</p>
+									<p><strong>Day 3:</strong> Sight-seeing tour to Kufri, Fagu Valley, Chail and return via Sadhupul</p>	
+									<p><strong>Day 4:</strong> Sight-seeing tour to Mashobra, Naldehra- Tattapani</p>	
+									<p><strong>Day 3:</strong> Drop to Chandigarh or Delhi as per your requirement and visit Mohan Heritage Park near Solan</p>									
+									<ul>
+										<li> Welcome drink (Non-Alcoholic) on arrival</li>
+										<li> Fresh fruit basket and cookies in the room on arrival</li>
+										<li> Breakfast and Dinner for 2 adults (All Veg meals served)</li>
+										<li> Accommodation for a couple in Valley View Room</li>
+										<li> One day packed Lunch for 2 adults</li>
+										<li> Luxury/Sedan car with professional driver for sight-seeing</li>
+									</ul>
+                                </div>                                                                                      
+                            </div>
+                        </div>
+                        <!-- END / ITEM -->						
+                    </div>
+                </div>                
+            </div>
+        </section>
+        <!-- END / ROOM -->
 
 <!-- Start Import Testimonials -->
 <?php

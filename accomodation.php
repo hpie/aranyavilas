@@ -26,282 +26,130 @@
         include('_partials/header.php'); // Includes Site Header and Menu
         ?>
         <!-- End Import Header and Menu -->
-
-        <div class="page-top" id="templatemo_services">
-        </div> <!-- /.page-header -->
-
-        <div class="middle-content">
-            <div class="container">
-                <h3 class="widget-title">ROOMS VIEW</h3>                    
-                <div class="row">                                            
-                    <div class="col-md-3">
-                        <div class="card">
-                            <div class="card-image">
-                                <img class="img-responsive img-rounded" src="images/accommodation-room-view.jpg" alt="Premium Valley View Rooms in shimla">                    
-                            </div><!-- card image -->                
-                            <div class="card-content">                    
-                                <h4 class="consult-title"><b>Premium Valley View Rooms</b></h4>
-                                <p>Valley View Room with personal balcony.</p>                                                    
-                            </div><!-- card content -->
-                            <div class="card-action">
-                                <a href="gallery.php" >View</a>                    
-                            </div><!-- card actions -->                
-                        </div>
-                    </div> 
-                    <div class="col-md-3">
-                        <div class="card">
-                            <div class="card-image">
-                                <img class="img-responsive img-rounded" src="images/accommodation-valley-room.jpg" alt="Luxury Valley View Rooms Hotel aranyavilas">                    
-                            </div><!-- card image -->                
-                            <div class="card-content">                    
-                                <h4 class="consult-title"><b>Luxury Valley View Rooms</b></h4><br>
-                                <p>Valley View Room with personal balcony.</p>                                                    
-                            </div><!-- card content -->
-                            <div class="card-action">
-                                <a href="gallery.php" >View</a>                    
-                            </div><!-- card actions -->                
-                        </div>
-                    </div>
-                    <div class="col-md-3">
-                        <div class="card">
-                            <div class="card-image">
-                                <img class="img-responsive img-rounded" src="images/accomodation-room-green.jpg" alt="Honeymoon valley view room shimla hotel">                    
-                            </div><!-- card image -->                
-                            <div class="card-content">                    
-                                <h4 class="consult-title"><b>Honeymoon valley view room</b></h4><br>
-                            <p>Valley View Room with personal balcony.</p>                                                   
-                            </div><!-- card content -->
-                            <div class="card-action">
-                                <a href="gallery.php" >View</a>                    
-                            </div><!-- card actions -->                
-                        </div>
-                    </div>
-                    <div class="col-md-3">
-                        <div class="card">
-                            <div class="card-image">
-                                <img class="img-responsive img-rounded" src="images/accomodation-room-blue.jpg" alt="Super Deluxe Valley View Room In Shimla">                    
-                            </div><!-- card image -->                
-                            <div class="card-content">                    
-                                <h4 class="consult-title"><b>Super Deluxe Valley View Room</b></h4><br>
-                                <p>Valley View Room with personal balcony.</p>                                                
-                            </div><!-- card content -->
-                            <div class="card-action">
-                                <a href="gallery.php" >View</a>                    
-                            </div><!-- card actions -->                
-                        </div>
+        <div id="page-wrap">
+  <!-- SUB BANNER -->
+  <section class="section-sub-banner bg-9">
+            <div class="awe-overlay"></div>
+            <div class="sub-banner">
+                <div class="container">
+                    <div class="text text-center">
+                        <h2>ACCOMMODATION</h2>
+                        <!-- <p>Lorem Ipsum is simply dummy text</p> -->
                     </div>
                 </div>
-                <hr>
-                <div class="row">
-                    <div class="col-md-6">
-                        <h3 class="widget-title">Facilities</h3>
-                        <div class="widget-item">                            							
-                            <div class="post-small">
-                                <div class="post-date">
-                                    <span class="time fa fa-cog"></span>
-                                    <span></span>
-                                </div> <!-- /.post-thumb -->
-                                <div class="post-content">
-                                    <h4><a href="#"></a></h4>
-                                    <span>Parking within Premises</span>
-                                    <p>Our property is Drive in with Free Valet Parking facility</p>
-                                </div> <!-- /.post-content -->
-                            </div> <!-- /.post-small -->
-                            <div class="post-small">
-                                <div class="post-date">
-                                    <span class="time fa fa-cog"></span>
-                                    <span></span>
-                                </div> <!-- /.post-thumb -->
-                                <div class="post-content">
-                                    <h4><a href="#"></a></h4>
-                                    <span>Elevator Service for every room</span>
-                                    <p>For utmost convenience we are offering this service which is rare to be find in Shimla hotels</p>
-                                </div> <!-- /.post-content -->
-                            </div> <!-- /.post-small -->
-                            <div class="post-small">
-                                <div class="post-date">
-                                    <span class="time fa fa-cog"></span>
-                                    <span></span>
-                                </div> <!-- /.post-thumb -->
-                                <div class="post-content">
-                                    <h4><a href="#"></a></h4>
-                                    <span>Travel Desk</span>
-                                    <p>We being the local people would love to guide you and provide accurate information to make your itinerary perfect </p>
-                                </div> <!-- /.post-content -->
-                            </div> <!-- /.post-small -->
-                            <div class="post-small">
-                                <div class="post-date">
-                                    <span class="time fa fa-cog"></span>
-                                    <span></span>
-                                </div> <!-- /.post-thumb -->
-                                <div class="post-content">
-                                    <h4><a href="#"></a></h4>
-                                    <span>Car Rental</span>
-                                    <p>We have a tie-up with best of professional drivers who will serve as a local guide with vehicles in good condition</p>
-                                </div> <!-- /.post-content -->
-                            </div> <!-- /.post-small -->
-                            <div class="post-small">
-                                <div class="post-date">
-                                    <span class="time fa fa-cog"></span>
-                                    <span></span>
-                                </div> <!-- /.post-thumb -->
-                                <div class="post-content">
-                                    <h4><a href="#"></a></h4>
-                                    <span>Guided Trekking day tour</span>
-                                    <p>These tours can be arranged in Summer months when you can fully enjoy the pleasant weather and full day excursions with packed lunch</p>
-                                </div> <!-- /.post-content -->
-                            </div> <!-- /.post-small -->
-                            <div class="post-small">
-                                <div class="post-date">
-                                    <span class="time fa fa-cog"></span>
-                                    <span></span>
-                                </div> <!-- /.post-thumb -->
-                                <div class="post-content">
-                                    <h4><a href="#"></a></h4>
-                                    <span>Valley View / Sunrise View Room</span>
-                                    <p>Main attractions of the rooms are the wonderful bay windows overlooking the lush green valley with sunrise view right from your bed</p>
-                                </div> <!-- /.post-content -->
-                            </div> <!-- /.post-small -->
-                            <div class="post-small">
-                                <div class="post-date">
-                                    <span class="time fa fa-cog"></span>
-                                    <span></span>
-                                </div> <!-- /.post-thumb -->
-                                <div class="post-content">
-                                    <h4><a href="#"></a></h4>
-                                    <span>Private Balcony Rooms </span>
-                                    <p>One can just sit and gaze at the awe-inspiring views of the entire valley while sipping a hot cup of coffee/tea in the morning</p>
-                                </div> <!-- /.post-content -->
-                            </div> <!-- /.post-small -->
-                            <div class="post-small">
-                                <div class="post-date">
-                                    <span class="time fa fa-cog"></span>
-                                    <span></span>
-                                </div> <!-- /.post-thumb -->
-                                <div class="post-content">
-                                    <h4><a href="#"></a></h4>
-                                    <span>LED TV</span>
-                                    <p>To keep you and your kids entertained when you just want to be in your room</p>
-                                </div> <!-- /.post-content -->
-                            </div> <!-- /.post-small -->
-                            <div class="post-small">
-                                <div class="post-date">
-                                    <span class="time fa fa-cog"></span>
-                                    <span></span>
-                                </div> <!-- /.post-thumb -->
-                                <div class="post-content">
-                                    <h4><a href="#"></a></h4>
-                                    <span>Bathroom Toiletries&apos;</span>
-                                    <p>Our bathrooms are fully equipped with important toiletries </p>
-                                </div> <!-- /.post-content -->
-                            </div> <!-- /.post-small -->
-                            <div class="post-small">
-                                <div class="post-date">
-                                    <span class="time fa fa-cog"></span>
-                                    <span></span>
-                                </div> <!-- /.post-thumb -->
-                                <div class="post-content">
-                                    <h4><a href="#"></a></h4>
-                                    <span>Intercom Facility</span>
-                                    <p>Our room service, housekeeping and laundry service is just a call away </p>
-                                </div> <!-- /.post-content -->
-                            </div> <!-- /.post-small -->
-                            <div class="post-small">
-                                <div class="post-date">
-                                    <span class="time fa fa-cog"></span>
-                                    <span></span>
-                                </div> <!-- /.post-thumb -->
-                                <div class="post-content">
-                                    <h4><a href="#"></a></h4>
-                                    <span>Free WiFi</span>
-                                    <p>Free High Speed Internet (WiFi)</p>
-                                </div> <!-- /.post-content -->
-                            </div> <!-- /.post-small -->
-                             <div class="post-small">
-                                <div class="post-date">
-                                    <span class="time fa fa-cog"></span>
-                                    <span></span>
-                                </div> <!-- /.post-thumb -->
-                                <div class="post-content">
-                                    <h4><a href="#"></a></h4>
-                                    <span>Power backup</span>
-                                    <!--<p>Free High Speed Internet (WiFi)</p>-->
-                                </div> <!-- /.post-content -->
-                            </div> <!-- /.post-small -->
-
-                        </div> <!-- /.widget-item -->
-                    </div> <!-- /.col-md-4 -->
-
-                    
-                     <div class="col-md-6">
-                        <h3 class="widget-title">HOLIDAY PACKAGES</h3>
-                        <div class="widget-item">                            							
-                            <div class="post-small">
-                                <div class="post-date">
-                                    <span class="time fa fa-bell-o"></span>
-                                    <span></span>
-                                </div> <!-- /.post-thumb -->
-                                <div class="post-content">                                                                        
-                                    <a href="hotel-package.php#honeymoon"><span class="top-center">Honeymooners Special MAP for 2 nights 3 days</span></a>
-                                </div> <!-- /.post-content -->
-                            </div> <!-- /.post-small -->                          							
-                        </div> <!-- /.widget-item -->
-                         <div class="widget-item">                            							
-                            <div class="post-small">
-                                <div class="post-date">
-                                    <span class="time fa fa-bell-o"></span>
-                                    <span></span>
-                                </div> <!-- /.post-thumb -->
-                                <div class="post-content">                                                                        
-                                    <a href="hotel-package.php#trek"><span class="top-center">Aranya Summer Trek Package for 2 nights 3 days</span></a>
-                                </div> <!-- /.post-content -->
-                            </div> <!-- /.post-small -->                          							
-                        </div> <!-- /.widget-item -->
-                          <div class="widget-item">                            							
-                            <div class="post-small">
-                                <div class="post-date">
-                                    <span class="time fa fa-bell-o"></span>
-                                    <span></span>
-                                </div> <!-- /.post-thumb -->
-                                <div class="post-content">                                                                        
-                                    <a href="hotel-package.php#tour"><span class="top-center">Shimla Tour Package for 2 nights 3 days</span></a>
-                                </div> <!-- /.post-content -->
-                            </div> <!-- /.post-small -->                          							
-                        </div> <!-- /.widget-item -->
-                           <div class="widget-item">                            							
-                            <div class="post-small">
-                                <div class="post-date">
-                                    <span class="time fa fa-bell-o"></span>
-                                    <span></span>
-                                </div> <!-- /.post-thumb -->
-                                <div class="post-content">                                                                        
-                                    <a href="hotel-package.php#travel"><span class="top-center">Fully Loaded Shimla Trip for 3 nights 4 days</span></a>
-                                </div> <!-- /.post-content -->
-                            </div> <!-- /.post-small -->                          							
-                        </div> <!-- /.widget-item -->
-                          <div class="widget-item">                            							
-                            <div class="post-small">
-                                <div class="post-date">
-                                    <span class="time fa fa-bell-o"></span>
-                                    <span></span>
-                                </div> <!-- /.post-thumb -->
-                                <div class="post-content">                                                                        
-                                    <a href="hotel-package.php#holiday"><span class="top-center">Delhi/Chandigarh &ndash; Shimla &ndash; Delhi/Chandigarh Holiday Excursion for 4 nights 5 days</span></a>
-                                </div> <!-- /.post-content -->
-                            </div> <!-- /.post-small -->                          							
-                        </div> <!-- /.widget-item -->
-                    </div> <!-- /.col-md-4 -->
-
-                </div> <!-- /.row -->
-            </div> <!-- /.container -->
-        </div> <!-- /.middle-content -->
+            </div>
+        </section>
+        <!-- END / SUB BANNER -->
 
 
+            <!-- ROOM -->
+            <section class="section-room bg-white">
+            <div class="container">
 
+                <div class="room-wrap-5">
+                    <div class="row">
+                        
+                        <!-- ITEM -->
+                        <div class="col-xs-6">
+                            <div class="room_item-5" data-background='images/home-3/room/room-4.png'>
+                                <div class="img">
+                                    <a href="gallery.php"><img src="images/home-3/room/room-3.png" alt="Premium Valley View Rooms in shimla"></a>
+                                </div>
+                                <div class="room_item-forward">
+                                    <h2><a href="gallery.php">Deluxe room</a></h2>
+                                    <!-- <span class="price">Start form $120 per day</span> -->
+                                </div>
+                                <div class="room_item-back">
+                                    <h3>Deluxe room</h3>
+                                    <!-- <span class="price">Start form $120 per day</span> -->
+                                    <p>
+                                        Step into our Deluxe Rooms and be greeted by an ambiance of elegance and sophistication. Impeccably designed with tasteful decor and modern amenities, these rooms provide a sanctuary where you can unwind and rejuvenate after a day of exploring the charming hill station.
+                                    </p>
+                                    <a href="gallery.php" class="awe-btn awe-btn-13">VIEW DETAILS</a>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- END / ITEM -->
+
+                        <!-- ITEM -->
+                        <div class="col-xs-6">
+                            <div class="room_item-5" data-background='images/home-3/room/room-1.png'>
+                                <div class="img">
+                                    <a href="gallery.php"><img src="images/home-3/room/room-1.png" alt="Honeymoon valley view room shimla hotel"></a>
+                                </div>
+                                <div class="room_item-forward">
+                                    <h2><a href="gallery.php">Super deluxe valley view room</a></h2>
+                                    <!-- <span class="price">Start form $120 per day</span> -->
+                                </div>
+                                <div class="room_item-back">
+                                    <h3>Super deluxe valley view room</h3>
+                                    <!-- <span class="price">Start form $120 per day</span> -->
+                                    <p>
+                                        Book your stay in our Valley View Rooms and let the breathtaking vistas become an integral part of your stay, leaving you refreshed, inspired, and connected to the natural wonders that surround us.
+                                    </p>
+                                    <a href="gallery.php" class="awe-btn awe-btn-13">VIEW DETAILS</a>
+                                </div>            
+                            </div>
+                        </div>
+                        <!-- END / ITEM -->
+
+                        <!-- ITEM -->
+                        <div class="col-xs-6">
+                            <div class="room_item-5" data-background='images/home-3/room/room-2.png'>
+                                <div class="img">
+                                    <a href="gallery.php"><img src="images/home-3/room/room-2.png" alt="Luxury Valley View Rooms Hotel aranyavilas"></a>
+                                </div>
+                                <div class="room_item-forward">
+                                    <h2><a href="gallery.php">Premium valley view a/c room</a></h2>
+                                    <!-- <span class="price">Start form $120 per day</span> -->
+                                </div>
+                                <div class="room_item-back">
+                                    <h3>Premium valley view a/c room</h3>
+                                    <!-- <span class="price">Start form $120 per day</span> -->
+                                    <p>
+                                        Indulge in the serene beauty of nature from the comfort of our Valley View Rooms. Offering breathtaking panoramic vistas of the surrounding valleys, our rooms are designed to provide you with a truly immersive and unforgettable experience.
+                                    </p>
+                                    <a href="gallery.php" class="awe-btn awe-btn-13">VIEW DETAILS</a>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- END / ITEM -->
+
+                        <!-- ITEM -->
+                        <div class="col-xs-6">
+                            <div class="room_item-5"  data-background='images/home-3/room/room-5.png'>
+
+                                <div class="img">
+                                    <a href="gallery.php"><img src="images/home-3/room/room-5.png" alt="Honeymoon valley view room shimla hotel"></a>
+                                </div>
+
+                                <div class="room_item-forward">
+                                    <h2><a href="gallery.php">special occasion</a></h2>
+                                    <!-- <span class="price">Start form $120 per day</span> -->
+                                </div>
+
+                                <div class="room_item-back">
+                                    <h3>special occasion</h3>
+                                    <!-- <span class="price">Start form $120 per day</span> -->
+                                    <p>
+                                    Our hotel offers an intimate and cozy atmosphere, perfect for small gatherings and special moments.
+                                    </p>
+                                    <a href="gallery.php" class="awe-btn awe-btn-13">VIEW DETAILS</a>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!-- END / ITEM -->
+                    </div>
+                </div>
+                
+            </div>
+        </section>
+        <!-- END / ROOM -->
 
         <!-- Start Import Testimonials -->
         <?php
-        //include('_partials/testimonials.php'); // Testimonials and Feedback
+        include('_partials/testimonials.php'); // Testimonials and Feedback
         ?>
         <!-- End Import Testimonials -->
 
