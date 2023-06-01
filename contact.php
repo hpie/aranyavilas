@@ -133,8 +133,8 @@ if (isset($_POST['name'])) {
         include('_partials/footer.php'); // Includes footer links and scripts
         ?>
         <!-- End Import Footer -->
-        <script src="https://maps.google.com/maps/api/js?sensor=true"></script>
-        <script src="js/vendor/jquery.gmap3.min.js"></script>
+        <!-- <script src="https://maps.google.com/maps/api/js?sensor=true"></script> -->
+        <!-- <script src="js/vendor/jquery.gmap3.min.js"></script> -->
 </body>
 
 </html>
