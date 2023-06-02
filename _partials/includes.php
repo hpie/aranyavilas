@@ -1,28 +1,58 @@
-      <link href='https://fonts.googleapis.com/css?family=Hind:400,300,500,600%7cMontserrat:400,700' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Hind:400,300,500,600%7cMontserrat:400,700' rel='stylesheet' type='text/css'>
+<!-- CSS LIBRARY -->
+<link rel="stylesheet" type="text/css" href="css/lib/font-awesome.min.css">
+<link rel="stylesheet" type="text/css" href="css/lib/font-lotusicon.css">
+<link rel="stylesheet" type="text/css" href="css/lib/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="css/lib/owl.carousel.css">
+<link rel="stylesheet" type="text/css" href="css/lib/jquery-ui.min.css">
+<link rel="stylesheet" type="text/css" href="css/lib/magnific-popup.css">
+<link rel="stylesheet" type="text/css" href="css/lib/settings.css">
+<link rel="stylesheet" type="text/css" href="css/lib/bootstrap-select.min.css">
+<link rel="stylesheet" type="text/css" href="css/helper.css">
+<link rel="stylesheet" type="text/css" href="css/custom.css">
+<link rel="stylesheet" type="text/css" href="css/responsive.css">
+<!-- MAIN STYLE -->
+<link rel="stylesheet" type="text/css" href="css/style.css">
+<style>
+  .rslides {
+    position: relative;
+    list-style: none;
+    overflow: hidden;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+  }
 
-    <!-- CSS LIBRARY -->
-    <link rel="stylesheet" type="text/css" href="css/lib/font-awesome.min.css">
-    <link rel="stylesheet" type="text/css" href="css/lib/font-lotusicon.css">
-    <link rel="stylesheet" type="text/css" href="css/lib/bootstrap.min.css">
-    <link rel="stylesheet" type="text/css" href="css/lib/owl.carousel.css">
-    <link rel="stylesheet" type="text/css" href="css/lib/jquery-ui.min.css">
-    <link rel="stylesheet" type="text/css" href="css/lib/magnific-popup.css">
-    <link rel="stylesheet" type="text/css" href="css/lib/settings.css">
-    <link rel="stylesheet" type="text/css" href="css/lib/bootstrap-select.min.css">
-    <link rel="stylesheet" type="text/css" href="css/helper.css">
-    <link rel="stylesheet" type="text/css" href="css/custom.css">
-    <link rel="stylesheet" type="text/css" href="css/responsive.css">
+  .rslides li {
+    -webkit-backface-visibility: hidden;
+    position: absolute;
+    display: none;
+    width: 100%;
+    left: 0;
+    top: 0;
+  }
 
-    <!-- MAIN STYLE -->
-    <link rel="stylesheet" type="text/css" href="css/style.css">  
-    <link rel="stylesheet" type="text/css" href="https://s3-us-west-2.amazonaws.com/s.cdpn.io/1356355/responsiveslides.css">  
-    
-    <style>
+  .rslides li:first-child {
+    position: relative;
+    display: block;
+    float: left;
+  }
+
+  .rslides img {
+    display: block;
+    height: auto;
+    float: left;
+    width: 100%;
+    border: 0;
+  }
+
+
+
   .rslides:before {
     content: "";
     display: block;
     width: 540px;
-    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/1356355/slider-overlay.png");
+    background-image: url("images/slider-overlay.png");
     background-repeat: no-repeat;
     background-position: top left;
     background-size: 100%;
@@ -78,23 +108,29 @@
 
   @media only screen and (max-width: 768px) {
     nav {
-    text-align: center;
-  }
-  .section-slider{
-    padding-top: 15% !important;;
-  }
+      text-align: center;
+    }
+
+    .section-slider {
+      padding-top: 15% !important;
+      ;
+    }
+
     nav a {
       font-size: 1.5em;
     }
   }
-    </style>
-    
-    <!-- Global site tag (gtag.js) - Google Analytics -->
+</style>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-184191005-1">
 </script>
 <script>
   window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
+
+  function gtag() {
+    dataLayer.push(arguments);
+  }
   gtag('js', new Date());
 
   gtag('config', 'UA-184191005-1');
