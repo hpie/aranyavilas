@@ -14,7 +14,81 @@
     <link rel="stylesheet" type="text/css" href="css/responsive.css">
 
     <!-- MAIN STYLE -->
-    <link rel="stylesheet" type="text/css" href="css/style.css">   
+    <link rel="stylesheet" type="text/css" href="css/style.css">  
+    <link rel="stylesheet" type="text/css" href="https://s3-us-west-2.amazonaws.com/s.cdpn.io/1356355/responsiveslides.css">  
+    
+    <style>
+  .rslides:before {
+    content: "";
+    display: block;
+    width: 540px;
+    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/1356355/slider-overlay.png");
+    background-repeat: no-repeat;
+    background-position: top left;
+    background-size: 100%;
+    padding-bottom: 31.25%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 3;
+  }
+
+  /* Slider navigation */
+
+  .transparent-btns_tabs {
+    position: absolute;
+    z-index: 2;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+  }
+
+  .transparent-btns_tabs li {
+    display: inline;
+    float: none;
+    _float: left;
+    *float: left;
+    margin-right: 5px;
+  }
+
+  .transparent-btns_tabs a {
+    text-indent: -9999px;
+    overflow: hidden;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+    background: #ccc;
+    background: rgba(0, 0, 0, 0.2);
+    display: inline-block;
+    _display: block;
+    *display: block;
+    -webkit-box-shadow: inset 0 0 2px 0 rgba(0, 0, 0, 0.3);
+    -moz-box-shadow: inset 0 0 2px 0 rgba(0, 0, 0, 0.3);
+    box-shadow: inset 0 0 2px 0 rgba(0, 0, 0, 0.3);
+    width: 11px;
+    height: 11px;
+  }
+
+  .transparent-btns_here a {
+    background: #222;
+    background: rgba(0, 0, 0, 0.8);
+  }
+
+  /* Slider navigation end */
+
+  @media only screen and (max-width: 768px) {
+    nav {
+    text-align: center;
+  }
+  .section-slider{
+    padding-top: 15% !important;;
+  }
+    nav a {
+      font-size: 1.5em;
+    }
+  }
+    </style>
+    
     <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-184191005-1">
 </script>

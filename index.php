@@ -29,71 +29,16 @@
     <div id="page-wrap">
         <!-- BANNER SLIDER -->
         <section class="section-slider">
-            <h1 class="element-invisible">Slider</h1>
-            <div id="slider-revolution">
-                <ul>
-                    <li data-transition="fade">
-                        <img src="images/slider/img-1.jpg" data-bgposition="left center" data-duration="14000" data-bgpositionend="right center" alt="">
-
-                        <!-- <div class="tp-caption sft fadeout slider-caption-sub slider-caption-1" data-x="center" data-y="100" data-speed="700" data-start="1500" data-easing="easeOutBack">
-                            <img src="images/slider/hom1-slide1.png" alt="icons">
-                        </div> -->
-
-                        <div class="tp-caption sft fadeout slider-caption-sub slider-caption-1" data-x="center" data-y="240" data-speed="700" data-start="1500" data-easing="easeOutBack">
-                            WELCOME TO
-                        </div>
-
-                        <div class="tp-caption sfb fadeout slider-caption slider-caption-sub-1" data-x="center" data-y="280" data-speed="700" data-easing="easeOutBack" data-start="2000">ARANYAVILAS</div>
-
-                        <a href="accomodation.php" class="tp-caption sfb fadeout awe-btn awe-btn-12 awe-btn-slider" data-x="center" data-y="380" data-easing="easeOutBack" data-speed="700" data-start="2200">VIEW NOW</a>
-                    </li>
-
-                    <li data-transition="fade">
-                        <img src="images/slider/img-2.jpg" data-bgposition="left center" data-duration="14000" data-bgpositionend="right center" alt="">
-
-                        <div class="tp-caption sft fadeout" data-x="center" data-y="195" data-speed="700" data-start="1300" data-easing="easeOutBack">
-                            <img src="images/icon-slider-1.png" alt="">
-                        </div>
-
-                        <div class="tp-caption sft fadeout slider-caption-sub slider-caption-sub-3" data-x="center" data-y="220" data-speed="700" data-start="1500" data-easing="easeOutBack">
-                        ARANYAVILAS
-                        </div>
-
-                        <!-- <div class="tp-caption sfb fadeout slider-caption slider-caption-3" data-x="center" data-y="260" data-speed="700" data-easing="easeOutBack" data-start="2000">
-                            UNIQUE
-                        </div> -->
-
-                        <!-- <div class="tp-caption sfb fadeout slider-caption-sub slider-caption-sub-3" data-x="center" data-y="260" data-easing="easeOutBack" data-speed="700" data-start="2200">JUST LIKE ARANYAVILAS</div> -->
-
-                        <div class="tp-caption sfb fadeout slider-caption-sub slider-caption-sub-3" data-x="center" data-y="260" data-easing="easeOutBack" data-speed="700" data-start="2400"><img src="images/icon-slider-2.png" alt=""></div>
-                    </li>
-                    <li data-transition="fade">
-                        <img src="images/slider/img-3.jpg" data-bgposition="left center" data-duration="14000" data-bgpositionend="right center" alt="">
-
-                        <div class="tp-caption sft fadeout" data-x="center" data-y="195" data-speed="700" data-start="1300" data-easing="easeOutBack">
-                            <img src="images/icon-slider-1.png" alt="">
-                        </div>
-
-                        <div class="tp-caption sft fadeout slider-caption-sub slider-caption-sub-3" data-x="center" data-y="220" data-speed="700" data-start="1500" data-easing="easeOutBack">
-                        ARANYAVILAS
-                        </div>
-
-                        <!-- <div class="tp-caption sfb fadeout slider-caption slider-caption-3" data-x="center" data-y="260" data-speed="700" data-easing="easeOutBack" data-start="2000">
-                            UNIQUE
-                        </div> -->
-
-                        <!-- <div class="tp-caption sfb fadeout slider-caption-sub slider-caption-sub-3" data-x="center" data-y="260" data-easing="easeOutBack" data-speed="700" data-start="2200">JUST LIKE ARANYAVILAS</div> -->
-
-                        <div class="tp-caption sfb fadeout slider-caption-sub slider-caption-sub-3" data-x="center" data-y="260" data-easing="easeOutBack" data-speed="700" data-start="2400"><img src="images/icon-slider-2.png" alt=""></div>
-                    </li>
-
-                </ul>
-            </div>
-
+        <div class="home-slider">
+            <ul class="rslides" id="slider1">
+                <li><img src="images/slider/img-1.png" alt="slide1"></li>                                    
+                <li><img src="images/slider/img-2.png" alt="slide2"></li>           
+            </ul>
+        </div>
         </section>
         <!-- END / BANNER SLIDER -->
         <!-- CHECK AVAILABILITY -->
-        <section class="section-check-availability">
+        <!-- <section class="section-check-availability">
             <div class="container">
                 <div class="check-availability">
                     <div class="row v-align">
@@ -103,7 +48,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!-- END / CHECK AVAILABILITY -->
         <!-- ACCOMMODATIONS -->
         <section class="ot-accomd-modations">
@@ -366,6 +311,13 @@
         <?php
         include('_partials/footer.php'); // Includes footer links and scripts
         ?>
+        <script>
+            $("#slider1").responsiveSlides({
+                pager: true,
+                speed: 500,
+                namespace: "transparent-btns"
+            });
+        </script>
         <!-- End Import Footer -->
 
 </body>
