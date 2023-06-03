@@ -32,7 +32,7 @@
         <div class="home-slider">
             <ul class="rslides" id="slider1">
                 <li><img src="images/slider/img-11.jpg" alt="slide1"></li>                                    
-                <li><img src="images/slider/img-22.jpg" alt="slide2"></li>           
+                <li><img src="images/slider/img-12.jpg" alt="slide2"></li>           
             </ul>
         </div>
         </section>

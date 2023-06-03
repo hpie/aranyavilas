@@ -43,6 +43,6 @@
 
 </header>
 <!-- END / HEADER -->
-<!-- <div id="preloader">
+<div id="preloader">
         <span class="preloader-dot"></span>
-</div> -->
+</div>

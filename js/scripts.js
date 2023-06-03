@@ -1156,7 +1156,7 @@
 
     $(document).ready(function () {
         $(window).load(function () {
-            $('#preloader').delay(500).fadeOut('200', function () {
+            $('#preloader').delay(100).fadeOut('50', function () {
                 $(this).fadeOut()
             });
             $('body').append('<div class="awe-popup-overlay" id="awe-popup-overlay"></div><div class="awe-popup-wrap" id="awe-popup-wrap"><div class="awe-popup-content"></div><span class="awe-popup-close" id="awe-popup-close"></div>');
