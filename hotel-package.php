@@ -161,7 +161,7 @@
                             <div class="room_item-1">                            
                                 <h2>Fully Loaded Shimla Trip</h2>                        
                                 <div class="img">
-									<img src="images/shimla-church.jpg" alt="shimla travel" title="shimla travel" class="img-rounded">
+									<img src="images/pakeges/5.jpg" alt="shimla travel" title="shimla travel" class="img-rounded">
                                 </div>                            
                                 <div class="desc">
 									<p style="font-size: 18px;font-weight:600">
@@ -189,7 +189,7 @@
                             <div class="room_item-1">                            
                                 <h2>HOLIDAY</h2>                        
                                 <div class="img">
-									<img src="images/naldehra-shimla.jpg" alt="holidays in shimla" title="holidays in shimla" class="img-rounded">
+									<img src="images/pakeges/6.jpg" alt="holidays in shimla" title="holidays in shimla" class="img-rounded">
                                 </div>                            
                                 <div class="desc">
                                     <p style="font-size: 18px;font-weight:600">

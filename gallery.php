@@ -50,10 +50,9 @@
                     <div class="gallery-cat text-center">
                         <ul class="list-inline">
                             <li class="active"><a href="#" data-filter="*">All</a></li>
-                            <li><a href="#" data-filter=".ground">HOTEL &amp; GROUND</a></li>
-                            <li><a href="#" data-filter=".suite">ROOM/SUITE </a></li>
-                            <li><a href="#" data-filter=".bathroom">BATHROOM</a></li>
-                            <li><a href="#" data-filter=".dining">DINING</a></li>
+                            <li><a href="#" data-filter=".exterior">Exterior & Interior</a></li>
+                            <li><a href="#" data-filter=".room">Rooms</a></li>
+                            <li><a href="#" data-filter=".occasion">Special Occasion</a></li>                            
                         </ul>
                     </div>
                     <!-- END / FILTER -->
@@ -62,228 +61,269 @@
                     <div class="gallery-content">
                         
                         <div class="row">
-                            <div class="gallery-isotope col-4">
-                                
+                            <div class="gallery-isotope col-4">                                
                                 <!-- ITEM SIZE -->
                                 <div class="item-size"></div>
-                                <!-- END / ITEM SIZE -->
+                                <!-- END / ITEM SIZE -->  
+                                
+                                 <!-- ITEM -->
+                                 <div class="item-isotope room">
+                                    <div class="gallery_item">
+                                        <a href="images/gallery/page/rm1.jpg" class="mfp-image">
+                                            <img src="images/gallery/page/rm1.jpg" alt="" style="height:180px;widt:270px">
+                                        </a>                                       
+                                    </div>
+                                </div>
+                                <!-- END / ITEM -->
+                                <!-- ITEM -->
+                                <div class="item-isotope room">
+                                    <div class="gallery_item">
+                                        <a href="images/gallery/page/rm2.jpg" class="mfp-image">
+                                            <img src="images/gallery/page/rm2.jpg" alt="" style="height:180px;widt:270px">
+                                        </a>                                       
+                                    </div>
+                                </div>
+                                <!-- END / ITEM -->
+                                <!-- ITEM -->
+                                <div class="item-isotope room">
+                                    <div class="gallery_item">
+                                        <a href="images/gallery/page/rm3.jpg" class="mfp-image">
+                                            <img src="images/gallery/page/rm3.jpg" alt="" style="height:180px;widt:270px">
+                                        </a>                                       
+                                    </div>
+                                </div>
+                                <!-- END / ITEM -->
+                                <!-- ITEM -->
+                                <div class="item-isotope room">
+                                    <div class="gallery_item">
+                                        <a href="images/gallery/page/rm4.jpg" class="mfp-image">
+                                            <img src="images/gallery/page/rm4.jpg" alt="" style="height:180px;widt:270px">
+                                        </a>                                       
+                                    </div>
+                                </div>
+                                <!-- END / ITEM -->
+                                <!-- ITEM -->
+                                <div class="item-isotope room">
+                                    <div class="gallery_item">
+                                        <a href="images/gallery/page/rm5.jpg" class="mfp-image">
+                                            <img src="images/gallery/page/rm5.jpg" alt="" style="height:180px;widt:270px">
+                                        </a>                                       
+                                    </div>
+                                </div>
+                                <!-- END / ITEM -->
+                                <!-- ITEM -->
+                                <div class="item-isotope room">
+                                    <div class="gallery_item">
+                                        <a href="images/gallery/page/rm6.jpg" class="mfp-image">
+                                            <img src="images/gallery/page/rm6.jpg" alt="" style="height:180px;widt:270px">
+                                        </a>                                       
+                                    </div>
+                                </div>
+                                <!-- END / ITEM -->
+                                <!-- ITEM -->
+                                <div class="item-isotope room">
+                                    <div class="gallery_item">
+                                        <a href="images/gallery/page/rm7.jpg" class="mfp-image">
+                                            <img src="images/gallery/page/rm7.jpg" alt="" style="height:180px;widt:270px">
+                                        </a>                                       
+                                    </div>
+                                </div>
+                                <!-- END / ITEM -->
+                                <!-- ITEM -->
+                                <div class="item-isotope room">
+                                    <div class="gallery_item">
+                                        <a href="images/gallery/page/rm8.jpg" class="mfp-image">
+                                            <img src="images/gallery/page/rm8.jpg" alt="" style="height:180px;widt:270px">
+                                        </a>                                       
+                                    </div>
+                                </div>
+                                <!-- END / ITEM -->
+                                <!-- ITEM -->
+                                <div class="item-isotope room">
+                                    <div class="gallery_item">
+                                        <a href="images/gallery/page/rm9.jpg" class="mfp-image">
+                                            <img src="images/gallery/page/rm9.jpg" alt="" style="height:180px;widt:270px">
+                                        </a>                                       
+                                    </div>
+                                </div>
+                                <!-- END / ITEM -->
+                                <!-- ITEM -->
+                                <div class="item-isotope room">
+                                    <div class="gallery_item">
+                                        <a href="images/gallery/page/rm10.jpg" class="mfp-image">
+                                            <img src="images/gallery/page/rm10.jpg" alt="" style="height:180px;widt:270px">
+                                        </a>                                       
+                                    </div>
+                                </div>
+                                <!-- END / ITEM -->
+                                <!-- ITEM -->
+                                <div class="item-isotope room">
+                                    <div class="gallery_item">
+                                        <a href="images/gallery/page/rm11.jpg" class="mfp-image">
+                                            <img src="images/gallery/page/rm11.jpg" alt="" style="height:180px;widt:270px">
+                                        </a>                                       
+                                    </div>
+                                </div>
+                                <!-- END / ITEM -->
+                                <!-- ITEM -->
+                                <div class="item-isotope room">
+                                    <div class="gallery_item">
+                                        <a href="images/gallery/page/rm12.jpg" class="mfp-image">
+                                            <img src="images/gallery/page/rm12.jpg" alt="" style="height:180px;widt:270px">
+                                        </a>                                       
+                                    </div>
+                                </div>
+                                <!-- END / ITEM -->
+                                <!-- ITEM -->
+                                <div class="item-isotope room">
+                                    <div class="gallery_item">
+                                        <a href="images/gallery/page/rm13.jpg" class="mfp-image">
+                                            <img src="images/gallery/page/rm13.jpg" alt="" style="height:180px;widt:270px">
+                                        </a>                                       
+                                    </div>
+                                </div>
+                                <!-- END / ITEM -->
+                                <!-- ITEM -->
+                                <div class="item-isotope room">
+                                    <div class="gallery_item">
+                                        <a href="images/gallery/page/rm14.jpg" class="mfp-image">
+                                            <img src="images/gallery/page/rm14.jpg" alt="" style="height:180px;widt:270px">
+                                        </a>                                       
+                                    </div>
+                                </div>
+                                <!-- END / ITEM -->
+                                <!-- ITEM -->
+                                <div class="item-isotope room">
+                                    <div class="gallery_item">
+                                        <a href="images/gallery/page/rm15.jpg" class="mfp-image">
+                                            <img src="images/gallery/page/rm15.jpg" alt="" style="height:180px;widt:270px">
+                                        </a>                                       
+                                    </div>
+                                </div>
+                                <!-- END / ITEM -->
+                                <!-- ITEM -->
+                                <div class="item-isotope room">
+                                    <div class="gallery_item">
+                                        <a href="images/gallery/page/rm16.jpg" class="mfp-image">
+                                            <img src="images/gallery/page/rm16.jpg" alt="" style="height:180px;widt:270px">
+                                        </a>                                       
+                                    </div>
+                                </div>
+                                <!-- END / ITEM -->
+                                
+
 
                                 <!-- ITEM -->
-                                <div class="item-isotope suite dining">
+                                <div class="item-isotope exterior">
                                     <div class="gallery_item">
-                                        <a href="https://www.youtube.com/watch?v=RnjZ6IhkR40" class="mfp-iframe">
-                                            <img src="images/gallery/img-1.jpg" alt="">
-                                        </a>
-                                        <span class="icon"><i class="fa lotus-icon-media-play"></i></span>
+                                        <a href="images/gallery/page/ex1.jpg" class="mfp-image">
+                                            <img src="images/gallery/page/ex1.jpg" alt="" style="height:180px;widt:270px">
+                                        </a>                                       
                                     </div>
                                 </div>
                                 <!-- END / ITEM -->
+                                 <!-- ITEM -->
+                                 <div class="item-isotope exterior">
+                                    <div class="gallery_item">
+                                    <a href="images/gallery/page/ex2.jpg" class="mfp-image">
+                                            <img src="images/gallery/page/ex2.jpg" alt="" style="height:180px;widt:270px">
+                                        </a>                                       
+                                    </div>
+                                </div>
+                                <!-- END / ITEM -->
+                                 <!-- ITEM -->
+                                 <div class="item-isotope exterior">
+                                    <div class="gallery_item">
+                                    <a href="images/gallery/page/ex3.jpg" class="mfp-image">
+                                            <img src="images/gallery/page/ex3.jpg" alt="" style="height:180px;widt:270px">
+                                        </a>                                       
+                                    </div>
+                                </div>
+                                <!-- END / ITEM -->   
+                                  <!-- ITEM -->
+                                  <div class="item-isotope exterior">
+                                    <div class="gallery_item">
+                                    <a href="images/gallery/page/ex4.jpg" class="mfp-image">
+                                            <img src="images/gallery/page/ex4.jpg" alt="" style="height:180px;widt:270px">
+                                        </a>                                       
+                                    </div>
+                                </div>
+                                <!-- END / ITEM -->   
+                                  <!-- ITEM -->
+                                  <div class="item-isotope exterior">
+                                    <div class="gallery_item">
+                                    <a href="images/gallery/page/ex5.jpg" class="mfp-image">
+                                            <img src="images/gallery/page/ex5.jpg" alt="" style="height:180px;widt:270px">
+                                        </a>                                       
+                                    </div>
+                                </div>
+                                <!-- END / ITEM -->   
+                                  <!-- ITEM -->
+                                  <div class="item-isotope exterior">
+                                    <div class="gallery_item">
+                                    <a href="images/gallery/page/ex6.jpg" class="mfp-image">
+                                            <img src="images/gallery/page/ex6.jpg" alt="" style="height:180px;widt:270px">
+                                        </a>                                       
+                                    </div>
+                                </div>
+                                <!-- END / ITEM -->   
+                                  <!-- ITEM -->
+                                  <div class="item-isotope exterior">
+                                    <div class="gallery_item">
+                                    <a href="images/gallery/page/ex7.jpg" class="mfp-image">
+                                            <img src="images/gallery/page/ex7.jpg" alt="" style="height:180px;widt:270px">
+                                        </a>                                       
+                                    </div>
+                                </div>
+                                <!-- END / ITEM -->   
+                                  <!-- ITEM -->
+                                  <div class="item-isotope exterior">
+                                    <div class="gallery_item">
+                                    <a href="images/gallery/page/ex8.jpg" class="mfp-image">
+                                            <img src="images/gallery/page/ex8.jpg" alt="" style="height:180px;widt:270px">
+                                        </a>                                       
+                                    </div>
+                                </div>
+                                <!-- END / ITEM -->   
+                                  <!-- ITEM -->
+                                  <div class="item-isotope exterior">
+                                    <div class="gallery_item">
+                                    <a href="images/gallery/page/ex9.jpg" class="mfp-image">
+                                            <img src="images/gallery/page/ex9.jpg" alt="" style="height:180px;widt:270px">
+                                        </a>                                       
+                                    </div>
+                                </div>
+                                <!-- END / ITEM -->    
+                                
+                                  <!-- ITEM -->
+                                  <div class="item-isotope exterior">
+                                    <div class="gallery_item">
+                                    <a href="images/gallery/page/ex10.jpg" class="mfp-image">
+                                            <img src="images/gallery/page/ex10.jpg" alt="" style="height:180px;widt:270px">
+                                        </a>                                       
+                                    </div>
+                                </div>
+                                <!-- END / ITEM -->    
 
-                                <!-- ITEM -->
-                                <div class="item-isotope ground bathroom suite">
+                                  <!-- ITEM -->
+                                  <div class="item-isotope exterior">
                                     <div class="gallery_item">
-                                        <a href="images/gallery/popup/img-1.jpg" class="mfp-image">
-                                            <img src="images/gallery/img-1.jpg" alt="">
-                                        </a>
-                                        <h6 class="text">Lorem Ipsum is simply dummy text of the printing</h6>
+                                    <a href="images/gallery/page/ex11.jpg" class="mfp-image">
+                                            <img src="images/gallery/page/ex11.jpg" alt="" style="height:180px;widt:270px">
+                                        </a>                                       
                                     </div>
                                 </div>
-                                <!-- END / ITEM -->
+                                <!-- END / ITEM -->    
 
-                                <!-- ITEM -->
-                                <div class="item-isotope  ground bathroom dinin">
+                                  <!-- ITEM -->
+                                  <div class="item-isotope exterior">
                                     <div class="gallery_item">
-                                        <a href="images/gallery/popup/img-1.jpg" class="mfp-image">
-                                            <img src="images/gallery/img-1.jpg" alt="">
-                                        </a>
-                                        <h6 class="text">Lorem Ipsum is simply dummy text of the printing</h6>
+                                    <a href="images/gallery/page/ex12.jpg" class="mfp-image">
+                                            <img src="images/gallery/page/ex12.jpg" alt="" style="height:180px;widt:270px">
+                                        </a>                                       
                                     </div>
                                 </div>
-                                <!-- END / ITEM -->
-
-                                <!-- ITEM -->
-                                <div class="item-isotope suite dining">
-                                    <div class="gallery_item">
-                                        <a href="https://www.youtube.com/watch?v=RnjZ6IhkR40" class="mfp-iframe">
-                                            <img src="images/gallery/img-1.jpg" alt="">
-                                        </a>
-                                        <span class="icon"><i class="fa lotus-icon-media-play"></i></span>
-                                    </div>
-                                </div>
-                                <!-- END / ITEM -->
-
-                                <!-- ITEM -->
-                                <div class="item-isotope  ground suite dining">
-                                    <div class="gallery_item">
-                                        <a href="images/gallery/popup/img-1.jpg" class="mfp-image">
-                                            <img src="images/gallery/img-1.jpg" alt="">
-                                        </a>
-                                        <h6 class="text">Lorem Ipsum is simply dummy text of the printing</h6>
-                                    </div>
-                                </div>
-                                <!-- END / ITEM -->
-
-                                <!-- ITEM -->
-                                <div class="item-isotope ground bathroom dining">
-                                    <div class="gallery_item">
-                                        <a href="images/gallery/popup/img-1.jpg" class="mfp-image">
-                                            <img src="images/gallery/img-1.jpg" alt="">
-                                        </a>
-                                        <h6 class="text">Lorem Ipsum is simply dummy text of the printing</h6>
-                                    </div>
-                                </div>
-                                <!-- END / ITEM -->
-
-                                <!-- ITEM -->
-                                <div class="item-isotope ground suite dining">
-                                    <div class="gallery_item">
-                                        <a href="images/gallery/popup/img-1.jpg" class="mfp-image">
-                                            <img src="images/gallery/img-1.jpg" alt="">
-                                        </a>
-                                        <h6 class="text">Lorem Ipsum is simply dummy text of the printing</h6>
-                                    </div>
-                                </div>
-                                <!-- END / ITEM -->
-
-                                <!-- ITEM -->
-                                <div class="item-isotope bathroom suite dining">
-                                    <div class="gallery_item">
-                                        <a href="images/gallery/popup/img-1.jpg" class="mfp-image">
-                                            <img src="images/gallery/img-1.jpg" alt="">
-                                        </a>
-                                        <h6 class="text">Lorem Ipsum is simply dummy text of the printing</h6>
-                                    </div>
-                                </div>
-                                <!-- END / ITEM -->
-
-                                <!-- ITEM -->
-                                <div class="item-isotope bathroom suite dining">
-                                    <div class="gallery_item">
-                                        <a href="images/gallery/popup/img-1.jpg" class="mfp-image">
-                                            <img src="images/gallery/img-1.jpg" alt="">
-                                        </a>
-                                        <h6 class="text">Lorem Ipsum is simply dummy text of the printing</h6>
-                                    </div>
-                                </div>
-                                <!-- END / ITEM -->
-
-                                <!-- ITEM -->
-                                <div class="item-isotope  ">
-                                    <div class="gallery_item">
-                                        <a href="images/gallery/popup/img-1.jpg" class="mfp-image">
-                                            <img src="images/gallery/img-1.jpg" alt="">
-                                        </a>
-                                        <h6 class="text">Lorem Ipsum is simply dummy text of the printing</h6>
-                                    </div>
-                                </div>
-                                <!-- END / ITEM -->
-
-                                <!-- ITEM -->
-                                <div class="item-isotope ground bathroom suite">
-                                    <div class="gallery_item">
-                                        <a href="images/gallery/popup/img-1.jpg" class="mfp-image">
-                                            <img src="images/gallery/img-1.jpg" alt="">
-                                        </a>
-                                        <h6 class="text">Lorem Ipsum is simply dummy text of the printing</h6>
-                                    </div>
-                                </div>
-                                <!-- END / ITEM -->
-
-                                <!-- ITEM -->
-                                <div class="item-isotope ground bathroom">
-                                    <div class="gallery_item">
-                                        <a href="images/gallery/popup/img-1.jpg" class="mfp-image">
-                                            <img src="images/gallery/img-1.jpg" alt="">
-                                        </a>
-                                        <h6 class="text">Lorem Ipsum is simply dummy text of the printing</h6>
-                                    </div>
-                                </div>
-                                <!-- END / ITEM -->
-                                <div class="item-isotope suite dining">
-                                    <div class="gallery_item">
-                                        <a href="images/gallery/popup/img-1.jpg" class="mfp-image">
-                                            <img src="images/gallery/img-1.jpg" alt="">
-                                        </a>
-                                        <h6 class="text">Lorem Ipsum is simply dummy text of the printing</h6>
-                                    </div>
-                                </div>
-                                <!-- END / ITEM -->
-
-                                <!-- ITEM -->
-                                <div class="item-isotope ground bathroom suite">
-                                    <div class="gallery_item">
-                                        <a href="images/gallery/popup/img-1.jpg" class="mfp-image">
-                                            <img src="images/gallery/img-1.jpg" alt="">
-                                        </a>
-                                        <h6 class="text">Lorem Ipsum is simply dummy text of the printing</h6>
-                                    </div>
-                                </div>
-                                <!-- END / ITEM -->
-
-                                <!-- ITEM -->
-                                <div class="item-isotope  ground bathroom dinin">
-                                    <div class="gallery_item">
-                                        <a href="https://www.youtube.com/watch?v=RnjZ6IhkR40" class="mfp-iframe">
-                                            <img src="images/gallery/img-1.jpg" alt="">
-                                        </a>
-                                        <span class="icon"><i class="fa lotus-icon-media-play"></i></span>
-                                    </div>
-                                </div>
-                                <!-- END / ITEM -->
-
-                                <!-- ITEM -->
-                                <div class="item-isotope suite dining">
-                                    <div class="gallery_item">
-                                        <a href="images/gallery/popup/img-1.jpg" class="mfp-image">
-                                            <img src="images/gallery/img-1.jpg" alt="">
-                                        </a>
-                                        <h6 class="text">Lorem Ipsum is simply dummy text of the printing</h6>
-                                    </div>
-                                </div>
-                                <!-- END / ITEM -->
-                                <div class="item-isotope suite dining">
-                                    <div class="gallery_item">
-                                        <a href="images/gallery/popup/img-1.jpg" class="mfp-image">
-                                            <img src="images/gallery/img-1.jpg" alt="">
-                                        </a>
-                                        <h6 class="text">Lorem Ipsum is simply dummy text of the printing</h6>
-                                    </div>
-                                </div>
-                                <!-- END / ITEM -->
-
-                                <!-- ITEM -->
-                                <div class="item-isotope ground bathroom suite">
-                                    <div class="gallery_item">
-                                        <a href="images/gallery/popup/img-1.jpg" class="mfp-image">
-                                            <img src="images/gallery/img-1.jpg" alt="">
-                                        </a>
-                                        <h6 class="text">Lorem Ipsum is simply dummy text of the printing</h6>
-                                    </div>
-                                </div>
-                                <!-- END / ITEM -->
-
-                                <!-- ITEM -->
-                                <div class="item-isotope  ground bathroom dinin">
-                                    <div class="gallery_item">
-                                        <a href="images/gallery/popup/img-1.jpg" class="mfp-image">
-                                            <img src="images/gallery/img-1.jpg" alt="">
-                                        </a>
-                                        <h6 class="text">Lorem Ipsum is simply dummy text of the printing</h6>
-                                    </div>
-                                </div>
-                                <!-- END / ITEM -->
-
-                                <!-- ITEM -->
-                                <div class="item-isotope suite dining">
-                                    <div class="gallery_item">
-                                        <a href="images/gallery/popup/img-1.jpg" class="mfp-image">
-                                            <img src="images/gallery/img-1.jpg" alt="">
-                                        </a>
-                                        <h6 class="text">Lorem Ipsum is simply dummy text of the printing</h6>
-                                    </div>
-                                </div>
-                                <!-- END / ITEM -->
-
+                                <!-- END / ITEM -->    
                             </div>
                         </div>
 
