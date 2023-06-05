@@ -34,7 +34,7 @@
             <div class="sub-banner">
                 <div class="container">
                     <div class="text text-center">
-                        <h2>Gallery 2</h2>
+                        <h2>Gallery</h2>
                         <!-- <p>Lorem Ipsum is simply dummy text of the printing</p> -->
                     </div>
                 </div>
@@ -70,7 +70,7 @@
                                  <div class="item-isotope room">
                                     <div class="gallery_item">
                                         <a href="images/gallery/page/rm1.jpg" class="mfp-image">
-                                            <img src="images/gallery/page/rm1.jpg" alt="" style="height:180px;widt:270px">
+                                            <img src="images/gallery/page/rm1.jpg" alt="" style="height:180px;width:250px">
                                         </a>                                       
                                     </div>
                                 </div>
@@ -79,7 +79,7 @@
                                 <div class="item-isotope room">
                                     <div class="gallery_item">
                                         <a href="images/gallery/page/rm2.jpg" class="mfp-image">
-                                            <img src="images/gallery/page/rm2.jpg" alt="" style="height:180px;widt:270px">
+                                            <img src="images/gallery/page/rm2.jpg" alt="" style="height:180px;width:250px">
                                         </a>                                       
                                     </div>
                                 </div>
@@ -88,7 +88,7 @@
                                 <div class="item-isotope room">
                                     <div class="gallery_item">
                                         <a href="images/gallery/page/rm3.jpg" class="mfp-image">
-                                            <img src="images/gallery/page/rm3.jpg" alt="" style="height:180px;widt:270px">
+                                            <img src="images/gallery/page/rm3.jpg" alt="" style="height:180px;width:250px">
                                         </a>                                       
                                     </div>
                                 </div>
@@ -97,7 +97,7 @@
                                 <div class="item-isotope room">
                                     <div class="gallery_item">
                                         <a href="images/gallery/page/rm4.jpg" class="mfp-image">
-                                            <img src="images/gallery/page/rm4.jpg" alt="" style="height:180px;widt:270px">
+                                            <img src="images/gallery/page/rm4.jpg" alt="" style="height:180px;width:250px">
                                         </a>                                       
                                     </div>
                                 </div>
@@ -106,7 +106,7 @@
                                 <div class="item-isotope room">
                                     <div class="gallery_item">
                                         <a href="images/gallery/page/rm5.jpg" class="mfp-image">
-                                            <img src="images/gallery/page/rm5.jpg" alt="" style="height:180px;widt:270px">
+                                            <img src="images/gallery/page/rm5.jpg" alt="" style="height:180px;width:250px">
                                         </a>                                       
                                     </div>
                                 </div>
@@ -115,7 +115,7 @@
                                 <div class="item-isotope room">
                                     <div class="gallery_item">
                                         <a href="images/gallery/page/rm6.jpg" class="mfp-image">
-                                            <img src="images/gallery/page/rm6.jpg" alt="" style="height:180px;widt:270px">
+                                            <img src="images/gallery/page/rm6.jpg" alt="" style="height:180px;width:250px">
                                         </a>                                       
                                     </div>
                                 </div>
@@ -124,7 +124,7 @@
                                 <div class="item-isotope room">
                                     <div class="gallery_item">
                                         <a href="images/gallery/page/rm7.jpg" class="mfp-image">
-                                            <img src="images/gallery/page/rm7.jpg" alt="" style="height:180px;widt:270px">
+                                            <img src="images/gallery/page/rm7.jpg" alt="" style="height:180px;width:250px">
                                         </a>                                       
                                     </div>
                                 </div>
@@ -133,7 +133,7 @@
                                 <div class="item-isotope room">
                                     <div class="gallery_item">
                                         <a href="images/gallery/page/rm8.jpg" class="mfp-image">
-                                            <img src="images/gallery/page/rm8.jpg" alt="" style="height:180px;widt:270px">
+                                            <img src="images/gallery/page/rm8.jpg" alt="" style="height:180px;width:250px">
                                         </a>                                       
                                     </div>
                                 </div>
@@ -142,7 +142,7 @@
                                 <div class="item-isotope room">
                                     <div class="gallery_item">
                                         <a href="images/gallery/page/rm9.jpg" class="mfp-image">
-                                            <img src="images/gallery/page/rm9.jpg" alt="" style="height:180px;widt:270px">
+                                            <img src="images/gallery/page/rm9.jpg" alt="" style="height:180px;width:250px">
                                         </a>                                       
                                     </div>
                                 </div>
@@ -151,7 +151,7 @@
                                 <div class="item-isotope room">
                                     <div class="gallery_item">
                                         <a href="images/gallery/page/rm10.jpg" class="mfp-image">
-                                            <img src="images/gallery/page/rm10.jpg" alt="" style="height:180px;widt:270px">
+                                            <img src="images/gallery/page/rm10.jpg" alt="" style="height:180px;width:250px">
                                         </a>                                       
                                     </div>
                                 </div>
@@ -160,7 +160,7 @@
                                 <div class="item-isotope room">
                                     <div class="gallery_item">
                                         <a href="images/gallery/page/rm11.jpg" class="mfp-image">
-                                            <img src="images/gallery/page/rm11.jpg" alt="" style="height:180px;widt:270px">
+                                            <img src="images/gallery/page/rm11.jpg" alt="" style="height:180px;width:250px">
                                         </a>                                       
                                     </div>
                                 </div>
@@ -169,7 +169,7 @@
                                 <div class="item-isotope room">
                                     <div class="gallery_item">
                                         <a href="images/gallery/page/rm12.jpg" class="mfp-image">
-                                            <img src="images/gallery/page/rm12.jpg" alt="" style="height:180px;widt:270px">
+                                            <img src="images/gallery/page/rm12.jpg" alt="" style="height:180px;width:250px">
                                         </a>                                       
                                     </div>
                                 </div>
@@ -178,7 +178,7 @@
                                 <div class="item-isotope room">
                                     <div class="gallery_item">
                                         <a href="images/gallery/page/rm13.jpg" class="mfp-image">
-                                            <img src="images/gallery/page/rm13.jpg" alt="" style="height:180px;widt:270px">
+                                            <img src="images/gallery/page/rm13.jpg" alt="" style="height:180px;width:250px">
                                         </a>                                       
                                     </div>
                                 </div>
@@ -187,7 +187,7 @@
                                 <div class="item-isotope room">
                                     <div class="gallery_item">
                                         <a href="images/gallery/page/rm14.jpg" class="mfp-image">
-                                            <img src="images/gallery/page/rm14.jpg" alt="" style="height:180px;widt:270px">
+                                            <img src="images/gallery/page/rm14.jpg" alt="" style="height:180px;width:250px">
                                         </a>                                       
                                     </div>
                                 </div>
@@ -196,7 +196,7 @@
                                 <div class="item-isotope room">
                                     <div class="gallery_item">
                                         <a href="images/gallery/page/rm15.jpg" class="mfp-image">
-                                            <img src="images/gallery/page/rm15.jpg" alt="" style="height:180px;widt:270px">
+                                            <img src="images/gallery/page/rm15.jpg" alt="" style="height:180px;width:250px">
                                         </a>                                       
                                     </div>
                                 </div>
@@ -205,7 +205,7 @@
                                 <div class="item-isotope room">
                                     <div class="gallery_item">
                                         <a href="images/gallery/page/rm16.jpg" class="mfp-image">
-                                            <img src="images/gallery/page/rm16.jpg" alt="" style="height:180px;widt:270px">
+                                            <img src="images/gallery/page/rm16.jpg" alt="" style="height:180px;width:250px">
                                         </a>                                       
                                     </div>
                                 </div>
@@ -217,7 +217,7 @@
                                 <div class="item-isotope exterior">
                                     <div class="gallery_item">
                                         <a href="images/gallery/page/ex1.jpg" class="mfp-image">
-                                            <img src="images/gallery/page/ex1.jpg" alt="" style="height:180px;widt:270px">
+                                            <img src="images/gallery/page/ex1.jpg" alt="" style="height:180px;width:250px">
                                         </a>                                       
                                     </div>
                                 </div>
@@ -226,7 +226,7 @@
                                  <div class="item-isotope exterior">
                                     <div class="gallery_item">
                                     <a href="images/gallery/page/ex2.jpg" class="mfp-image">
-                                            <img src="images/gallery/page/ex2.jpg" alt="" style="height:180px;widt:270px">
+                                            <img src="images/gallery/page/ex2.jpg" alt="" style="height:180px;width:250px">
                                         </a>                                       
                                     </div>
                                 </div>
@@ -235,7 +235,7 @@
                                  <div class="item-isotope exterior">
                                     <div class="gallery_item">
                                     <a href="images/gallery/page/ex3.jpg" class="mfp-image">
-                                            <img src="images/gallery/page/ex3.jpg" alt="" style="height:180px;widt:270px">
+                                            <img src="images/gallery/page/ex3.jpg" alt="" style="height:180px;width:250px">
                                         </a>                                       
                                     </div>
                                 </div>
@@ -244,7 +244,7 @@
                                   <div class="item-isotope exterior">
                                     <div class="gallery_item">
                                     <a href="images/gallery/page/ex4.jpg" class="mfp-image">
-                                            <img src="images/gallery/page/ex4.jpg" alt="" style="height:180px;widt:270px">
+                                            <img src="images/gallery/page/ex4.jpg" alt="" style="height:180px;width:250px">
                                         </a>                                       
                                     </div>
                                 </div>
@@ -253,7 +253,7 @@
                                   <div class="item-isotope exterior">
                                     <div class="gallery_item">
                                     <a href="images/gallery/page/ex5.jpg" class="mfp-image">
-                                            <img src="images/gallery/page/ex5.jpg" alt="" style="height:180px;widt:270px">
+                                            <img src="images/gallery/page/ex5.jpg" alt="" style="height:180px;width:250px">
                                         </a>                                       
                                     </div>
                                 </div>
@@ -262,7 +262,7 @@
                                   <div class="item-isotope exterior">
                                     <div class="gallery_item">
                                     <a href="images/gallery/page/ex6.jpg" class="mfp-image">
-                                            <img src="images/gallery/page/ex6.jpg" alt="" style="height:180px;widt:270px">
+                                            <img src="images/gallery/page/ex6.jpg" alt="" style="height:180px;width:250px">
                                         </a>                                       
                                     </div>
                                 </div>
@@ -271,7 +271,7 @@
                                   <div class="item-isotope exterior">
                                     <div class="gallery_item">
                                     <a href="images/gallery/page/ex7.jpg" class="mfp-image">
-                                            <img src="images/gallery/page/ex7.jpg" alt="" style="height:180px;widt:270px">
+                                            <img src="images/gallery/page/ex7.jpg" alt="" style="height:180px;width:250px">
                                         </a>                                       
                                     </div>
                                 </div>
@@ -280,7 +280,7 @@
                                   <div class="item-isotope exterior">
                                     <div class="gallery_item">
                                     <a href="images/gallery/page/ex8.jpg" class="mfp-image">
-                                            <img src="images/gallery/page/ex8.jpg" alt="" style="height:180px;widt:270px">
+                                            <img src="images/gallery/page/ex8.jpg" alt="" style="height:180px;width:250px">
                                         </a>                                       
                                     </div>
                                 </div>
@@ -289,7 +289,7 @@
                                   <div class="item-isotope exterior">
                                     <div class="gallery_item">
                                     <a href="images/gallery/page/ex9.jpg" class="mfp-image">
-                                            <img src="images/gallery/page/ex9.jpg" alt="" style="height:180px;widt:270px">
+                                            <img src="images/gallery/page/ex9.jpg" alt="" style="height:180px;width:250px">
                                         </a>                                       
                                     </div>
                                 </div>
@@ -299,7 +299,7 @@
                                   <div class="item-isotope exterior">
                                     <div class="gallery_item">
                                     <a href="images/gallery/page/ex10.jpg" class="mfp-image">
-                                            <img src="images/gallery/page/ex10.jpg" alt="" style="height:180px;widt:270px">
+                                            <img src="images/gallery/page/ex10.jpg" alt="" style="height:180px;width:250px">
                                         </a>                                       
                                     </div>
                                 </div>
@@ -309,7 +309,7 @@
                                   <div class="item-isotope exterior">
                                     <div class="gallery_item">
                                     <a href="images/gallery/page/ex11.jpg" class="mfp-image">
-                                            <img src="images/gallery/page/ex11.jpg" alt="" style="height:180px;widt:270px">
+                                            <img src="images/gallery/page/ex11.jpg" alt="" style="height:180px;width:250px">
                                         </a>                                       
                                     </div>
                                 </div>
@@ -319,11 +319,119 @@
                                   <div class="item-isotope exterior">
                                     <div class="gallery_item">
                                     <a href="images/gallery/page/ex12.jpg" class="mfp-image">
-                                            <img src="images/gallery/page/ex12.jpg" alt="" style="height:180px;widt:270px">
+                                            <img src="images/gallery/page/ex12.jpg" alt="" style="height:180px;width:250px">
                                         </a>                                       
                                     </div>
                                 </div>
-                                <!-- END / ITEM -->    
+                                <!-- END / ITEM -->                                                              
+                                  <!-- ITEM -->
+                                  <div class="item-isotope occasion">
+                                    <div class="gallery_item">
+                                        <a href="images/gallery/page/oc1.jpg" class="mfp-image">
+                                            <img src="images/gallery/page/oc1.jpg" alt="" style="height:180px;width:250px">
+                                        </a>                                       
+                                    </div>
+                                </div>
+                                <!-- END / ITEM -->
+                                 <!-- ITEM -->
+                                 <div class="item-isotope occasion">
+                                    <div class="gallery_item">
+                                        <a href="images/gallery/page/oc2.jpg" class="mfp-image">
+                                            <img src="images/gallery/page/oc2.jpg" alt="" style="height:180px;width:250px">
+                                        </a>                                       
+                                    </div>
+                                </div>
+                                <!-- END / ITEM -->
+                                 <!-- ITEM -->
+                                 <div class="item-isotope occasion">
+                                    <div class="gallery_item">
+                                        <a href="images/gallery/page/oc3.jpg" class="mfp-image">
+                                            <img src="images/gallery/page/oc3.jpg" alt="" style="height:180px;width:250px">
+                                        </a>                                       
+                                    </div>
+                                </div>
+                                <!-- END / ITEM -->
+                                 <!-- ITEM -->
+                                 <div class="item-isotope occasion">
+                                    <div class="gallery_item">
+                                        <a href="images/gallery/page/oc4.jpg" class="mfp-image">
+                                            <img src="images/gallery/page/oc4.jpg" alt="" style="height:180px;width:250px">
+                                        </a>                                       
+                                    </div>
+                                </div>
+                                <!-- END / ITEM -->
+                                 <!-- ITEM -->
+                                 <div class="item-isotope occasion">
+                                    <div class="gallery_item">
+                                        <a href="images/gallery/page/oc5.jpg" class="mfp-image">
+                                            <img src="images/gallery/page/oc5.jpg" alt="" style="height:180px;width:250px">
+                                        </a>                                       
+                                    </div>
+                                </div>
+                                <!-- END / ITEM -->
+                                 <!-- ITEM -->
+                                 <div class="item-isotope occasion">
+                                    <div class="gallery_item">
+                                        <a href="images/gallery/page/oc6.jpg" class="mfp-image">
+                                            <img src="images/gallery/page/oc6.jpg" alt="" style="height:180px;width:250px">
+                                        </a>                                       
+                                    </div>
+                                </div>
+                                <!-- END / ITEM -->
+                                 <!-- ITEM -->
+                                 <div class="item-isotope occasion">
+                                    <div class="gallery_item">
+                                        <a href="images/gallery/page/oc7.jpg" class="mfp-image">
+                                            <img src="images/gallery/page/oc7.jpg" alt="" style="height:180px;width:250px">
+                                        </a>                                       
+                                    </div>
+                                </div>
+                                <!-- END / ITEM -->
+                                 <!-- ITEM -->
+                                 <div class="item-isotope occasion">
+                                    <div class="gallery_item">
+                                        <a href="images/gallery/page/oc8.jpg" class="mfp-image">
+                                            <img src="images/gallery/page/oc8.jpg" alt="" style="height:180px;width:250px">
+                                        </a>                                       
+                                    </div>
+                                </div>
+                                <!-- END / ITEM -->
+                                 <!-- ITEM -->
+                                 <div class="item-isotope occasion">
+                                    <div class="gallery_item">
+                                        <a href="images/gallery/page/oc9.jpg" class="mfp-image">
+                                            <img src="images/gallery/page/oc9.jpg" alt="" style="height:180px;width:250px">
+                                        </a>                                       
+                                    </div>
+                                </div>
+                                <!-- END / ITEM -->
+                                 <!-- ITEM -->
+                                 <div class="item-isotope occasion">
+                                    <div class="gallery_item">
+                                        <a href="images/gallery/page/oc10.jpg" class="mfp-image">
+                                            <img src="images/gallery/page/oc10.jpg" alt="" style="height:180px;width:250px">
+                                        </a>                                       
+                                    </div>
+                                </div>
+                                <!-- END / ITEM -->
+                                 <!-- ITEM -->
+                                 <div class="item-isotope occasion">
+                                    <div class="gallery_item">
+                                        <a href="images/gallery/page/oc11.jpg" class="mfp-image">
+                                            <img src="images/gallery/page/oc11.jpg" alt="" style="height:180px;width:250px">
+                                        </a>                                       
+                                    </div>
+                                </div>
+                                <!-- END / ITEM -->
+                                 <!-- ITEM -->
+                                 <div class="item-isotope occasion">
+                                    <div class="gallery_item">
+                                        <a href="images/gallery/page/oc12.jpg" class="mfp-image">
+                                            <img src="images/gallery/page/oc12.jpg" alt="" style="height:180px;width:250px">
+                                        </a>                                       
+                                    </div>
+                                </div>
+                                <!-- END / ITEM -->
                             </div>
                         </div>
 
