@@ -31,9 +31,10 @@
         <section class="section-slider">
         <div class="home-slider">
             <ul class="rslides" id="slider1">
-                <li><img src="images/slider/img-11.jpg" alt="slide1"></li>                                    
+                <li><img src="images/slider/img-11.jpg" alt="slide1"></li> 
+                <li><img src="images/slider/img-12.jpg" alt="slide3"></li>                                    
                 <li><img src="images/slider/img-2.jpg" alt="slide2"></li> 
-                <li><img src="images/slider/img-3.jpg" alt="slide2"></li>           
+                          
             </ul>
         </div>
         </section>
@@ -74,7 +75,7 @@
                                     <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
                                         <div class="item room-item-style-2 mb30 text-center">
                                             <div class="outer">
-                                                <a href="room1.php"><img class="img-responsive img-full" src="images/home-3/room/room-4.png" alt="Premium Valley View Rooms in shimla" style="height:400px"></a>
+                                                <a href="room1.php"><img class="img-responsive img-full" src="images/home-3/room/room-4.jpg" alt="Premium Valley View Rooms in shimla" style="height:400px"></a>
                                                 <div class="bgr pt20 pb20">
                                                     <div class="details">
                                                         <h2 class="title upper"><a href="room1.php">Deluxe room</a></h2>
@@ -90,7 +91,7 @@
                                     <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
                                         <div class="item room-item-style-2 mb30 text-center">
                                             <div class="outer">
-                                                <a href="room2.php"><img class="img-responsive img-full" src="images/home-3/room/room-1.png" alt="Luxury Valley View Rooms Hotel aranyavilas" style="height:400px"></a>
+                                                <a href="room2.php"><img class="img-responsive img-full" src="images/home-3/room/room-1.jpg" alt="Luxury Valley View Rooms Hotel aranyavilas" style="height:400px"></a>
                                                 <div class="bgr pt20 pb20">
                                                     <div class="details">
                                                         <h2 class="title upper"><a href="room2.php">Super deluxe valley view room</a></h2>
@@ -106,7 +107,7 @@
                                     <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
                                         <div class="item room-item-style-2 mb30 text-center">
                                             <div class="outer">
-                                            <a href="room3.php"><img class="img-responsive img-full" src="images/home-3/room/room-2.png" alt="Honeymoon valley view room shimla hotel" style="height:400px"></a>
+                                            <a href="room3.php"><img class="img-responsive img-full" src="images/home-3/room/room-2.jpg" alt="Honeymoon valley view room shimla hotel" style="height:400px"></a>
                                                 <div class="bgr pt20 pb20">
                                                     <div class="details">
                                                         <h2 class="title upper"><a href="room3.php">Premium valley view a/c room</a></h2>
@@ -124,7 +125,7 @@
                                     <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
                                         <div class="item room-item-style-2 mb30 text-center">
                                             <div class="outer">
-                                                <a href="room1.php"><img class="img-responsive img-full" src="images/home-3/room/room-4.png" alt="Super Deluxe Valley View Room In Shimla" style="height:400px"></a>
+                                                <a href="room1.php"><img class="img-responsive img-full" src="images/home-3/room/room-4.jpg" alt="Super Deluxe Valley View Room In Shimla" style="height:400px"></a>
                                                 <div class="bgr pt20 pb20">
                                                     <div class="details">
                                                         <h2 class="title upper"><a href="room1.php">Deluxe room</a></h2>
@@ -140,7 +141,7 @@
                                     <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
                                         <div class="item room-item-style-2 mb30 text-center">
                                             <div class="outer">
-                                                <a href="room2.php"><img class="img-responsive img-full" src="images/home-3/room/room-1.png" alt="Luxury Valley View Rooms Hotel aranyavilas" style="height:400px"></a>
+                                                <a href="room2.php"><img class="img-responsive img-full" src="images/home-3/room/room-1.jpg" alt="Luxury Valley View Rooms Hotel aranyavilas" style="height:400px"></a>
                                                 <div class="bgr pt20 pb20">
                                                     <div class="details">
                                                         <h2 class="title upper"><a href="room2.php">Super deluxe valley view room</a></h2>
@@ -156,7 +157,7 @@
                                     <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
                                         <div class="item room-item-style-2 mb30 text-center">
                                             <div class="outer">
-                                                <a href="room3.php"><img class="img-responsive img-full" src="images/home-3/room/room-2.png" alt="Super Deluxe Valley View Room In Shimla" style="height:400px"></a>
+                                                <a href="room3.php"><img class="img-responsive img-full" src="images/home-3/room/room-2.jpg" alt="Super Deluxe Valley View Room In Shimla" style="height:400px"></a>
                                                 <div class="bgr pt20 pb20">
                                                     <div class="details">
                                                         <h2 class="title upper"><a href="room3.php">Premium valley view a/c room</a></h2>

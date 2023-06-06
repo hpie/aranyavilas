@@ -58,7 +58,7 @@
 
                         <div class="img owl-single">
                             <img src="images/home/about/img-3.jpg" alt="">
-                            <img src="images/about/img-1.jpg" alt="">
+                            <!-- <img src="images/about/img-1.jpg" alt=""> -->
                         </div>
 
                         <div class="text">
@@ -67,7 +67,6 @@
                                 <p>ARANYA VILAS nestled amidst nature in Shoghi, a small suburb of Shimla town, Himachal Pradesh - India. Shoghi is a mall hill station which is merely 13 kms before Shimla. This place is for all those who would love to connect with nature, explore countryside life, enjoy mesmerizing sunrise and sunset view, jungle picnics, nature walks or just want a rejuvenating break from regular routine life. Our property is situated at one of the best scenic location of Shoghi, away from the hustle bustle of city life. All rooms are airy, sunny and spacious, equipped fully with all modern facilities and amenities.</p><br>
                             </div>
                         </div>
-
                     </div>
                     <!-- END / ITEM -->
 

@@ -63,6 +63,46 @@
                                 <div class="item-size"></div>
                                 <!-- END / ITEM SIZE -->  
                                 
+
+                                 <!-- ITEM -->
+                                 <div class="item-isotope room">
+                                    <div class="gallery_item">
+                                        <a href="images/room/room2/11.jpg" class="mfp-image">
+                                            <img src="images/room/room2/11.jpg" alt="" style="height:180px;width:250px">
+                                        </a>                                       
+                                    </div>
+                                </div>
+                                <!-- END / ITEM -->
+                                <!-- ITEM -->
+                                <div class="item-isotope room">
+                                    <div class="gallery_item">
+                                        <a href="images/room/room2/12.jpg" class="mfp-image">
+                                            <img src="images/room/room2/12.jpg" alt="" style="height:180px;width:250px">
+                                        </a>                                       
+                                    </div>
+                                </div>
+                                <!-- END / ITEM -->
+                                <!-- ITEM -->
+                                <div class="item-isotope room">
+                                    <div class="gallery_item">
+                                        <a href="images/room/room2/13.jpg" class="mfp-image">
+                                            <img src="images/room/room2/13.jpg" alt="" style="height:180px;width:250px">
+                                        </a>                                       
+                                    </div>
+                                </div>
+                                <!-- END / ITEM -->
+                                <!-- ITEM -->
+                                <div class="item-isotope room">
+                                    <div class="gallery_item">
+                                        <a href="images/room/room2/14.jpg" class="mfp-image">
+                                            <img src="images/room/room2/14.jpg" alt="" style="height:180px;width:250px">
+                                        </a>                                       
+                                    </div>
+                                </div>
+                                <!-- END / ITEM -->
+
+
+
                                  <!-- ITEM -->
                                  <div class="item-isotope room">
                                     <div class="gallery_item">

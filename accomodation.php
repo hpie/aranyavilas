@@ -95,9 +95,9 @@
 
                         <!-- ITEM -->
                         <div class="col-xs-6">
-                            <div class="room_item-5" data-background='images/home-3/room/room-2.png'>
+                            <div class="room_item-5" data-background='images/home-3/room/room-2.jpg'>
                                 <div class="img">
-                                    <a href="room3.php"><img src="images/home-3/room/room-2.png" alt="Luxury Valley View Rooms Hotel aranyavilas"></a>
+                                    <a href="room3.php"><img src="images/home-3/room/room-2.jpg" alt="Luxury Valley View Rooms Hotel aranyavilas"></a>
                                 </div>
                                 <div class="room_item-forward">
                                     <h2><a href="room3.php">Premium valley view a/c room</a></h2>
