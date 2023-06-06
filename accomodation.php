@@ -53,10 +53,10 @@
                         <div class="col-xs-6">
                             <div class="room_item-5" data-background='images/home-3/room/room-4.png'>
                                 <div class="img">
-                                    <a href="gallery.php"><img src="images/home-3/room/room-3.png" alt="Premium Valley View Rooms in shimla"></a>
+                                    <a href="room1.php"><img src="images/home-3/room/room-3.png" alt="Premium Valley View Rooms in shimla"></a>
                                 </div>
                                 <div class="room_item-forward">
-                                    <h2><a href="gallery.php">Deluxe room</a></h2>
+                                    <h2><a href="room1.php">Deluxe room</a></h2>
                                     <!-- <span class="price">Start form $120 per day</span> -->
                                 </div>
                                 <div class="room_item-back">
@@ -65,7 +65,7 @@
                                     <p>
                                         Step into our Deluxe Rooms and be greeted by an ambiance of elegance and sophistication. Impeccably designed with tasteful decor and modern amenities, these rooms provide a sanctuary where you can unwind and rejuvenate after a day of exploring the charming hill station.
                                     </p>
-                                    <a href="gallery.php" class="awe-btn awe-btn-13">VIEW DETAILS</a>
+                                    <a href="room1.php" class="awe-btn awe-btn-13">VIEW DETAILS</a>
                                 </div>
                             </div>
                         </div>
@@ -75,10 +75,10 @@
                         <div class="col-xs-6">
                             <div class="room_item-5" data-background='images/home-3/room/room-1.png'>
                                 <div class="img">
-                                    <a href="gallery.php"><img src="images/home-3/room/room-1.png" alt="Honeymoon valley view room shimla hotel"></a>
+                                    <a href="room2.php"><img src="images/home-3/room/room-1.png" alt="Honeymoon valley view room shimla hotel"></a>
                                 </div>
                                 <div class="room_item-forward">
-                                    <h2><a href="gallery.php">Super deluxe valley view room</a></h2>
+                                    <h2><a href="room2.php">Super deluxe valley view room</a></h2>
                                     <!-- <span class="price">Start form $120 per day</span> -->
                                 </div>
                                 <div class="room_item-back">
@@ -87,7 +87,7 @@
                                     <p>
                                         Book your stay in our Valley View Rooms and let the breathtaking vistas become an integral part of your stay, leaving you refreshed, inspired, and connected to the natural wonders that surround us.
                                     </p>
-                                    <a href="gallery.php" class="awe-btn awe-btn-13">VIEW DETAILS</a>
+                                    <a href="room2.php" class="awe-btn awe-btn-13">VIEW DETAILS</a>
                                 </div>            
                             </div>
                         </div>
@@ -97,10 +97,10 @@
                         <div class="col-xs-6">
                             <div class="room_item-5" data-background='images/home-3/room/room-2.png'>
                                 <div class="img">
-                                    <a href="gallery.php"><img src="images/home-3/room/room-2.png" alt="Luxury Valley View Rooms Hotel aranyavilas"></a>
+                                    <a href="room3.php"><img src="images/home-3/room/room-2.png" alt="Luxury Valley View Rooms Hotel aranyavilas"></a>
                                 </div>
                                 <div class="room_item-forward">
-                                    <h2><a href="gallery.php">Premium valley view a/c room</a></h2>
+                                    <h2><a href="room3.php">Premium valley view a/c room</a></h2>
                                     <!-- <span class="price">Start form $120 per day</span> -->
                                 </div>
                                 <div class="room_item-back">
@@ -109,7 +109,7 @@
                                     <p>
                                         Indulge in the serene beauty of nature from the comfort of our Valley View Rooms. Offering breathtaking panoramic vistas of the surrounding valleys, our rooms are designed to provide you with a truly immersive and unforgettable experience.
                                     </p>
-                                    <a href="gallery.php" class="awe-btn awe-btn-13">VIEW DETAILS</a>
+                                    <a href="room3.php" class="awe-btn awe-btn-13">VIEW DETAILS</a>
                                 </div>
                             </div>
                         </div>
@@ -120,11 +120,11 @@
                             <div class="room_item-5"  data-background='images/home-3/room/room-5.png'>
 
                                 <div class="img">
-                                    <a href="gallery.php"><img src="images/home-3/room/room-5.png" alt="Honeymoon valley view room shimla hotel"></a>
+                                    <a href="room4.php"><img src="images/home-3/room/room-5.png" alt="Honeymoon valley view room shimla hotel"></a>
                                 </div>
 
                                 <div class="room_item-forward">
-                                    <h2><a href="gallery.php">special occasion</a></h2>
+                                    <h2><a href="room4.php">special occasion</a></h2>
                                     <!-- <span class="price">Start form $120 per day</span> -->
                                 </div>
 
@@ -134,7 +134,7 @@
                                     <p>
                                     Our hotel offers an intimate and cozy atmosphere, perfect for small gatherings and special moments.
                                     </p>
-                                    <a href="gallery.php" class="awe-btn awe-btn-13">VIEW DETAILS</a>
+                                    <a href="room4.php" class="awe-btn awe-btn-13">VIEW DETAILS</a>
                                 </div>
 
                             </div>

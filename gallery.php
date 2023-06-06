@@ -261,8 +261,8 @@
                                   <!-- ITEM -->
                                   <div class="item-isotope exterior">
                                     <div class="gallery_item">
-                                    <a href="images/gallery/page/ex6.jpg" class="mfp-image">
-                                            <img src="images/gallery/page/ex6.jpg" alt="" style="height:180px;width:250px">
+                                    <a href="images/gallery/page/ex6.webp" class="mfp-image">
+                                            <img src="images/gallery/page/ex6.webp" alt="" style="height:180px;width:250px">
                                         </a>                                       
                                     </div>
                                 </div>
@@ -270,8 +270,8 @@
                                   <!-- ITEM -->
                                   <div class="item-isotope exterior">
                                     <div class="gallery_item">
-                                    <a href="images/gallery/page/ex7.jpg" class="mfp-image">
-                                            <img src="images/gallery/page/ex7.jpg" alt="" style="height:180px;width:250px">
+                                    <a href="images/gallery/page/ex7.webp" class="mfp-image">
+                                            <img src="images/gallery/page/ex7.webp" alt="" style="height:180px;width:250px">
                                         </a>                                       
                                     </div>
                                 </div>
@@ -296,23 +296,23 @@
                                 <!-- END / ITEM -->    
                                 
                                   <!-- ITEM -->
-                                  <div class="item-isotope exterior">
+                                  <!-- <div class="item-isotope exterior">
                                     <div class="gallery_item">
                                     <a href="images/gallery/page/ex10.jpg" class="mfp-image">
                                             <img src="images/gallery/page/ex10.jpg" alt="" style="height:180px;width:250px">
                                         </a>                                       
                                     </div>
-                                </div>
+                                </div> -->
                                 <!-- END / ITEM -->    
 
                                   <!-- ITEM -->
-                                  <div class="item-isotope exterior">
+                                  <!-- <div class="item-isotope exterior">
                                     <div class="gallery_item">
                                     <a href="images/gallery/page/ex11.jpg" class="mfp-image">
                                             <img src="images/gallery/page/ex11.jpg" alt="" style="height:180px;width:250px">
                                         </a>                                       
                                     </div>
-                                </div>
+                                </div> -->
                                 <!-- END / ITEM -->    
 
                                   <!-- ITEM -->

@@ -52,7 +52,7 @@
     content: "";
     display: block;
     width: 540px;
-    background-image: url("images/slider-overlay.png");
+    /* background-image: url("images/slider-overlay.png"); */
     background-repeat: no-repeat;
     background-position: top left;
     background-size: 100%;

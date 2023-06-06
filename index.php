@@ -32,7 +32,8 @@
         <div class="home-slider">
             <ul class="rslides" id="slider1">
                 <li><img src="images/slider/img-11.jpg" alt="slide1"></li>                                    
-                <li><img src="images/slider/img-12.jpg" alt="slide2"></li>           
+                <li><img src="images/slider/img-2.jpg" alt="slide2"></li> 
+                <li><img src="images/slider/img-3.jpg" alt="slide2"></li>           
             </ul>
         </div>
         </section>
@@ -73,13 +74,13 @@
                                     <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
                                         <div class="item room-item-style-2 mb30 text-center">
                                             <div class="outer">
-                                                <a href="gallery.php"><img class="img-responsive img-full" src="images/home-3/room/room-4.png" alt="Premium Valley View Rooms in shimla" style="height:400px"></a>
+                                                <a href="room1.php"><img class="img-responsive img-full" src="images/home-3/room/room-4.png" alt="Premium Valley View Rooms in shimla" style="height:400px"></a>
                                                 <div class="bgr pt20 pb20">
                                                     <div class="details">
-                                                        <h2 class="title upper"><a href="gallery.php">Deluxe room</a></h2>
+                                                        <h2 class="title upper"><a href="room1.php">Deluxe room</a></h2>
                                                         <div class="info">
                                                             <p class="mt20 mb40">Step into our Deluxe Rooms and be greeted by an ambiance of elegance and sophistication. Impeccably designed with tasteful decor and modern amenities, these rooms provide a sanctuary where you can unwind and rejuvenate after a day of exploring the charming hill station.</p>
-                                                            <a class="awe-btn awe-btn-12 btn-medium font-hind bold f12" href="gallery.php">Click here</a>
+                                                            <a class="awe-btn awe-btn-12 btn-medium font-hind bold f12" href="room1.php">Click here</a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -89,13 +90,13 @@
                                     <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
                                         <div class="item room-item-style-2 mb30 text-center">
                                             <div class="outer">
-                                                <a href="gallery.php"><img class="img-responsive img-full" src="images/home-3/room/room-1.png" alt="Luxury Valley View Rooms Hotel aranyavilas" style="height:400px"></a>
+                                                <a href="room2.php"><img class="img-responsive img-full" src="images/home-3/room/room-1.png" alt="Luxury Valley View Rooms Hotel aranyavilas" style="height:400px"></a>
                                                 <div class="bgr pt20 pb20">
                                                     <div class="details">
-                                                        <h2 class="title upper"><a href="gallery.php">Super deluxe valley view room</a></h2>
+                                                        <h2 class="title upper"><a href="room2.php">Super deluxe valley view room</a></h2>
                                                         <div class="info">
                                                             <p class="mt20 mb40">Book your stay in our Valley View Rooms and let the breathtaking vistas become an integral part of your stay, leaving you refreshed, inspired, and connected to the natural wonders that surround us.</p>
-                                                            <a class="awe-btn awe-btn-12 btn-medium font-hind bold f12" href="gallery.php">Click here</a>
+                                                            <a class="awe-btn awe-btn-12 btn-medium font-hind bold f12" href="room2.php">Click here</a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -105,13 +106,13 @@
                                     <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
                                         <div class="item room-item-style-2 mb30 text-center">
                                             <div class="outer">
-                                            <a href="gallery.php"><img class="img-responsive img-full" src="images/home-3/room/room-2.png" alt="Honeymoon valley view room shimla hotel" style="height:400px"></a>
+                                            <a href="room3.php"><img class="img-responsive img-full" src="images/home-3/room/room-2.png" alt="Honeymoon valley view room shimla hotel" style="height:400px"></a>
                                                 <div class="bgr pt20 pb20">
                                                     <div class="details">
-                                                        <h2 class="title upper"><a href="gallery.php">Premium valley view a/c room</a></h2>
+                                                        <h2 class="title upper"><a href="room3.php">Premium valley view a/c room</a></h2>
                                                         <div class="info">
                                                             <p class="mt20 mb40">Indulge in the serene beauty of nature from the comfort of our Valley View Rooms. Offering breathtaking panoramic vistas of the surrounding valleys, our rooms are designed to provide you with a truly immersive and unforgettable experience.</p>
-                                                            <a class="awe-btn awe-btn-12 btn-medium font-hind bold f12" href="gallery.php">Click here</a>
+                                                            <a class="awe-btn awe-btn-12 btn-medium font-hind bold f12" href="room3.php">Click here</a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -123,13 +124,13 @@
                                     <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
                                         <div class="item room-item-style-2 mb30 text-center">
                                             <div class="outer">
-                                                <a href="#"><img class="img-responsive img-full" src="images/home-3/room/room-4.png" alt="Super Deluxe Valley View Room In Shimla" style="height:400px"></a>
+                                                <a href="room1.php"><img class="img-responsive img-full" src="images/home-3/room/room-4.png" alt="Super Deluxe Valley View Room In Shimla" style="height:400px"></a>
                                                 <div class="bgr pt20 pb20">
                                                     <div class="details">
-                                                        <h2 class="title upper"><a href="gallery.php">Deluxe room</a></h2>
+                                                        <h2 class="title upper"><a href="room1.php">Deluxe room</a></h2>
                                                         <div class="info">
                                                             <p class="mt20 mb40">Step into our Deluxe Rooms and be greeted by an ambiance of elegance and sophistication. Impeccably designed with tasteful decor and modern amenities, these rooms provide a sanctuary where you can unwind and rejuvenate after a day of exploring the charming hill station.</p>
-                                                            <a class="awe-btn awe-btn-12 btn-medium font-hind bold f12" href="gallery.php">Click here</a>
+                                                            <a class="awe-btn awe-btn-12 btn-medium font-hind bold f12" href="room1.php">Click here</a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -139,13 +140,13 @@
                                     <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
                                         <div class="item room-item-style-2 mb30 text-center">
                                             <div class="outer">
-                                                <a href="#"><img class="img-responsive img-full" src="images/home-3/room/room-1.png" alt="Luxury Valley View Rooms Hotel aranyavilas" style="height:400px"></a>
+                                                <a href="room2.php"><img class="img-responsive img-full" src="images/home-3/room/room-1.png" alt="Luxury Valley View Rooms Hotel aranyavilas" style="height:400px"></a>
                                                 <div class="bgr pt20 pb20">
                                                     <div class="details">
-                                                        <h2 class="title upper"><a href="gallery.php">Super deluxe valley view room</a></h2>
+                                                        <h2 class="title upper"><a href="room2.php">Super deluxe valley view room</a></h2>
                                                         <div class="info">
                                                             <p class="mt20 mb40">Book your stay in our Valley View Rooms and let the breathtaking vistas become an integral part of your stay, leaving you refreshed, inspired, and connected to the natural wonders that surround us.</p>
-                                                            <a class="awe-btn awe-btn-12 btn-medium font-hind bold f12" href="gallery.php">Click here</a>
+                                                            <a class="awe-btn awe-btn-12 btn-medium font-hind bold f12" href="room2.php">Click here</a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -155,13 +156,13 @@
                                     <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
                                         <div class="item room-item-style-2 mb30 text-center">
                                             <div class="outer">
-                                                <a href="#"><img class="img-responsive img-full" src="images/home-3/room/room-2.png" alt="Super Deluxe Valley View Room In Shimla" style="height:400px"></a>
+                                                <a href="room3.php"><img class="img-responsive img-full" src="images/home-3/room/room-2.png" alt="Super Deluxe Valley View Room In Shimla" style="height:400px"></a>
                                                 <div class="bgr pt20 pb20">
                                                     <div class="details">
-                                                        <h2 class="title upper"><a href="gallery.php">Premium valley view a/c room</a></h2>
+                                                        <h2 class="title upper"><a href="room3.php">Premium valley view a/c room</a></h2>
                                                         <div class="info">
                                                             <p class="mt20 mb40">Indulge in the serene beauty of nature from the comfort of our Valley View Rooms. Offering breathtaking panoramic vistas of the surrounding valleys, our rooms are designed to provide you with a truly immersive and unforgettable experience.</p>
-                                                            <a class="awe-btn awe-btn-12 btn-medium font-hind bold f12" href="gallery.php">Click here</a>
+                                                            <a class="awe-btn awe-btn-12 btn-medium font-hind bold f12" href="room3.php">Click here</a>
                                                         </div>
                                                     </div>
                                                 </div>
