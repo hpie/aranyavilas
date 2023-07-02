@@ -16,11 +16,11 @@
                      </div>
                      <div class="item text-center ourbest">
                          <img class="img-responsive mb10" src="images/home-3/icon/icon-12.png" alt="icon">
-                         <span class="font-hind f-500">Car Packing</span>
+                         <span class="font-hind f-500">Car Parking</span>
                      </div>
                      <div class="item text-center ourbest">
                          <img class="img-responsive mb10" src="images/home-3/icon/icon-13.png" alt="icon">
-                         <span class="font-hind f-500">Service Room</span>
+                         <span class="font-hind f-500">Room service</span>
                      </div>
                      <div class="item text-center ourbest">
                          <img class="img-responsive mb10" src="images/home-3/icon/icon-14.png" alt="icon">
@@ -31,17 +31,17 @@
                          <span class="font-hind f-500">Luggage</span>
                      </div>
                      <div class="item text-center ourbest">
-                         <img class="img-responsive mb10" src="images/home-3/icon/icon-12.png" alt="icon">
-                         <span class="font-hind f-500">Car Packing</span>
-                     </div>
-                     <div class="item text-center ourbest">
-                         <img class="img-responsive mb10" src="images/home-3/icon/icon-13.png" alt="icon">
-                         <span class="font-hind f-500">Service Room</span>
-                     </div>
-                     <div class="item text-center ourbest">
                          <img class="img-responsive mb10" src="images/home-3/icon/icon-11.png" alt="icon">
                          <span class="font-hind f-500">Free Wifi</span>
                      </div>
+                     <div class="item text-center ourbest">
+                         <img class="img-responsive mb10" src="images/home-3/icon/icon-12.png" alt="icon">
+                         <span class="font-hind f-500">Car Parking</span>
+                     </div>
+                     <div class="item text-center ourbest">
+                         <img class="img-responsive mb10" src="images/home-3/icon/icon-13.png" alt="icon">
+                         <span class="font-hind f-500">Room Service</span>
+                     </div>                     
                      <div class="item text-center ourbest">
                          <img class="img-responsive mb10" src="images/home-3/icon/icon-14.png" alt="icon">
                          <span class="font-hind f-500">Air Conditioner</span>

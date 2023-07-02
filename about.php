@@ -80,7 +80,7 @@
                         <div class="">
                             <h2 class="heading">WHY GUEST CHOOSE ARANYA VILAS?</h2>
                             <div class="desc">
-                                <p>Welcome to aranya vilas, where we strive to provide an exceptional experience for every guest. Here are a few reasons why guest choose our hotel for stay:</p>
+                                <p>Welcome to Aranya vilas, where we strive to provide an exceptional experience for every guest. Here are a few reasons why guest choose our hotel for stay:</p>
                                 <p><strong>Prime Location:</strong> Situated in the heart of Shimla Shoghi, our hotel offers easy access to popular attractions, shopping centers, and business districts. Whether you're here for leisure or business, our convenient location ensures you're never far from where you need to be.
                                 <p><strong>Comfortable Accommodations:</strong> Our well-appointed rooms are designed with your comfort in mind. From plush bedding to modern amenities, we ensure that every aspect of your stay is relaxing and enjoyable. Experience a true home away from home.</p>
                                 <p><strong>Outstanding Service:</strong> Our dedicated staff is committed to providing top-notch service and personalized attention. From the moment you step through our doors, our friendly team will go above and beyond to meet your needs, ensuring a memorable and hassle-free stay.</p>

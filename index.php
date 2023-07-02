@@ -279,13 +279,13 @@
                                         </a>
                                     </div>
                                 </div>
-                                <div class="event-item">
+                                <!-- <div class="event-item">
                                     <div class="img hover-zoom">
                                         <a href="#">
                                             <img src="images/home/eventdeal/img-5.jpg" alt="special events aranyavilas">
                                         </a>
                                     </div>
-                                </div>
+                                </div> -->
                                 <div class="event-item">
                                     <div class="img hover-zoom">
                                         <a href="#">

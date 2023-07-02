@@ -51,7 +51,7 @@
         </div>
         <div class="copyright">
             <div class="container">
-                <p class="left inline-block f14">Copyright &copy; 2019 aranyavilas</p>
+                <p class="left inline-block f14">Copyright &copy; 2019 Aranyavilas</p>
                 <div class="payment pull-right inline-block">
                     <div class="text">
                         <a class="mr20" href="https://www.facebook.com/Aranyavilas/"><i class="fa fa-facebook f20"></i></a>
