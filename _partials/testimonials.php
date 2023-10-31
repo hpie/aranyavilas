@@ -64,14 +64,7 @@
                                 <img src="images/testimonials/1.jpg" alt="aranyavilas testimonial" style="height:400px;width:200px">
                              </div>
                          </div>
-                         <!-- END / ITEM -->
-                         <!-- ITEM -->
-                         <div class="accomd-modations-room_1 testimonials">
-                             <div class="img">
-                             <img src="images/testimonials/2.jpg" alt="aranyavilas testimonial" style="height:400px;width:200px">
-                             </div>
-                         </div>
-                         <!-- END / ITEM -->
+                         <!-- END / ITEM -->                         
                          <!-- ITEM -->
                          <div class="accomd-modations-room_1 testimonials">
                              <div class="img">
