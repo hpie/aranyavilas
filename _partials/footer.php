@@ -22,6 +22,7 @@
                             <div class="text">
                                 <p><i class="lotus-icon-location mr10"></i> Aranyavilas Shoghi Shoghi-Anandpur road</p>
                                 <p><i class="lotus-icon-phone mr10"></i> +91-9857008200</p>
+                                <p><i class="fa fa-envelope-o mr10"></i> <a href="mailto:manjushaesa@gmail.com">manjushaesa@gmail.com</a></p>
                                 <p><i class="fa fa-envelope-o mr10"></i> <a href="mailto:info@aranyavilas.com">info@aranyavilas.com</a></p>
                             </div>
                         </div>
